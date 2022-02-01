@@ -1,0 +1,7829 @@
+{
+"films" : [
+  {
+    "title": "A Nymph of the Waves",
+    "year": 1900,
+    "id": 1
+  },
+  {
+    "title": "The Ghost Train",
+    "year": 1901,
+    "id": 2
+  },
+  {
+    "title": "Star Theatre",
+    "year": 1901,
+    "id": 3
+  },
+  {
+    "title": "Le cake-walk infernal",
+    "year": 1903,
+    "id": 4
+  },
+  {
+    "title": "Down the Hudson",
+    "year": 1903,
+    "id": 5
+  },
+  {
+    "title": "Interior NY Subway, 14th Street to 42nd Street",
+    "year": 1905,
+    "id": 6
+  },
+  {
+    "title": "The '?' Motorist",
+    "year": 1906,
+    "id": 7
+  },
+  {
+    "title": "Les Kiriki - Acrobates Japonaises",
+    "year": 1907,
+    "id": 8
+  },
+  {
+    "title": "Fantasmagorie",
+    "year": 1908,
+    "id": 9
+  },
+  {
+    "title": "The Hasher's Delerium",
+    "year": 1910,
+    "id": 10
+  },
+  {
+    "title": "The Automatic Moving Company",
+    "year": 1911,
+    "id": 11
+  },
+  {
+    "title": "A Chord of Color",
+    "year": 1911,
+    "id": 12
+  },
+  {
+    "title": "Study on the Effects of Four Colors",
+    "year": 1911,
+    "id": 13
+  },
+  {
+    "title": "Translation of Mallarmé's poem \"Flowers\" into Colors",
+    "year": 1911,
+    "id": 14
+  },
+  {
+    "title": "Translation of Mendelssohn's Spring Song",
+    "year": 1911,
+    "id": 15
+  },
+  {
+    "title": "The Dance",
+    "year": 1912,
+    "id": 16
+  },
+  {
+    "title": "The Rainbow",
+    "year": 1912,
+    "id": 17
+  },
+  {
+    "title": "Rythmes colorés (Coloured Rhythm)",
+    "year": 1913,
+    "id": 18
+  },
+  {
+    "title": "Suspense",
+    "year": 1913,
+    "id": 19
+  },
+  {
+    "title": "Drama in the Futurist's Cabinet No. 13",
+    "year": 1914,
+    "id": 20
+  },
+  {
+    "title": "La folie du Docteur Tube",
+    "year": 1915,
+    "id": 21
+  },
+  {
+    "title": "The Hypocrites",
+    "year": 1915,
+    "id": 22
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "year": 1915,
+    "id": 23
+  },
+  {
+    "title": "Diana the Huntress",
+    "year": 1916,
+    "id": 24
+  },
+  {
+    "title": "Intolerance",
+    "year": 1916,
+    "id": 25
+  },
+  {
+    "title": "The Strong Man",
+    "year": 1916,
+    "id": 26
+  },
+  {
+    "title": "Thaïs",
+    "year": 1917,
+    "id": 27
+  },
+  {
+    "title": "Vita futurista",
+    "year": 1917,
+    "id": 28
+  },
+  {
+    "title": "Âmes des fous",
+    "year": 1918,
+    "id": 29
+  },
+  {
+    "title": "The Blue Bird",
+    "year": 1918,
+    "id": 30
+  },
+  {
+    "title": "Nye dlya deneg radivshisya (Born Not for the Money)",
+    "year": 1918,
+    "id": 31
+  },
+  {
+    "title": "Il Perfido Incanto",
+    "year": 1918,
+    "id": 32
+  },
+  {
+    "title": "Prunella",
+    "year": 1918,
+    "id": 33
+  },
+  {
+    "title": "The Young Lady and the Hooligan",
+    "year": 1918,
+    "id": 34
+  },
+  {
+    "title": "The Fall of Babylon",
+    "year": 1919,
+    "id": 35
+  },
+  {
+    "title": "Rose-France",
+    "year": 1919,
+    "id": 36
+  },
+  {
+    "title": "Anywhere Out of the World",
+    "year": 1920,
+    "id": 37
+  },
+  {
+    "title": "Aphrodite",
+    "year": 1920,
+    "id": 38
+  },
+  {
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "id": 39
+  },
+  {
+    "title": "La Fête espagnole",
+    "year": 1920,
+    "id": 40
+  },
+  {
+    "title": "From Morn to Midnight",
+    "year": 1920,
+    "id": 41
+  },
+  {
+    "title": "Genuine",
+    "year": 1920,
+    "id": 42
+  },
+  {
+    "title": "Nude Woman by Waterfall",
+    "year": 1920,
+    "id": 43
+  },
+  {
+    "title": "Le silence",
+    "year": 1920,
+    "id": 44
+  },
+  {
+    "title": "The Soul of the Cypress",
+    "year": 1920,
+    "id": 45
+  },
+  {
+    "title": "El Dorado",
+    "year": 1921,
+    "id": 46
+  },
+  {
+    "title": "Fièvre",
+    "year": 1921,
+    "id": 47
+  },
+  {
+    "title": "Manhatta",
+    "year": 1921,
+    "id": 48
+  },
+  {
+    "title": "Opus 1",
+    "year": 1921,
+    "id": 49
+  },
+  {
+    "title": "Opus 2",
+    "year": 1921,
+    "id": 50
+  },
+  {
+    "title": "Rhythmus 21",
+    "year": 1921,
+    "id": 51
+  },
+  {
+    "title": "Danse macabre",
+    "year": 1922,
+    "id": 52
+  },
+  {
+    "title": "The Enchanted City",
+    "year": 1922,
+    "id": 53
+  },
+  {
+    "title": "La femme de nulle part",
+    "year": 1922,
+    "id": 54
+  },
+  {
+    "title": "Der Sieger",
+    "year": 1922,
+    "id": 55
+  },
+  {
+    "title": "Cœur fidèle",
+    "year": 1923,
+    "id": 56
+  },
+  {
+    "title": "Dnevnik Glumova (Glumov's Diary)",
+    "year": 1923,
+    "id": 57
+  },
+  {
+    "title": "L'ironie du Destin",
+    "year": 1923,
+    "id": 58
+  },
+  {
+    "title": "The Man Without Desire",
+    "year": 1923,
+    "id": 59
+  },
+  {
+    "title": "La mort du soleil",
+    "year": 1923,
+    "id": 60
+  },
+  {
+    "title": "Le Retour à la Raison",
+    "year": 1923,
+    "id": 61
+  },
+  {
+    "title": "La roue",
+    "year": 1923,
+    "id": 62
+  },
+  {
+    "title": "La Souriante Madame Beudet",
+    "year": 1923,
+    "id": 63
+  },
+  {
+    "title": "Paris qui dort",
+    "year": 1923,
+    "id": 64
+  },
+  {
+    "title": "Rhythmus 23",
+    "year": 1923,
+    "id": 65
+  },
+  {
+    "title": "Salomé",
+    "year": 1923,
+    "id": 66
+  },
+  {
+    "title": "Sea of Dreams",
+    "year": 1923,
+    "id": 67
+  },
+  {
+    "title": "The Adventures of Oktyabrina",
+    "year": 1924,
+    "id": 68
+  },
+  {
+    "title": "Aelita: Queen of Mars",
+    "year": 1924,
+    "id": 69
+  },
+  {
+    "title": "Ballet Mécanique",
+    "year": 1924,
+    "id": 70
+  },
+  {
+    "title": "Entr'acte",
+    "year": 1924,
+    "id": 71
+  },
+  {
+    "title": "The Fugitive Futurist",
+    "year": 1924,
+    "id": 72
+  },
+  {
+    "title": "L'Inhumaine",
+    "year": 1924,
+    "id": 73
+  },
+  {
+    "title": "Interplanetary Revolution",
+    "year": 1924,
+    "id": 74
+  },
+  {
+    "title": "Kino-Eye",
+    "year": 1924,
+    "id": 75
+  },
+  {
+    "title": "Opus III",
+    "year": 1924,
+    "id": 76
+  },
+  {
+    "title": "Au secours!",
+    "year": 1924,
+    "id": 77
+  },
+  {
+    "title": "Symphonie Diagonale",
+    "year": 1924,
+    "id": 78
+  },
+  {
+    "title": "Soviet Toys",
+    "year": 1924,
+    "id": 79
+  },
+  {
+    "title": "Les aventures de Robert Macaire",
+    "year": 1925,
+    "id": 80
+  },
+  {
+    "title": "Battleship Potemkin",
+    "year": 1925,
+    "id": 81
+  },
+  {
+    "title": "La fille de l'eau",
+    "year": 1925,
+    "id": 82
+  },
+  {
+    "title": "Jean Cocteau fait du cinéma",
+    "year": 1925,
+    "id": 83
+  },
+  {
+    "title": "KIPHO",
+    "year": 1925,
+    "id": 84
+  },
+  {
+    "title": "Lebende Buddhas",
+    "year": 1925,
+    "id": 85
+  },
+  {
+    "title": "Opus IV",
+    "year": 1925,
+    "id": 86
+  },
+  {
+    "title": "The Pottery Maker",
+    "year": 1925,
+    "id": 87
+  },
+  {
+    "title": "A Quoi revent les jeunes films?",
+    "year": 1925,
+    "id": 88
+  },
+  {
+    "title": "Rebus Film Nr. 1",
+    "year": 1925,
+    "id": 89
+  },
+  {
+    "title": "Rhythmus 25",
+    "year": 1925,
+    "id": 90
+  },
+  {
+    "title": "Strike",
+    "year": 1925,
+    "id": 91
+  },
+  {
+    "title": "Stromlinien",
+    "year": 1925,
+    "id": 92
+  },
+  {
+    "title": "The Way",
+    "year": 1925,
+    "id": 93
+  },
+  {
+    "title": "Anémic cinéma",
+    "year": 1926,
+    "id": 94
+  },
+  {
+    "title": "Cinq minutes de cinéma pur",
+    "year": 1926,
+    "id": 95
+  },
+  {
+    "title": "Jeux des reflets et de la vitesse",
+    "year": 1926,
+    "id": 96
+  },
+  {
+    "title": "Ménilmontant",
+    "year": 1926,
+    "id": 97
+  },
+  {
+    "title": "Filmstudie",
+    "year": 1926,
+    "id": 98
+  },
+  {
+    "title": "Moonland",
+    "year": 1926,
+    "id": 99
+  },
+  {
+    "title": "Mother",
+    "year": 1926,
+    "id": 100
+  },
+  {
+    "title": "A Page of Madness",
+    "year": 1926,
+    "id": 101
+  },
+  {
+    "title": "Raumlichtkunst series",
+    "year": 1926,
+    "id": 102
+  },
+  {
+    "title": "Rien que les heurs",
+    "year": 1926,
+    "id": 103
+  },
+  {
+    "title": "Secrets of a Soul",
+    "year": 1926,
+    "id": 104
+  },
+  {
+    "title": "A Sixth Part of the World",
+    "year": 1926,
+    "id": 105
+  },
+  {
+    "title": "Spirals",
+    "year": 1926,
+    "id": 106
+  },
+  {
+    "title": "Le voyage imaginaire",
+    "year": 1926,
+    "id": 107
+  },
+  {
+    "title": "Wax Experiments",
+    "year": 1926,
+    "id": 108
+  },
+  {
+    "title": "Bed and Sofa",
+    "year": 1927,
+    "id": 109
+  },
+  {
+    "title": "Berlin: Symphony of a Great City",
+    "year": 1927,
+    "id": 110
+  },
+  {
+    "title": "City Film",
+    "year": 1927,
+    "id": 111
+  },
+  {
+    "title": "Combat de Boxe",
+    "year": 1927,
+    "id": 112
+  },
+  {
+    "title": "Emak-Bakia",
+    "year": 1927,
+    "id": 113
+  },
+  {
+    "title": "The End of St. Petersburg",
+    "year": 1927,
+    "id": 114
+  },
+  {
+    "title": "La Glace à trois faces (The Three-Sided Mirror)",
+    "year": 1927,
+    "id": 115
+  },
+  {
+    "title": "Les Halles centrales",
+    "year": 1927,
+    "id": 116
+  },
+  {
+    "title": "L'invitation au voyage",
+    "year": 1927,
+    "id": 117
+  },
+  {
+    "title": "Die Landpartie",
+    "year": 1927,
+    "id": 118
+  },
+  {
+    "title": "Loony Lens",
+    "year": 1927,
+    "id": 119
+  },
+  {
+    "title": "La marche des machines",
+    "year": 1927,
+    "id": 120
+  },
+  {
+    "title": "München-Berlin Wanderung",
+    "year": 1927,
+    "id": 121
+  },
+  {
+    "title": "Napoléon",
+    "year": 1927,
+    "id": 122
+  },
+  {
+    "title": "Magic Umbrella",
+    "year": 1927,
+    "id": 123
+  },
+  {
+    "title": "Orgelstabe",
+    "year": 1927,
+    "id": 124
+  },
+  {
+    "title": "La p'tite Lili",
+    "year": 1927,
+    "id": 125
+  },
+  {
+    "title": "Prelude",
+    "year": 1927,
+    "id": 126
+  },
+  {
+    "title": "En rade",
+    "year": 1927,
+    "id": 127
+  },
+  {
+    "title": "Seelische Konstruktionen",
+    "year": 1927,
+    "id": 128
+  },
+  {
+    "title": "Sur un air de Charleston",
+    "year": 1927,
+    "id": 129
+  },
+  {
+    "title": "Le train sans yeux",
+    "year": 1927,
+    "id": 130
+  },
+  {
+    "title": "Vieux châteaux",
+    "year": 1927,
+    "id": 131
+  },
+  {
+    "title": "Wing Beat",
+    "year": 1927,
+    "id": 132
+  },
+  {
+    "title": "Your Acquaintance",
+    "year": 1927,
+    "id": 133
+  },
+  {
+    "title": "L'Argent",
+    "year": 1928,
+    "id": 134
+  },
+  {
+    "title": "Blue Bottles",
+    "year": 1928,
+    "id": 135
+  },
+  {
+    "title": "De Brug (The Bridge)",
+    "year": 1928,
+    "id": 136
+  },
+  {
+    "title": "Celles qui s'en font",
+    "year": 1928,
+    "id": 137
+  },
+  {
+    "title": "La chute de la maison Usher",
+    "year": 1928,
+    "id": 138
+  },
+  {
+    "title": "Disque 957",
+    "year": 1928,
+    "id": 139
+  },
+  {
+    "title": "The Eleventh Year",
+    "year": 1928,
+    "id": 140
+  },
+  {
+    "title": "L'Étoile de mer",
+    "year": 1928,
+    "id": 141
+  },
+  {
+    "title": "Ghosts Before Breakfast",
+    "year": 1928,
+    "id": 142
+  },
+  {
+    "title": "Grotesken im Schnee",
+    "year": 1928,
+    "id": 143
+  },
+  {
+    "title": "Hände",
+    "year": 1928,
+    "id": 144
+  },
+  {
+    "title": "Inflation",
+    "year": 1928,
+    "id": 145
+  },
+  {
+    "title": "Impatience",
+    "year": 1928,
+    "id": 146
+  },
+  {
+    "title": "In the Shadow of the Machine",
+    "year": 1928,
+    "id": 147
+  },
+  {
+    "title": "Johann the Coffin Maker",
+    "year": 1928,
+    "id": 148
+  },
+  {
+    "title": "Jûjiro",
+    "year": 1928,
+    "id": 149
+  },
+  {
+    "title": "The Last Moment",
+    "year": 1928,
+    "id": 150
+  },
+  {
+    "title": "The Life and Death of 9413 - A Hollywood Extra",
+    "year": 1928,
+    "id": 151
+  },
+  {
+    "title": "The Love of Zero",
+    "year": 1928,
+    "id": 152
+  },
+  {
+    "title": "Les nuits électriques",
+    "year": 1928,
+    "id": 153
+  },
+  {
+    "title": "October, a.k.a. Ten Days That Shook the World",
+    "year": 1928,
+    "id": 154
+  },
+  {
+    "title": "Le petite marchande d'alumettes",
+    "year": 1928,
+    "id": 155
+  },
+  {
+    "title": "Praha v zári svetel (Prague Shining in Lights)",
+    "year": 1928,
+    "id": 156
+  },
+  {
+    "title": "Rennsymphonie",
+    "year": 1928,
+    "id": 157
+  },
+  {
+    "title": "The Seashell and the Clergyman",
+    "year": 1928,
+    "id": 158
+  },
+  {
+    "title": "The Tell-Tale Heart",
+    "year": 1928,
+    "id": 159
+  },
+  {
+    "title": "Thèmes et Variations",
+    "year": 1928,
+    "id": 160
+  },
+  {
+    "title": "There It Is",
+    "year": 1928,
+    "id": 161
+  },
+  {
+    "title": "Twenty-Four Dollar Island",
+    "year": 1928,
+    "id": 162
+  },
+  {
+    "title": "Überfall",
+    "year": 1928,
+    "id": 163
+  },
+  {
+    "title": "The Fall of the House of Usher",
+    "year": 1928,
+    "id": 164
+  },
+  {
+    "title": "Koko's Earth Control",
+    "year": 1928,
+    "id": 165
+  },
+  {
+    "title": "Zvenigora",
+    "year": 1928,
+    "id": 166
+  },
+  {
+    "title": "Alles dreht sich, alles bewegt sich (Everything Turns, Everything Revolves)",
+    "year": 1929,
+    "id": 167
+  },
+  {
+    "title": "Arsenal",
+    "year": 1929,
+    "id": 168
+  },
+  {
+    "title": "The Bridge",
+    "year": 1929,
+    "id": 169
+  },
+  {
+    "title": "Brumes d'automne",
+    "year": 1929,
+    "id": 170
+  },
+  {
+    "title": "Dr Turner's Mental Home",
+    "year": 1929,
+    "id": 171
+  },
+  {
+    "title": "Drifters",
+    "year": 1929,
+    "id": 172
+  },
+  {
+    "title": "Étude cinégraphique sur une arabesque",
+    "year": 1929,
+    "id": 173
+  },
+  {
+    "title": "Every Day",
+    "year": 1929,
+    "id": 174
+  },
+  {
+    "title": "H2O",
+    "year": 1929,
+    "id": 175
+  },
+  {
+    "title": "Histoire de détective",
+    "year": 1929,
+    "id": 176
+  },
+  {
+    "title": "Images d'Ostende",
+    "year": 1929,
+    "id": 177
+  },
+  {
+    "title": "Impressionen vom alten Marseiller Hafen (Vieux Port)",
+    "year": 1929,
+    "id": 178
+  },
+  {
+    "title": "Lullaby",
+    "year": 1929,
+    "id": 179
+  },
+  {
+    "title": "Man with a Movie Camera",
+    "year": 1929,
+    "id": 180
+  },
+  {
+    "title": "Monkey's Moon",
+    "year": 1929,
+    "id": 181
+  },
+  {
+    "title": "Montparnasse",
+    "year": 1929,
+    "id": 182
+  },
+  {
+    "title": "My Grandmother",
+    "year": 1929,
+    "id": 183
+  },
+  {
+    "title": "Les Mystères du Château de Dé",
+    "year": 1929,
+    "id": 184
+  },
+  {
+    "title": "The New Babylon",
+    "year": 1929,
+    "id": 185
+  },
+  {
+    "title": "La Perle",
+    "year": 1929,
+    "id": 186
+  },
+  {
+    "title": "Pour vos beaux yeux",
+    "year": 1929,
+    "id": 187
+  },
+  {
+    "title": "Rain",
+    "year": 1929,
+    "id": 188
+  },
+  {
+    "title": "Skyscraper Symphony",
+    "year": 1929,
+    "id": 189
+  },
+  {
+    "title": "The Storming of La Sarraz",
+    "year": 1929,
+    "id": 190
+  },
+  {
+    "title": "Studie Nr. 1",
+    "year": 1929,
+    "id": 191
+  },
+  {
+    "title": "Tusalava",
+    "year": 1929,
+    "id": 192
+  },
+  {
+    "title": "Un Chien Andalou",
+    "year": 1929,
+    "id": 193
+  },
+  {
+    "title": "War Under the Sea",
+    "year": 1929,
+    "id": 194
+  },
+  {
+    "title": "L'Âge d'Or",
+    "year": 1930,
+    "id": 195
+  },
+  {
+    "title": "Autour de la fin du monde",
+    "year": 1930,
+    "id": 196
+  },
+  {
+    "title": "Apteka (Pharmacy)",
+    "year": 1930,
+    "id": 197
+  },
+  {
+    "title": "Aimless Walk",
+    "year": 1930,
+    "id": 198
+  },
+  {
+    "title": "Borderline",
+    "year": 1930,
+    "id": 199
+  },
+  {
+    "title": "A City Symphony",
+    "year": 1930,
+    "id": 200
+  },
+  {
+    "title": "Crying for the Carolines",
+    "year": 1930,
+    "id": 201
+  },
+  {
+    "title": "Earth",
+    "year": 1930,
+    "id": 202
+  },
+  {
+    "title": "It's a Bird",
+    "year": 1930,
+    "id": 203
+  },
+  {
+    "title": "Ein Lichtspiel: Schwarz/Weiss/Grau",
+    "year": 1930,
+    "id": 204
+  },
+  {
+    "title": "Light Rhythms",
+    "year": 1930,
+    "id": 205
+  },
+  {
+    "title": "Mechanical Principles",
+    "year": 1930,
+    "id": 206
+  },
+  {
+    "title": "Mennschen am Sonntag (People on Sunday)",
+    "year": 1930,
+    "id": 207
+  },
+  {
+    "title": "The Power of Suggestion",
+    "year": 1930,
+    "id": 208
+  },
+  {
+    "title": "À Propos de Nice",
+    "year": 1930,
+    "id": 209
+  },
+  {
+    "title": "Romance Sentimentale",
+    "year": 1930,
+    "id": 210
+  },
+  {
+    "title": "The Story of a Nobody",
+    "year": 1930,
+    "id": 211
+  },
+  {
+    "title": "Studie(s) Nr. 2-4",
+    "year": 1930,
+    "id": 212
+  },
+  {
+    "title": "R.5, Ein Spiel in Linien (Studie Nr. 5)",
+    "year": 1930,
+    "id": 213
+  },
+  {
+    "title": "Studie Nr. 6",
+    "year": 1930,
+    "id": 214
+  },
+  {
+    "title": "Such Is Life",
+    "year": 1930,
+    "id": 215
+  },
+  {
+    "title": "Tomatoes Another Day",
+    "year": 1930,
+    "id": 216
+  },
+  {
+    "title": "The Trap",
+    "year": 1930,
+    "id": 217
+  },
+  {
+    "title": "Wochenende (Weekend)",
+    "year": 1930,
+    "id": 218
+  },
+  {
+    "title": "Yamekraw",
+    "year": 1930,
+    "id": 219
+  },
+  {
+    "title": "Autumn Fire",
+    "year": 1931,
+    "id": 220
+  },
+  {
+    "title": "A Bronx Morning",
+    "year": 1931,
+    "id": 221
+  },
+  {
+    "title": "City of Contrasts",
+    "year": 1931,
+    "id": 222
+  },
+  {
+    "title": "Dance Film",
+    "year": 1931,
+    "id": 223
+  },
+  {
+    "title": "A Day in Santa Fe",
+    "year": 1931,
+    "id": 224
+  },
+  {
+    "title": "Douro, Faina Flouval",
+    "year": 1931,
+    "id": 225
+  },
+  {
+    "title": "Enthusiasm: Symphony of the Donbass",
+    "year": 1931,
+    "id": 226
+  },
+  {
+    "title": "Hearts of the West",
+    "year": 1931,
+    "id": 227
+  },
+  {
+    "title": "Imperial Valley",
+    "year": 1931,
+    "id": 228
+  },
+  {
+    "title": "Limite",
+    "year": 1931,
+    "id": 229
+  },
+  {
+    "title": "At the Prague Castle",
+    "year": 1931,
+    "id": 230
+  },
+  {
+    "title": "Panther Woman of the Needle Trades, or The Lovely Life of Little Lisa",
+    "year": 1931,
+    "id": 231
+  },
+  {
+    "title": "Portrait of a Young Man in Three Movements",
+    "year": 1931,
+    "id": 232
+  },
+  {
+    "title": "Studie(s) Nr. 7-9",
+    "year": 1931,
+    "id": 233
+  },
+  {
+    "title": "Surf and Seaweed",
+    "year": 1931,
+    "id": 234
+  },
+  {
+    "title": "The Light Penetrates the Darkness",
+    "year": 1931,
+    "id": 235
+  },
+  {
+    "title": "Taris, roi de l'eau",
+    "year": 1931,
+    "id": 236
+  },
+  {
+    "title": "Blood of a Poet",
+    "year": 1932,
+    "id": 237
+  },
+  {
+    "title": "Burleska",
+    "year": 1932,
+    "id": 238
+  },
+  {
+    "title": "Destiny",
+    "year": 1932,
+    "id": 239
+  },
+  {
+    "title": "Europa",
+    "year": 1932,
+    "id": 240
+  },
+  {
+    "title": "The Fortune Teller",
+    "year": 1932,
+    "id": 241
+  },
+  {
+    "title": "Granite, a.k.a. The Quarry",
+    "year": 1932,
+    "id": 242
+  },
+  {
+    "title": "Harbor Scenes",
+    "year": 1932,
+    "id": 243
+  },
+  {
+    "title": "Histoire du soldat inconnu",
+    "year": 1932,
+    "id": 244
+  },
+  {
+    "title": "L'idée",
+    "year": 1932,
+    "id": 245
+  },
+  {
+    "title": "Koloraturen (Coloratura)",
+    "year": 1932,
+    "id": 246
+  },
+  {
+    "title": "Kuhle Wampe",
+    "year": 1932,
+    "id": 247
+  },
+  {
+    "title": "Land of the Sun",
+    "year": 1932,
+    "id": 248
+  },
+  {
+    "title": "Little Geezer",
+    "year": 1932,
+    "id": 249
+  },
+  {
+    "title": "Ornament Sound Experiments",
+    "year": 1932,
+    "id": 250
+  },
+  {
+    "title": "Poem 8",
+    "year": 1932,
+    "id": 251
+  },
+  {
+    "title": "Před maturitou (Before Matriculation)",
+    "year": 1932,
+    "id": 252
+  },
+  {
+    "title": "Qué vivá México!",
+    "year": 1932,
+    "id": 253
+  },
+  {
+    "title": "Studie(s) Nr. 10-11",
+    "year": 1932,
+    "id": 254
+  },
+  {
+    "title": "Studie Nr. 12",
+    "year": 1932,
+    "id": 255
+  },
+  {
+    "title": "Sur les bords de la caméra (Pictures on the Sideline)",
+    "year": 1932,
+    "id": 256
+  },
+  {
+    "title": "Visions of Lourdes",
+    "year": 1932,
+    "id": 257
+  },
+  {
+    "title": "7 till 5",
+    "year": 1933,
+    "id": 258
+  },
+  {
+    "title": "Dawn to Dawn",
+    "year": 1933,
+    "id": 259
+  },
+  {
+    "title": "Deserter",
+    "year": 1933,
+    "id": 260
+  },
+  {
+    "title": "Drobiazg Melodyjny (Moment Musical)",
+    "year": 1933,
+    "id": 261
+  },
+  {
+    "title": "Footnote to Fact",
+    "year": 1933,
+    "id": 262
+  },
+  {
+    "title": "G-3",
+    "year": 1933,
+    "id": 263
+  },
+  {
+    "title": "Las Hurdes: Tierra Sin Pan",
+    "year": 1933,
+    "id": 264
+  },
+  {
+    "title": "In the Icy Wastes of Dialectical Materialism",
+    "year": 1933,
+    "id": 265
+  },
+  {
+    "title": "Lot in Sodom",
+    "year": 1933,
+    "id": 266
+  },
+  {
+    "title": "Mr. Motorboat's Last Stand",
+    "year": 1933,
+    "id": 267
+  },
+  {
+    "title": "On the Sunny Side",
+    "year": 1933,
+    "id": 268
+  },
+  {
+    "title": "Une nuit sur le mont chauve",
+    "year": 1933,
+    "id": 269
+  },
+  {
+    "title": "Oil—A Symphony in Motion",
+    "year": 1933,
+    "id": 270
+  },
+  {
+    "title": "Oramunde",
+    "year": 1933,
+    "id": 271
+  },
+  {
+    "title": "Poslovi konzula Dorgena (Consul Dorgen's Business)",
+    "year": 1933,
+    "id": 272
+  },
+  {
+    "title": "Prostoy sluchay (A Simple Case)",
+    "year": 1933,
+    "id": 273
+  },
+  {
+    "title": "Pueblo",
+    "year": 1933,
+    "id": 274
+  },
+  {
+    "title": "Synchromy",
+    "year": 1933,
+    "id": 275
+  },
+  {
+    "title": "Tilly Losch in the Dance of Her Hands",
+    "year": 1933,
+    "id": 276
+  },
+  {
+    "title": "The Earth Sings",
+    "year": 1933,
+    "id": 277
+  },
+  {
+    "title": "Zéro de conduite",
+    "year": 1933,
+    "id": 278
+  },
+  {
+    "title": "Atoms of Eternity",
+    "year": 1934,
+    "id": 279
+  },
+  {
+    "title": "Beyond This Open Road",
+    "year": 1934,
+    "id": 280
+  },
+  {
+    "title": "Café Universal",
+    "year": 1934,
+    "id": 281
+  },
+  {
+    "title": "Camera Makes Whoopee",
+    "year": 1934,
+    "id": 282
+  },
+  {
+    "title": "La Joie de vivre",
+    "year": 1934,
+    "id": 283
+  },
+  {
+    "title": "The Furies",
+    "year": 1934,
+    "id": 284
+  },
+  {
+    "title": "Hands",
+    "year": 1934,
+    "id": 285
+  },
+  {
+    "title": "Happiness (1935 film)",
+    "year": 1934,
+    "id": 286
+  },
+  {
+    "title": "The Hearts of Age",
+    "year": 1934,
+    "id": 287
+  },
+  {
+    "title": "Kreise (Circles)",
+    "year": 1934,
+    "id": 288
+  },
+  {
+    "title": "Liebesspiel",
+    "year": 1934,
+    "id": 289
+  },
+  {
+    "title": "Man of Aran",
+    "year": 1934,
+    "id": 290
+  },
+  {
+    "title": "Marijka nevěrnice (Faithless Maritza)",
+    "year": 1934,
+    "id": 291
+  },
+  {
+    "title": "Muratti Greift Ein (Muratti Gets in the Act)",
+    "year": 1934,
+    "id": 292
+  },
+  {
+    "title": "Prisoner",
+    "year": 1934,
+    "id": 293
+  },
+  {
+    "title": "Quadrate (Squares)",
+    "year": 1934,
+    "id": 294
+  },
+  {
+    "title": "Rhythm in Light",
+    "year": 1934,
+    "id": 295
+  },
+  {
+    "title": "Ein Spiel in Farben (A Play in Colors)",
+    "year": 1934,
+    "id": 296
+  },
+  {
+    "title": "Studie Nr. 13 (Coriolan Fragment)",
+    "year": 1934,
+    "id": 297
+  },
+  {
+    "title": "Sweet Land of Liberty",
+    "year": 1934,
+    "id": 298
+  },
+  {
+    "title": "Žijeme v Praze (We Live in Prague)",
+    "year": 1934,
+    "id": 299
+  },
+  {
+    "title": "A Colour Box",
+    "year": 1935,
+    "id": 300
+  },
+  {
+    "title": "Colour Cocktail",
+    "year": 1935,
+    "id": 301
+  },
+  {
+    "title": "Ghost Town: The Story of Fort Lee",
+    "year": 1935,
+    "id": 302
+  },
+  {
+    "title": "Gypsy Night",
+    "year": 1935,
+    "id": 303
+  },
+  {
+    "title": "The Hands on Tuesday",
+    "year": 1935,
+    "id": 304
+  },
+  {
+    "title": "Hollywood",
+    "year": 1935,
+    "id": 305
+  },
+  {
+    "title": "Kinetic Molpai",
+    "year": 1935,
+    "id": 306
+  },
+  {
+    "title": "Komposition in Blau (Composition in Blue)",
+    "year": 1935,
+    "id": 307
+  },
+  {
+    "title": "November",
+    "year": 1935,
+    "id": 308
+  },
+  {
+    "title": "Muratti Privat",
+    "year": 1935,
+    "id": 309
+  },
+  {
+    "title": "Pie in the Sky",
+    "year": 1935,
+    "id": 310
+  },
+  {
+    "title": "Pink Guards On Parade",
+    "year": 1935,
+    "id": 311
+  },
+  {
+    "title": "Poison",
+    "year": 1935,
+    "id": 312
+  },
+  {
+    "title": "Polychrome Phantasy",
+    "year": 1935,
+    "id": 313
+  },
+  {
+    "title": "Synchromy No. 2",
+    "year": 1935,
+    "id": 314
+  },
+  {
+    "title": "Zwarcie (Short Circuit)",
+    "year": 1935,
+    "id": 315
+  },
+  {
+    "title": "145 W 21",
+    "year": 1936,
+    "id": 316
+  },
+  {
+    "title": "The Birth of the Robot",
+    "year": 1936,
+    "id": 317
+  },
+  {
+    "title": "Black and White Rhapsody",
+    "year": 1936,
+    "id": 318
+  },
+  {
+    "title": "Dada",
+    "year": 1936,
+    "id": 319
+  },
+  {
+    "title": "Hell Unlimited",
+    "year": 1936,
+    "id": 320
+  },
+  {
+    "title": "The New Architecture and the London Zoo",
+    "year": 1936,
+    "id": 321
+  },
+  {
+    "title": "Redes",
+    "year": 1936,
+    "id": 322
+  },
+  {
+    "title": "Rose Hobart",
+    "year": 1936,
+    "id": 323
+  },
+  {
+    "title": "Even—As You and I",
+    "year": 1937,
+    "id": 324
+  },
+  {
+    "title": "Escape",
+    "year": 1937,
+    "id": 325
+  },
+  {
+    "title": "Monsieur Fantômas",
+    "year": 1937,
+    "id": 326
+  },
+  {
+    "title": "An Optical Poem",
+    "year": 1937,
+    "id": 327
+  },
+  {
+    "title": "Parabola",
+    "year": 1937,
+    "id": 328
+  },
+  {
+    "title": "Przygoda Czlowieka Poczciwego (The Adventure of a Good Citizen)",
+    "year": 1937,
+    "id": 329
+  },
+  {
+    "title": "Seeing the World No. 1: A Trip to New York CIty",
+    "year": 1937,
+    "id": 330
+  },
+  {
+    "title": "Silnice spívá (The Highway Sings)",
+    "year": 1937,
+    "id": 331
+  },
+  {
+    "title": "Bookstalls",
+    "year": 1938,
+    "id": 332
+  },
+  {
+    "title": "Carousel: Animal Opera",
+    "year": 1938,
+    "id": 333
+  },
+  {
+    "title": "The Children's Jury",
+    "year": 1938,
+    "id": 334
+  },
+  {
+    "title": "The Children's Trilogy: Cotillion, The Midnight Party, The Children's Party",
+    "year": 1938,
+    "id": 335
+  },
+  {
+    "title": "Family Film",
+    "year": 1938,
+    "id": 336
+  },
+  {
+    "title": "Fragment from Caroland's Mansion",
+    "year": 1938,
+    "id": 337
+  },
+  {
+    "title": "Jack's Dream",
+    "year": 1938,
+    "id": 338
+  },
+  {
+    "title": "N or NW",
+    "year": 1938,
+    "id": 339
+  },
+  {
+    "title": "Thimble Theater",
+    "year": 1938,
+    "id": 340
+  },
+  {
+    "title": "Tree Trunk to Head",
+    "year": 1938,
+    "id": 341
+  },
+  {
+    "title": "The City",
+    "year": 1939,
+    "id": 342
+  },
+  {
+    "title": "Dance of the Colors",
+    "year": 1939,
+    "id": 343
+  },
+  {
+    "title": "Haiti",
+    "year": 1939,
+    "id": 344
+  },
+  {
+    "title": "Love on the Wing",
+    "year": 1939,
+    "id": 345
+  },
+  {
+    "title": "Scherzo",
+    "year": 1939,
+    "id": 346
+  },
+  {
+    "title": "Spare Time",
+    "year": 1939,
+    "id": 347
+  },
+  {
+    "title": "Spook Sport",
+    "year": 1939,
+    "id": 348
+  },
+  {
+    "title": "Stars and Stripes",
+    "year": 1939,
+    "id": 349
+  },
+  {
+    "title": "Time in the Sun",
+    "year": 1939,
+    "id": 350
+  },
+  {
+    "title": "Moods of the Sea",
+    "year": 1941,
+    "id": 351
+  },
+  {
+    "title": "Who Has Been Rocking My Dream Boat",
+    "year": 1941,
+    "id": 352
+  },
+  {
+    "title": "By Night with Torch and Spear",
+    "year": 1942,
+    "id": 353
+  },
+  {
+    "title": "Lambeth Walk - Nazi Style",
+    "year": 1942,
+    "id": 354
+  },
+  {
+    "title": "Tinsel Tree",
+    "year": 1942,
+    "id": 355
+  },
+  {
+    "title": "Allegretto",
+    "year": 1943,
+    "id": 356
+  },
+  {
+    "title": "The Geography of the Body",
+    "year": 1943,
+    "id": 357
+  },
+  {
+    "title": "Meshes of the Afternoon",
+    "year": 1943,
+    "id": 358
+  },
+  {
+    "title": "The Witch's Cradle",
+    "year": 1943,
+    "id": 359
+  },
+  {
+    "title": "At Land",
+    "year": 1944,
+    "id": 360
+  },
+  {
+    "title": "The Eye and the Ear",
+    "year": 1945,
+    "id": 361
+  },
+  {
+    "title": "Le Vampire",
+    "year": 1945,
+    "id": 362
+  },
+  {
+    "title": "Out-Takes From a Study in Choreography for Camera",
+    "year": 1945,
+    "id": 363
+  },
+  {
+    "title": "A Study in Choreography for Camera",
+    "year": 1945,
+    "id": 364
+  },
+  {
+    "title": "Visual Variations on Noguchi",
+    "year": 1945,
+    "id": 365
+  },
+  {
+    "title": "The Potted Psalm",
+    "year": 1946,
+    "id": 366
+  },
+  {
+    "title": "Ritual in Transfigured Time",
+    "year": 1946,
+    "id": 367
+  },
+  {
+    "title": "The Cage",
+    "year": 1947,
+    "id": 368
+  },
+  {
+    "title": "Dreams That Money Can Buy",
+    "year": 1947,
+    "id": 369
+  },
+  {
+    "title": "Fireworks",
+    "year": 1947,
+    "id": 370
+  },
+  {
+    "title": "Forest Murmurs",
+    "year": 1947,
+    "id": 371
+  },
+  {
+    "title": "Lady in the Lake",
+    "year": 1947,
+    "id": 372
+  },
+  {
+    "title": "Motion Painting No. 1",
+    "year": 1947,
+    "id": 373
+  },
+  {
+    "title": "Private Life of a Cat",
+    "year": 1947,
+    "id": 374
+  },
+  {
+    "title": "Le Tempestaire",
+    "year": 1947,
+    "id": 375
+  },
+  {
+    "title": "Transmutation",
+    "year": 1947,
+    "id": 376
+  },
+  {
+    "title": "In the Street",
+    "year": 1948,
+    "id": 377
+  },
+  {
+    "title": "Meditation on Violence",
+    "year": 1948,
+    "id": 378
+  },
+  {
+    "title": "The Petrified Dog",
+    "year": 1948,
+    "id": 379
+  },
+  {
+    "title": "Weegee's New York",
+    "year": 1948,
+    "id": 380
+  },
+  {
+    "title": "Christmas, U.S.A.",
+    "year": 1949,
+    "id": 381
+  },
+  {
+    "title": "The Lead Shoes",
+    "year": 1949,
+    "id": 382
+  },
+  {
+    "title": "Medusa",
+    "year": 1949,
+    "id": 383
+  },
+  {
+    "title": "Pacific 231",
+    "year": 1949,
+    "id": 384
+  },
+  {
+    "title": "Puce Moment",
+    "year": 1949,
+    "id": 385
+  },
+  {
+    "title": "The Adventures of Jimmy",
+    "year": 1950,
+    "id": 386
+  },
+  {
+    "title": "Un chant d'amour",
+    "year": 1950,
+    "id": 387
+  },
+  {
+    "title": "Eaten Horizons",
+    "year": 1950,
+    "id": 388
+  },
+  {
+    "title": "Orphée",
+    "year": 1950,
+    "id": 389
+  },
+  {
+    "title": "Rabbit's Moon",
+    "year": 1950,
+    "id": 390
+  },
+  {
+    "title": "Swain",
+    "year": 1950,
+    "id": 391
+  },
+  {
+    "title": "Tłum (The Crowd)",
+    "year": 1950,
+    "id": 392
+  },
+  {
+    "title": "Divertissement Rococo",
+    "year": 1951,
+    "id": 393
+  },
+  {
+    "title": "Ensemble for Somnambulists",
+    "year": 1951,
+    "id": 394
+  },
+  {
+    "title": "Le film est déja commence?",
+    "year": 1951,
+    "id": 395
+  },
+  {
+    "title": "Le mort du cerf",
+    "year": 1951,
+    "id": 396
+  },
+  {
+    "title": "A Treatise on Venom and Eternity",
+    "year": 1951,
+    "id": 397
+  },
+  {
+    "title": "L'anti-concept",
+    "year": 1952,
+    "id": 398
+  },
+  {
+    "title": "Approaches and Leavetakings",
+    "year": 1952,
+    "id": 399
+  },
+  {
+    "title": "Bells of Atlantis",
+    "year": 1952,
+    "id": 400
+  },
+  {
+    "title": "Form Phases I",
+    "year": 1952,
+    "id": 401
+  },
+  {
+    "title": "Hand-Mouth Coordination",
+    "year": 1952,
+    "id": 402
+  },
+  {
+    "title": "Hotel Apex",
+    "year": 1952,
+    "id": 403
+  },
+  {
+    "title": "Hurlements en faveur de Sade",
+    "year": 1952,
+    "id": 404
+  },
+  {
+    "title": "Interim",
+    "year": 1952,
+    "id": 405
+  },
+  {
+    "title": "The Boy and the Sea",
+    "year": 1953,
+    "id": 406
+  },
+  {
+    "title": "Color Cry",
+    "year": 1953,
+    "id": 407
+  },
+  {
+    "title": "Come Closer",
+    "year": 1953,
+    "id": 408
+  },
+  {
+    "title": "Eaux d'Artifice",
+    "year": 1953,
+    "id": 409
+  },
+  {
+    "title": "The End",
+    "year": 1953,
+    "id": 410
+  },
+  {
+    "title": "Eneri",
+    "year": 1953,
+    "id": 411
+  },
+  {
+    "title": "Form Phases II",
+    "year": 1953,
+    "id": 412
+  },
+  {
+    "title": "Mandala",
+    "year": 1953,
+    "id": 413
+  },
+  {
+    "title": "The Pleasure Garden",
+    "year": 1953,
+    "id": 414
+  },
+  {
+    "title": "Statues Also Die",
+    "year": 1953,
+    "id": 415
+  },
+  {
+    "title": "Unglassed Windows Cast a Terrible Reflection",
+    "year": 1953,
+    "id": 416
+  },
+  {
+    "title": "Desistfilm",
+    "year": 1954,
+    "id": 417
+  },
+  {
+    "title": "The Extraordinary Child",
+    "year": 1954,
+    "id": 418
+  },
+  {
+    "title": "Form Phases IV",
+    "year": 1954,
+    "id": 419
+  },
+  {
+    "title": "Gyromorphosis",
+    "year": 1954,
+    "id": 420
+  },
+  {
+    "title": "Inauguration of the Pleasure Dome",
+    "year": 1954,
+    "id": 421
+  },
+  {
+    "title": "Un Miracle",
+    "year": 1954,
+    "id": 422
+  },
+  {
+    "title": "The Way to Shadow Garden",
+    "year": 1954,
+    "id": 423
+  },
+  {
+    "title": "Atelier de Fernand Léger",
+    "year": 1955,
+    "id": 424
+  },
+  {
+    "title": "Aviary",
+    "year": 1955,
+    "id": 425
+  },
+  {
+    "title": "The Bridge",
+    "year": 1955,
+    "id": 426
+  },
+  {
+    "title": "Closed Vision",
+    "year": 1955,
+    "id": 427
+  },
+  {
+    "title": "Dementia, aka Daughter of Horror",
+    "year": 1955,
+    "id": 428
+  },
+  {
+    "title": "Une femme coquette",
+    "year": 1955,
+    "id": 429
+  },
+  {
+    "title": "Haitian Film Footage",
+    "year": 1955,
+    "id": 430
+  },
+  {
+    "title": "In Between",
+    "year": 1955,
+    "id": 431
+  },
+  {
+    "title": "Jesień (Autumn)",
+    "year": 1955,
+    "id": 432
+  },
+  {
+    "title": "Joanne, Union Square",
+    "year": 1955,
+    "id": 433
+  },
+  {
+    "title": "Joanne, Xmas",
+    "year": 1955,
+    "id": 434
+  },
+  {
+    "title": "Mosaik im Vertrauen (Mosaic in Confidence)",
+    "year": 1955,
+    "id": 435
+  },
+  {
+    "title": "A Portrait of Ga",
+    "year": 1955,
+    "id": 436
+  },
+  {
+    "title": "Orchard Street",
+    "year": 1955,
+    "id": 437
+  },
+  {
+    "title": "Reflections",
+    "year": 1955,
+    "id": 438
+  },
+  {
+    "title": "Reflections on Black",
+    "year": 1955,
+    "id": 439
+  },
+  {
+    "title": "Sunday in Peking",
+    "year": 1955,
+    "id": 440
+  },
+  {
+    "title": "Untitled film of Geoffrey Holder’s Wedding",
+    "year": 1955,
+    "id": 441
+  },
+  {
+    "title": "The Very Eye of Night",
+    "year": 1955,
+    "id": 442
+  },
+  {
+    "title": "The Wonder Ring",
+    "year": 1955,
+    "id": 443
+  },
+  {
+    "title": "Żywe fotografie (Photographies Vivantes)",
+    "year": 1955,
+    "id": 444
+  },
+  {
+    "title": "Centuries of June",
+    "year": 1956,
+    "id": 445
+  },
+  {
+    "title": "Flesh of Morning",
+    "year": 1956,
+    "id": 446
+  },
+  {
+    "title": "Little Cobra Dance",
+    "year": 1956,
+    "id": 447
+  },
+  {
+    "title": "Nightcats",
+    "year": 1956,
+    "id": 448
+  },
+  {
+    "title": "Recreation",
+    "year": 1956,
+    "id": 449
+  },
+  {
+    "title": "Saturday Afternoon Blood Sacrifice",
+    "year": 1956,
+    "id": 450
+  },
+  {
+    "title": "Together",
+    "year": 1956,
+    "id": 451
+  },
+  {
+    "title": "Zone Moment",
+    "year": 1956,
+    "id": 452
+  },
+  {
+    "title": "8 x 8: A Chess Sonata in 8 Movements",
+    "year": 1957,
+    "id": 453
+  },
+  {
+    "title": "A to Z",
+    "year": 1957,
+    "id": 454
+  },
+  {
+    "title": "Adebar",
+    "year": 1957,
+    "id": 455
+  },
+  {
+    "title": "Adventures of *",
+    "year": 1957,
+    "id": 456
+  },
+  {
+    "title": "Angel",
+    "year": 1957,
+    "id": 457
+  },
+  {
+    "title": "Był sobie raz (Once Upon a Time)",
+    "year": 1957,
+    "id": 458
+  },
+  {
+    "title": "Boy's Games",
+    "year": 1957,
+    "id": 459
+  },
+  {
+    "title": "Cappuccino",
+    "year": 1957,
+    "id": 460
+  },
+  {
+    "title": "Children",
+    "year": 1957,
+    "id": 461
+  },
+  {
+    "title": "Cloche a Travers les Feuilles/Claude Debussy",
+    "year": 1957,
+    "id": 462
+  },
+  {
+    "title": "Daybreak and Whiteye",
+    "year": 1957,
+    "id": 463
+  },
+  {
+    "title": "Dni Oświaty (Education Days)",
+    "year": 1957,
+    "id": 464
+  },
+  {
+    "title": "A Fable for Fountains",
+    "year": 1957,
+    "id": 465
+  },
+  {
+    "title": "Glimpse of the Garden",
+    "year": 1957,
+    "id": 466
+  },
+  {
+    "title": "Nagrodzone uczucia (Requited Sentiments)",
+    "year": 1957,
+    "id": 467
+  },
+  {
+    "title": "Jamestown Baloos",
+    "year": 1957,
+    "id": 468
+  },
+  {
+    "title": "Loving",
+    "year": 1957,
+    "id": 469
+  },
+  {
+    "title": "Strep-tease (Striptease)",
+    "year": 1957,
+    "id": 470
+  },
+  {
+    "title": "A Man and His Dog Out for Air",
+    "year": 1957,
+    "id": 471
+  },
+  {
+    "title": "The Man Who Invented Gold",
+    "year": 1957,
+    "id": 472
+  },
+  {
+    "title": "Nymphlight",
+    "year": 1957,
+    "id": 473
+  },
+  {
+    "title": "Anticipation of the Night",
+    "year": 1958,
+    "id": 474
+  },
+  {
+    "title": "Beat",
+    "year": 1958,
+    "id": 475
+  },
+  {
+    "title": "Défense d'afficher",
+    "year": 1958,
+    "id": 476
+  },
+  {
+    "title": "Dom (House)",
+    "year": 1958,
+    "id": 477
+  },
+  {
+    "title": "Free Radicals",
+    "year": 1958,
+    "id": 478
+  },
+  {
+    "title": "Une histoire d'eau",
+    "year": 1958,
+    "id": 479
+  },
+  {
+    "title": "A Movie",
+    "year": 1958,
+    "id": 480
+  },
+  {
+    "title": "Schwechater",
+    "year": 1958,
+    "id": 481
+  },
+  {
+    "title": "Szkoła (School)",
+    "year": 1958,
+    "id": 482
+  },
+  {
+    "title": "Spatiodynamisme",
+    "year": 1958,
+    "id": 483
+  },
+  {
+    "title": "Sztandar młodych (Banner of Youth)",
+    "year": 1958,
+    "id": 484
+  },
+  {
+    "title": "Les astronautes",
+    "year": 1959,
+    "id": 485
+  },
+  {
+    "title": "Chasse des Touches",
+    "year": 1959,
+    "id": 486
+  },
+  {
+    "title": "Cat's Cradle",
+    "year": 1959,
+    "id": 487
+  },
+  {
+    "title": "Diary of an Unknown Soldier",
+    "year": 1959,
+    "id": 488
+  },
+  {
+    "title": "Eyewash",
+    "year": 1959,
+    "id": 489
+  },
+  {
+    "title": "Hiroshima mon amour",
+    "year": 1959,
+    "id": 490
+  },
+  {
+    "title": "Monsieur Tête",
+    "year": 1959,
+    "id": 491
+  },
+  {
+    "title": "Odds and Ends",
+    "year": 1959,
+    "id": 492
+  },
+  {
+    "title": "Pull My Daisy",
+    "year": 1959,
+    "id": 493
+  },
+  {
+    "title": "The Running Jumping & Standing Still Film",
+    "year": 1959,
+    "id": 494
+  },
+  {
+    "title": "Scotch Hop",
+    "year": 1959,
+    "id": 495
+  },
+  {
+    "title": "Season of Strangers",
+    "year": 1959,
+    "id": 496
+  },
+  {
+    "title": "Shadows",
+    "year": 1959,
+    "id": 497
+  },
+  {
+    "title": "Sirius Remembered",
+    "year": 1959,
+    "id": 498
+  },
+  {
+    "title": "Wedlock House: An Intercourse",
+    "year": 1959,
+    "id": 499
+  },
+  {
+    "title": "Window Water Baby Moving",
+    "year": 1959,
+    "id": 500
+  },
+  {
+    "title": "Actua-Tilt",
+    "year": 1960,
+    "id": 501
+  },
+  {
+    "title": "Arnulf Rainer",
+    "year": 1960,
+    "id": 502
+  },
+  {
+    "title": "Bäume in Herbst (Trees in Autumn)",
+    "year": 1960,
+    "id": 503
+  },
+  {
+    "title": "The Dead",
+    "year": 1960,
+    "id": 504
+  },
+  {
+    "title": "The Flower Thief",
+    "year": 1960,
+    "id": 505
+  },
+  {
+    "title": "Savage Eye",
+    "year": 1960,
+    "id": 506
+  },
+  {
+    "title": "Vasarely",
+    "year": 1960,
+    "id": 507
+  },
+  {
+    "title": "Allures",
+    "year": 1961,
+    "id": 508
+  },
+  {
+    "title": "Autour de la perception",
+    "year": 1961,
+    "id": 509
+  },
+  {
+    "title": "The Autumn Feast",
+    "year": 1961,
+    "id": 510
+  },
+  {
+    "title": "Critique de la séparation",
+    "year": 1961,
+    "id": 511
+  },
+  {
+    "title": "Dadascope",
+    "year": 1961,
+    "id": 512
+  },
+  {
+    "title": "A Fire",
+    "year": 1961,
+    "id": 513
+  },
+  {
+    "title": "Forgotten Faces",
+    "year": 1961,
+    "id": 514
+  },
+  {
+    "title": "Mr Hayashi",
+    "year": 1961,
+    "id": 515
+  },
+  {
+    "title": "Night Tide",
+    "year": 1961,
+    "id": 516
+  },
+  {
+    "title": "The Sin of Jesus",
+    "year": 1961,
+    "id": 517
+  },
+  {
+    "title": "Thigh Line Lyre Triangular",
+    "year": 1961,
+    "id": 518
+  },
+  {
+    "title": "Baud'larian Capers",
+    "year": 1962,
+    "id": 519
+  },
+  {
+    "title": "Blue Moses",
+    "year": 1962,
+    "id": 520
+  },
+  {
+    "title": "Dog Star Man: Prelude",
+    "year": 1962,
+    "id": 521
+  },
+  {
+    "title": "Heaven and Earth Magic",
+    "year": 1962,
+    "id": 522
+  },
+  {
+    "title": "The House is Black",
+    "year": 1962,
+    "id": 523
+  },
+  {
+    "title": "La Jetée",
+    "year": 1962,
+    "id": 524
+  },
+  {
+    "title": "Regardez-moi, cela suffit",
+    "year": 1962,
+    "id": 525
+  },
+  {
+    "title": "Sonne halt!",
+    "year": 1962,
+    "id": 526
+  },
+  {
+    "title": "Speak",
+    "year": 1962,
+    "id": 527
+  },
+  {
+    "title": "Thanatopsis",
+    "year": 1962,
+    "id": 528
+  },
+  {
+    "title": "Blonde Cobra",
+    "year": 1963,
+    "id": 529
+  },
+  {
+    "title": "By the Sea",
+    "year": 1963,
+    "id": 530
+  },
+  {
+    "title": "Christmas on Earth",
+    "year": 1963,
+    "id": 531
+  },
+  {
+    "title": "The Death of P'town",
+    "year": 1963,
+    "id": 532
+  },
+  {
+    "title": "Dog Star Man: Part I",
+    "year": 1963,
+    "id": 533
+  },
+  {
+    "title": "The Existentialist",
+    "year": 1963,
+    "id": 534
+  },
+  {
+    "title": "Flaming Creatures",
+    "year": 1963,
+    "id": 535
+  },
+  {
+    "title": "Little Stabs at Happiness",
+    "year": 1963,
+    "id": 536
+  },
+  {
+    "title": "Mothlight",
+    "year": 1963,
+    "id": 537
+  },
+  {
+    "title": "Normal Love",
+    "year": 1963,
+    "id": 538
+  },
+  {
+    "title": "O necem jinem (Something Different)",
+    "year": 1963,
+    "id": 539
+  },
+  {
+    "title": "The Queen of Sheba Meets the Atom Man",
+    "year": 1963,
+    "id": 540
+  },
+  {
+    "title": "Scorpio Rising",
+    "year": 1963,
+    "id": 541
+  },
+  {
+    "title": "Sun in Your Head",
+    "year": 1963,
+    "id": 542
+  },
+  {
+    "title": "Towers Open Fire",
+    "year": 1963,
+    "id": 543
+  },
+  {
+    "title": "TV Plug",
+    "year": 1963,
+    "id": 544
+  },
+  {
+    "title": "William Buys a Parrot",
+    "year": 1963,
+    "id": 545
+  },
+  {
+    "title": "Blue Rider (Godard-art)",
+    "year": 1964,
+    "id": 546
+  },
+  {
+    "title": "The Brig",
+    "year": 1964,
+    "id": 547
+  },
+  {
+    "title": "The Cool World",
+    "year": 1964,
+    "id": 548
+  },
+  {
+    "title": "Dog Star Man",
+    "year": 1964,
+    "id": 549
+  },
+  {
+    "title": "Help! My Snowman's Burning Down",
+    "year": 1964,
+    "id": 550
+  },
+  {
+    "title": "Hugh MacDiarmid: A Portrait",
+    "year": 1964,
+    "id": 551
+  },
+  {
+    "title": "I Am Cuba",
+    "year": 1964,
+    "id": 552
+  },
+  {
+    "title": "It Happened Here",
+    "year": 1964,
+    "id": 553
+  },
+  {
+    "title": "The Last Clean Shirt",
+    "year": 1964,
+    "id": 554
+  },
+  {
+    "title": "Sleep",
+    "year": 1964,
+    "id": 555
+  },
+  {
+    "title": "Song 1",
+    "year": 1964,
+    "id": 556
+  },
+  {
+    "title": "Song 2",
+    "year": 1964,
+    "id": 557
+  },
+  {
+    "title": "Song 3",
+    "year": 1964,
+    "id": 558
+  },
+  {
+    "title": "Song 4",
+    "year": 1964,
+    "id": 559
+  },
+  {
+    "title": "Song 5",
+    "year": 1964,
+    "id": 560
+  },
+  {
+    "title": "Song 6",
+    "year": 1964,
+    "id": 561
+  },
+  {
+    "title": "Song 7",
+    "year": 1964,
+    "id": 562
+  },
+  {
+    "title": "Song 8",
+    "year": 1964,
+    "id": 563
+  },
+  {
+    "title": "15 Song Traits",
+    "year": 1965,
+    "id": 564
+  },
+  {
+    "title": "The Art of Vision",
+    "year": 1965,
+    "id": 565
+  },
+  {
+    "title": "Black Vision",
+    "year": 1965,
+    "id": 566
+  },
+  {
+    "title": "Brus.Wuenscht. Euch.Seine. Weinachten.",
+    "year": 1965,
+    "id": 567
+  },
+  {
+    "title": "Derby",
+    "year": 1965,
+    "id": 568
+  },
+  {
+    "title": "Dirty",
+    "year": 1965,
+    "id": 569
+  },
+  {
+    "title": "Les Escargots",
+    "year": 1965,
+    "id": 570
+  },
+  {
+    "title": "Film in Which There Appear Edge Lettering, Sprocket Holes, Dirt Particles, Etc.",
+    "year": 1965,
+    "id": 571
+  },
+  {
+    "title": "Fire of Waters",
+    "year": 1965,
+    "id": 572
+  },
+  {
+    "title": "Fuses",
+    "year": 1965,
+    "id": 573
+  },
+  {
+    "title": "Kustom Kar Kommandos",
+    "year": 1965,
+    "id": 574
+  },
+  {
+    "title": "Now!",
+    "year": 1965,
+    "id": 575
+  },
+  {
+    "title": "Pasht",
+    "year": 1965,
+    "id": 576
+  },
+  {
+    "title": "Peyote Queen",
+    "year": 1965,
+    "id": 577
+  },
+  {
+    "title": "Ruka (The Hand)",
+    "year": 1965,
+    "id": 578
+  },
+  {
+    "title": "The Saragossa Manuscript",
+    "year": 1965,
+    "id": 579
+  },
+  {
+    "title": "Schmeerguntz",
+    "year": 1965,
+    "id": 580
+  },
+  {
+    "title": "Silber - Aktion Brus",
+    "year": 1965,
+    "id": 581
+  },
+  {
+    "title": "Song 9",
+    "year": 1965,
+    "id": 582
+  },
+  {
+    "title": "Song 10",
+    "year": 1965,
+    "id": 583
+  },
+  {
+    "title": "Song 11",
+    "year": 1965,
+    "id": 584
+  },
+  {
+    "title": "Song 12",
+    "year": 1965,
+    "id": 585
+  },
+  {
+    "title": "Song 13",
+    "year": 1965,
+    "id": 586
+  },
+  {
+    "title": "Song 14",
+    "year": 1965,
+    "id": 587
+  },
+  {
+    "title": "Song 16",
+    "year": 1965,
+    "id": 588
+  },
+  {
+    "title": "Song 17",
+    "year": 1965,
+    "id": 589
+  },
+  {
+    "title": "Song 18",
+    "year": 1965,
+    "id": 590
+  },
+  {
+    "title": "Song 19",
+    "year": 1965,
+    "id": 591
+  },
+  {
+    "title": "Song 20",
+    "year": 1965,
+    "id": 592
+  },
+  {
+    "title": "Song 21",
+    "year": 1965,
+    "id": 593
+  },
+  {
+    "title": "Song 22",
+    "year": 1965,
+    "id": 594
+  },
+  {
+    "title": "Two: Creeley/McClure",
+    "year": 1965,
+    "id": 595
+  },
+  {
+    "title": "Vinyl",
+    "year": 1965,
+    "id": 596
+  },
+  {
+    "title": "The War Game",
+    "year": 1965,
+    "id": 597
+  },
+  {
+    "title": "Wholly Communion",
+    "year": 1965,
+    "id": 598
+  },
+  {
+    "title": "All My Life",
+    "year": 1966,
+    "id": 599
+  },
+  {
+    "title": "Andy Warhol's Silver Flotations",
+    "year": 1966,
+    "id": 600
+  },
+  {
+    "title": "Castle 1",
+    "year": 1966,
+    "id": 601
+  },
+  {
+    "title": "Cerro Pelado",
+    "year": 1966,
+    "id": 602
+  },
+  {
+    "title": "The Cut-Ups",
+    "year": 1966,
+    "id": 603
+  },
+  {
+    "title": "Daisies",
+    "year": 1966,
+    "id": 604
+  },
+  {
+    "title": "Do Not Ask Where We Are Going",
+    "year": 1966,
+    "id": 605
+  },
+  {
+    "title": "Faire un effort",
+    "year": 1966,
+    "id": 606
+  },
+  {
+    "title": "The Flicker",
+    "year": 1966,
+    "id": 607
+  },
+  {
+    "title": "Hold Me While I'm Naked",
+    "year": 1966,
+    "id": 608
+  },
+  {
+    "title": "Outer and Inner Space",
+    "year": 1966,
+    "id": 609
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "id": 610
+  },
+  {
+    "title": "Relativity",
+    "year": 1966,
+    "id": 611
+  },
+  {
+    "title": "Sound?",
+    "year": 1966,
+    "id": 612
+  },
+  {
+    "title": "Turn, Turn, Turn",
+    "year": 1966,
+    "id": 613
+  },
+  {
+    "title": "Unsere Afrikareise (Our Trip to Africa)",
+    "year": 1966,
+    "id": 614
+  },
+  {
+    "title": "Wintercourse",
+    "year": 1966,
+    "id": 615
+  },
+  {
+    "title": "Word Movie",
+    "year": 1966,
+    "id": 616
+  },
+  {
+    "title": "Yesterday Girl",
+    "year": 1966,
+    "id": 617
+  },
+  {
+    "title": "23rd Psalm Branch",
+    "year": 1967,
+    "id": 618
+  },
+  {
+    "title": 7362,
+    "year": 1967,
+    "id": 619
+  },
+  {
+    "title": "Beginning",
+    "year": 1967,
+    "id": 620
+  },
+  {
+    "title": "David Holzman's Diary",
+    "year": 1967,
+    "id": 621
+  },
+  {
+    "title": "Eclipse of the Sun Virgin",
+    "year": 1967,
+    "id": 622
+  },
+  {
+    "title": "La Femme 100 têtes",
+    "year": 1967,
+    "id": 623
+  },
+  {
+    "title": "The Great Blondino",
+    "year": 1967,
+    "id": 624
+  },
+  {
+    "title": "Hasta la victoria siempre",
+    "year": 1967,
+    "id": 625
+  },
+  {
+    "title": "I Am Curious (Yellow)",
+    "year": 1967,
+    "id": 626
+  },
+  {
+    "title": "The Illiac Passion",
+    "year": 1967,
+    "id": 627
+  },
+  {
+    "title": "The Image",
+    "year": 1967,
+    "id": 628
+  },
+  {
+    "title": "Jeanetta Cochrane",
+    "year": 1967,
+    "id": 629
+  },
+  {
+    "title": "Kusama's Self-Obliteration",
+    "year": 1967,
+    "id": 630
+  },
+  {
+    "title": "Little Dog for Roger",
+    "year": 1967,
+    "id": 631
+  },
+  {
+    "title": "Love Affair, or: The Case of the Missing Switchboard Operator",
+    "year": 1967,
+    "id": 632
+  },
+  {
+    "title": "Marvo Movie",
+    "year": 1967,
+    "id": 633
+  },
+  {
+    "title": "Samadhi",
+    "year": 1967,
+    "id": 634
+  },
+  {
+    "title": "Song 24",
+    "year": 1967,
+    "id": 635
+  },
+  {
+    "title": "Song 25",
+    "year": 1967,
+    "id": 636
+  },
+  {
+    "title": "Ulysses",
+    "year": 1967,
+    "id": 637
+  },
+  {
+    "title": "Wavelength",
+    "year": 1967,
+    "id": 638
+  },
+  {
+    "title": "Weekend",
+    "year": 1967,
+    "id": 639
+  },
+  {
+    "title": "You're Human Like the Rest of Them",
+    "year": 1967,
+    "id": 640
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "id": 641
+  },
+  {
+    "title": "Alaska",
+    "year": 1968,
+    "id": 642
+  },
+  {
+    "title": "The Bed",
+    "year": 1968,
+    "id": 643
+  },
+  {
+    "title": "Cinétracts",
+    "year": 1968,
+    "id": 644
+  },
+  {
+    "title": "Contras'city",
+    "year": 1968,
+    "id": 645
+  },
+  {
+    "title": "Faces",
+    "year": 1968,
+    "id": 646
+  },
+  {
+    "title": "Fando y Lis",
+    "year": 1968,
+    "id": 647
+  },
+  {
+    "title": "Flesh",
+    "year": 1968,
+    "id": 648
+  },
+  {
+    "title": "Hall",
+    "year": 1968,
+    "id": 649
+  },
+  {
+    "title": "Hanoi, martes 13",
+    "year": 1968,
+    "id": 650
+  },
+  {
+    "title": "La hora de los hornos (Hour of the Furnaces)",
+    "year": 1968,
+    "id": 651
+  },
+  {
+    "title": "The Horseman, the Woman, and the Moth",
+    "year": 1968,
+    "id": 652
+  },
+  {
+    "title": "I Am Curious (Blue)",
+    "year": 1968,
+    "id": 653
+  },
+  {
+    "title": "Innocence Unprotected",
+    "year": 1968,
+    "id": 654
+  },
+  {
+    "title": "LBJ",
+    "year": 1968,
+    "id": 655
+  },
+  {
+    "title": "Lovemaking",
+    "year": 1968,
+    "id": 656
+  },
+  {
+    "title": "Memorias del Subdesarrollo (Memories of Underdevelopment)",
+    "year": 1968,
+    "id": 657
+  },
+  {
+    "title": "Metamorfosis",
+    "year": 1968,
+    "id": 658
+  },
+  {
+    "title": "The Movie Orgy",
+    "year": 1968,
+    "id": 659
+  },
+  {
+    "title": "My Mountain Song 27",
+    "year": 1968,
+    "id": 660
+  },
+  {
+    "title": "N:O:T:H:I:N:G",
+    "year": 1968,
+    "id": 661
+  },
+  {
+    "title": "Pas de deux (Duo)",
+    "year": 1968,
+    "id": 662
+  },
+  {
+    "title": "Rat Life and Diet in North America",
+    "year": 1968,
+    "id": 663
+  },
+  {
+    "title": "The Sixth Side of the Pentagon",
+    "year": 1968,
+    "id": 664
+  },
+  {
+    "title": "Song 26",
+    "year": 1968,
+    "id": 665
+  },
+  {
+    "title": "Sorbet III",
+    "year": 1968,
+    "id": 666
+  },
+  {
+    "title": "Teorema",
+    "year": 1968,
+    "id": 667
+  },
+  {
+    "title": "American 30'sSong",
+    "year": 1969,
+    "id": 668
+  },
+  {
+    "title": "Cain's Film",
+    "year": 1969,
+    "id": 669
+  },
+  {
+    "title": "The Color of Pomegranates",
+    "year": 1969,
+    "id": 670
+  },
+  {
+    "title": "Easy Rider",
+    "year": 1969,
+    "id": 671
+  },
+  {
+    "title": "Erwin, Toni, Ilse",
+    "year": 1969,
+    "id": 672
+  },
+  {
+    "title": "Invocation of My Demon Brother",
+    "year": 1969,
+    "id": 673
+  },
+  {
+    "title": "Katzelmacher",
+    "year": 1969,
+    "id": 674
+  },
+  {
+    "title": "Love Is Colder Than Death",
+    "year": 1969,
+    "id": 675
+  },
+  {
+    "title": "My Name Is Oona",
+    "year": 1969,
+    "id": 676
+  },
+  {
+    "title": "Note to Pati",
+    "year": 1969,
+    "id": 677
+  },
+  {
+    "title": "Paradigm",
+    "year": 1969,
+    "id": 678
+  },
+  {
+    "title": "Precautions Against Fanatics",
+    "year": 1969,
+    "id": 679
+  },
+  {
+    "title": "Room",
+    "year": 1969,
+    "id": 680
+  },
+  {
+    "title": "Scenes from Under Childhood, Section One",
+    "year": 1969,
+    "id": 681
+  },
+  {
+    "title": "Scenes from Under Childhood, Section Three",
+    "year": 1969,
+    "id": 682
+  },
+  {
+    "title": "Scenes from Under Childhood, Section Two",
+    "year": 1969,
+    "id": 683
+  },
+  {
+    "title": "Song 27 (Part II) Rivers",
+    "year": 1969,
+    "id": 684
+  },
+  {
+    "title": "Song 28",
+    "year": 1969,
+    "id": 685
+  },
+  {
+    "title": "Song 29",
+    "year": 1969,
+    "id": 686
+  },
+  {
+    "title": "Up Yours Too, Guillaume Apollinaire!",
+    "year": 1969,
+    "id": 687
+  },
+  {
+    "title": "Tales",
+    "year": 1969,
+    "id": 688
+  },
+  {
+    "title": "Walden",
+    "year": 1969,
+    "id": 689
+  },
+  {
+    "title": "Window Suite of Children's Songs",
+    "year": 1969,
+    "id": 690
+  },
+  {
+    "title": "The American Soldier",
+    "year": 1970,
+    "id": 691
+  },
+  {
+    "title": "The Animals of Eden and After",
+    "year": 1970,
+    "id": 692
+  },
+  {
+    "title": "Berlin Horse",
+    "year": 1970,
+    "id": 693
+  },
+  {
+    "title": "L'Eden et après",
+    "year": 1970,
+    "id": 694
+  },
+  {
+    "title": "Even Dwarfs Started Small",
+    "year": 1970,
+    "id": 695
+  },
+  {
+    "title": "Fog Line",
+    "year": 1970,
+    "id": 696
+  },
+  {
+    "title": "Gods of the Plague",
+    "year": 1970,
+    "id": 697
+  },
+  {
+    "title": "I Don't Know",
+    "year": 1970,
+    "id": 698
+  },
+  {
+    "title": "It is Not the Homosexual Who is Perverse, But the Society in Which He Lives",
+    "year": 1970,
+    "id": 699
+  },
+  {
+    "title": "The Machine of Eden",
+    "year": 1970,
+    "id": 700
+  },
+  {
+    "title": "Out 1",
+    "year": 1970,
+    "id": 701
+  },
+  {
+    "title": "Performance",
+    "year": 1970,
+    "id": 702
+  },
+  {
+    "title": "Remedial Reading Comprehension",
+    "year": 1970,
+    "id": 703
+  },
+  {
+    "title": "Scenes from Under Childhood, Section Four",
+    "year": 1970,
+    "id": 704
+  },
+  {
+    "title": "Serene Velocity",
+    "year": 1970,
+    "id": 705
+  },
+  {
+    "title": "Sexual Meditation No. 1: Motel",
+    "year": 1970,
+    "id": 706
+  },
+  {
+    "title": "Thomas Bernhard: Three Days",
+    "year": 1970,
+    "id": 707
+  },
+  {
+    "title": "El Topo",
+    "year": 1970,
+    "id": 708
+  },
+  {
+    "title": "Trash",
+    "year": 1970,
+    "id": 709
+  },
+  {
+    "title": "Unfolding",
+    "year": 1970,
+    "id": 710
+  },
+  {
+    "title": "Valerie and Her Week of Wonders",
+    "year": 1970,
+    "id": 711
+  },
+  {
+    "title": "Vladimir et Rosa",
+    "year": 1970,
+    "id": 712
+  },
+  {
+    "title": "The Weir-Falcon Saga",
+    "year": 1970,
+    "id": 713
+  },
+  {
+    "title": "Zorns Lemma",
+    "year": 1970,
+    "id": 714
+  },
+  {
+    "title": "The Act of Seeing with One's Own Eyes",
+    "year": 1971,
+    "id": 715
+  },
+  {
+    "title": "Angels'",
+    "year": 1971,
+    "id": 716
+  },
+  {
+    "title": "Beware of a Holy Whore",
+    "year": 1971,
+    "id": 717
+  },
+  {
+    "title": "Deus Ex",
+    "year": 1971,
+    "id": 718
+  },
+  {
+    "title": "DIrty",
+    "year": 1971,
+    "id": 719
+  },
+  {
+    "title": "Door",
+    "year": 1971,
+    "id": 720
+  },
+  {
+    "title": "Dresden Dynamo",
+    "year": 1971,
+    "id": 721
+  },
+  {
+    "title": "Eyes",
+    "year": 1971,
+    "id": 722
+  },
+  {
+    "title": "Football as Never Before",
+    "year": 1971,
+    "id": 723
+  },
+  {
+    "title": "Fox Fire Child Watch",
+    "year": 1971,
+    "id": 724
+  },
+  {
+    "title": "Hand Grenade",
+    "year": 1971,
+    "id": 725
+  },
+  {
+    "title": "I'm Too Sad to Tell You",
+    "year": 1971,
+    "id": 726
+  },
+  {
+    "title": "A Journey to Avebury",
+    "year": 1971,
+    "id": 727
+  },
+  {
+    "title": "Meditation",
+    "year": 1971,
+    "id": 728
+  },
+  {
+    "title": "N. a pris les dés (N. Took the Dice)",
+    "year": 1971,
+    "id": 729
+  },
+  {
+    "title": "(nostalgia)",
+    "year": 1971,
+    "id": 730
+  },
+  {
+    "title": "The Peaceable Kingdom",
+    "year": 1971,
+    "id": 731
+  },
+  {
+    "title": "Poem",
+    "year": 1971,
+    "id": 732
+  },
+  {
+    "title": "Punishment Park",
+    "year": 1971,
+    "id": 733
+  },
+  {
+    "title": "La Région Centrale",
+    "year": 1971,
+    "id": 734
+  },
+  {
+    "title": "Sexual Meditation: Room with View",
+    "year": 1971,
+    "id": 735
+  },
+  {
+    "title": "The Trip to Door",
+    "year": 1971,
+    "id": 736
+  },
+  {
+    "title": "Viva la Muerte",
+    "year": 1971,
+    "id": 737
+  },
+  {
+    "title": "Western History",
+    "year": 1971,
+    "id": 738
+  },
+  {
+    "title": "W.R.: Mysteries of the Organism",
+    "year": 1971,
+    "id": 739
+  },
+  {
+    "title": "Chakra",
+    "year": 1972,
+    "id": 740
+  },
+  {
+    "title": "La Cicatrice Interieure",
+    "year": 1972,
+    "id": 741
+  },
+  {
+    "title": "Clocktime Trailer",
+    "year": 1972,
+    "id": 742
+  },
+  {
+    "title": "The Death of Maria Malibran",
+    "year": 1972,
+    "id": 743
+  },
+  {
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "year": 1972,
+    "id": 744
+  },
+  {
+    "title": "Dreamwood",
+    "year": 1972,
+    "id": 745
+  },
+  {
+    "title": "Dyn Amo",
+    "year": 1972,
+    "id": 746
+  },
+  {
+    "title": "Ecstasy of the Angels",
+    "year": 1972,
+    "id": 747
+  },
+  {
+    "title": "Eye Myth Educational",
+    "year": 1972,
+    "id": 748
+  },
+  {
+    "title": "Garden of Luxor",
+    "year": 1972,
+    "id": 749
+  },
+  {
+    "title": "Hats Off to Hollywood",
+    "year": 1972,
+    "id": 750
+  },
+  {
+    "title": "Hotel Monterrey",
+    "year": 1972,
+    "id": 751
+  },
+  {
+    "title": "Letter to Jane",
+    "year": 1972,
+    "id": 752
+  },
+  {
+    "title": "Portraits",
+    "year": 1972,
+    "id": 753
+  },
+  {
+    "title": "The Presence",
+    "year": 1972,
+    "id": 754
+  },
+  {
+    "title": "The Process",
+    "year": 1972,
+    "id": 755
+  },
+  {
+    "title": "Red Psalm",
+    "year": 1972,
+    "id": 756
+  },
+  {
+    "title": "Reminiscences of a Journey to Lithuania",
+    "year": 1972,
+    "id": 757
+  },
+  {
+    "title": "Requiem für einen Jungraulichen Koenig",
+    "year": 1972,
+    "id": 758
+  },
+  {
+    "title": "The Riddle of Lumen",
+    "year": 1972,
+    "id": 759
+  },
+  {
+    "title": "Sexual Meditation: Faun's Room, Yale",
+    "year": 1972,
+    "id": 760
+  },
+  {
+    "title": "Sexual Meditation: Hotel",
+    "year": 1972,
+    "id": 761
+  },
+  {
+    "title": "Sexual Meditation: Office Suite",
+    "year": 1972,
+    "id": 762
+  },
+  {
+    "title": "Sexual Meditation: Open Field",
+    "year": 1972,
+    "id": 763
+  },
+  {
+    "title": "The Shores of Phos: A Fable",
+    "year": 1972,
+    "id": 764
+  },
+  {
+    "title": "Threshold",
+    "year": 1972,
+    "id": 765
+  },
+  {
+    "title": "The Wold Shadow",
+    "year": 1972,
+    "id": 766
+  },
+  {
+    "title": "Can Dialectics Break Bricks?",
+    "year": 1973,
+    "id": 767
+  },
+  {
+    "title": "The Embassy",
+    "year": 1973,
+    "id": 768
+  },
+  {
+    "title": "F for Fake",
+    "year": 1973,
+    "id": 769
+  },
+  {
+    "title": "Fat Man on a Beach",
+    "year": 1973,
+    "id": 770
+  },
+  {
+    "title": "Ganja & Hess",
+    "year": 1973,
+    "id": 771
+  },
+  {
+    "title": "Gift",
+    "year": 1973,
+    "id": 772
+  },
+  {
+    "title": "H is for House",
+    "year": 1973,
+    "id": 773
+  },
+  {
+    "title": "The Holy Mountain",
+    "year": 1973,
+    "id": 774
+  },
+  {
+    "title": "I Will Walk Like a Crazy Horse",
+    "year": 1973,
+    "id": 775
+  },
+  {
+    "title": "Iluminacja",
+    "year": 1973,
+    "id": 776
+  },
+  {
+    "title": "Immoral Tales",
+    "year": 1973,
+    "id": 777
+  },
+  {
+    "title": "Mann & Frau & Animal",
+    "year": 1973,
+    "id": 778
+  },
+  {
+    "title": "Occasional Work of a Female Slave",
+    "year": 1973,
+    "id": 779
+  },
+  {
+    "title": "Reel Time",
+    "year": 1973,
+    "id": 780
+  },
+  {
+    "title": "... Remote ... Remote",
+    "year": 1973,
+    "id": 781
+  },
+  {
+    "title": "Sincerity I",
+    "year": 1973,
+    "id": 782
+  },
+  {
+    "title": "The Society of the Spectacle",
+    "year": 1973,
+    "id": 783
+  },
+  {
+    "title": "Stolen Apples for Karen Blixen",
+    "year": 1973,
+    "id": 784
+  },
+  {
+    "title": "Television Delivers People",
+    "year": 1973,
+    "id": 785
+  },
+  {
+    "title": "Themroc",
+    "year": 1973,
+    "id": 786
+  },
+  {
+    "title": "World on a Wire",
+    "year": 1973,
+    "id": 787
+  },
+  {
+    "title": "Year of the Woman",
+    "year": 1973,
+    "id": 788
+  },
+  {
+    "title": "Aquarien",
+    "year": 1974,
+    "id": 789
+  },
+  {
+    "title": "Céline and Julie Go Boating",
+    "year": 1974,
+    "id": 790
+  },
+  {
+    "title": "Clancy",
+    "year": 1974,
+    "id": 791
+  },
+  {
+    "title": "Dominion",
+    "year": 1974,
+    "id": 792
+  },
+  {
+    "title": "Dyketactics",
+    "year": 1974,
+    "id": 793
+  },
+  {
+    "title": "Edvard Munch",
+    "year": 1974,
+    "id": 794
+  },
+  {
+    "title": "Les Filles de Kamare",
+    "year": 1974,
+    "id": 795
+  },
+  {
+    "title": "Flight",
+    "year": 1974,
+    "id": 796
+  },
+  {
+    "title": "He Was Born, He Suffered, He Died",
+    "year": 1974,
+    "id": 797
+  },
+  {
+    "title": "Hymn to Her",
+    "year": 1974,
+    "id": 798
+  },
+  {
+    "title": "The Phantom of Liberty",
+    "year": 1974,
+    "id": 799
+  },
+  {
+    "title": "Skein",
+    "year": 1974,
+    "id": 800
+  },
+  {
+    "title": "Sol",
+    "year": 1974,
+    "id": 801
+  },
+  {
+    "title": "Space Is the Place",
+    "year": 1974,
+    "id": 802
+  },
+  {
+    "title": "Star Garden",
+    "year": 1974,
+    "id": 803
+  },
+  {
+    "title": "The Stars Are Beautiful",
+    "year": 1974,
+    "id": 804
+  },
+  {
+    "title": "Suite (212)",
+    "year": 1974,
+    "id": 805
+  },
+  {
+    "title": "Sweet Movie",
+    "year": 1974,
+    "id": 806
+  },
+  {
+    "title": "The Text of Light",
+    "year": 1974,
+    "id": 807
+  },
+  {
+    "title": "They Do Not Exist",
+    "year": 1974,
+    "id": 808
+  },
+  {
+    "title": "Vase de Noces",
+    "year": 1974,
+    "id": 809
+  },
+  {
+    "title": "The Wait",
+    "year": 1974,
+    "id": 810
+  },
+  {
+    "title": "Bataille de Waterloo",
+    "year": 1975,
+    "id": 811
+  },
+  {
+    "title": "Black Moon",
+    "year": 1975,
+    "id": 812
+  },
+  {
+    "title": "Circling",
+    "year": 1975,
+    "id": 813
+  },
+  {
+    "title": "Condition of Illusion",
+    "year": 1975,
+    "id": 814
+  },
+  {
+    "title": "Evrydiki BA 2O37",
+    "year": 1975,
+    "id": 815
+  },
+  {
+    "title": "India Song",
+    "year": 1975,
+    "id": 816
+  },
+  {
+    "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+    "year": 1975,
+    "id": 817
+  },
+  {
+    "title": "Light Music",
+    "year": 1975,
+    "id": 818
+  },
+  {
+    "title": "The Mirror",
+    "year": 1975,
+    "id": 819
+  },
+  {
+    "title": "Nightcleaners, Part 1",
+    "year": 1975,
+    "id": 820
+  },
+  {
+    "title": "Number Two",
+    "year": 1975,
+    "id": 821
+  },
+  {
+    "title": "Refutation of All the Judgements on Guy Debord's Film 'The Society of the Spectacle'",
+    "year": 1975,
+    "id": 822
+  },
+  {
+    "title": "Semiotics of the Kitchen",
+    "year": 1975,
+    "id": 823
+  },
+  {
+    "title": "Short Films 1975",
+    "year": 1975,
+    "id": 824
+  },
+  {
+    "title": "Sincerity II",
+    "year": 1975,
+    "id": 825
+  },
+  {
+    "title": "The Tree of Guernica",
+    "year": 1975,
+    "id": 826
+  },
+  {
+    "title": "Untitled No. 9",
+    "year": 1975,
+    "id": 827
+  },
+  {
+    "title": "Untitled No. 10",
+    "year": 1975,
+    "id": 828
+  },
+  {
+    "title": "A Malgam A",
+    "year": 1976,
+    "id": 829
+  },
+  {
+    "title": "Absence",
+    "year": 1976,
+    "id": 830
+  },
+  {
+    "title": "Airs",
+    "year": 1976,
+    "id": 831
+  },
+  {
+    "title": "Comment ça va?",
+    "year": 1976,
+    "id": 832
+  },
+  {
+    "title": "Crossroads",
+    "year": 1976,
+    "id": 833
+  },
+  {
+    "title": "Desert",
+    "year": 1976,
+    "id": 834
+  },
+  {
+    "title": "The Dream, NYC, The Return, The Flower",
+    "year": 1976,
+    "id": 835
+  },
+  {
+    "title": "The Girl Chewing Gum",
+    "year": 1976,
+    "id": 836
+  },
+  {
+    "title": "Heart of Glass",
+    "year": 1976,
+    "id": 837
+  },
+  {
+    "title": "Highs",
+    "year": 1976,
+    "id": 838
+  },
+  {
+    "title": "Jonah Who Will Be 25 in the Year 2000",
+    "year": 1976,
+    "id": 839
+  },
+  {
+    "title": "Leo es pardo",
+    "year": 1976,
+    "id": 840
+  },
+  {
+    "title": "Migration, for Jack Nelson",
+    "year": 1976,
+    "id": 841
+  },
+  {
+    "title": "Rembrandt, Etc., and Jane",
+    "year": 1976,
+    "id": 842
+  },
+  {
+    "title": "Short Films 1976",
+    "year": 1976,
+    "id": 843
+  },
+  {
+    "title": "Tragoedia",
+    "year": 1976,
+    "id": 844
+  },
+  {
+    "title": "Trio",
+    "year": 1976,
+    "id": 845
+  },
+  {
+    "title": "Wienfilm 1896-1976",
+    "year": 1976,
+    "id": 846
+  },
+  {
+    "title": "Window",
+    "year": 1976,
+    "id": 847
+  },
+  {
+    "title": "Le Camion (The Lorry)",
+    "year": 1977,
+    "id": 848
+  },
+  {
+    "title": "The Domain of the Moment",
+    "year": 1977,
+    "id": 849
+  },
+  {
+    "title": "Eraserhead",
+    "year": 1977,
+    "id": 850
+  },
+  {
+    "title": "The Governor",
+    "year": 1977,
+    "id": 851
+  },
+  {
+    "title": "A Grin Without a Cat",
+    "year": 1977,
+    "id": 852
+  },
+  {
+    "title": "Hitler: A Film from Germany",
+    "year": 1977,
+    "id": 853
+  },
+  {
+    "title": "House (1977 film)",
+    "year": 1977,
+    "id": 854
+  },
+  {
+    "title": "I, an Actress",
+    "year": 1977,
+    "id": 855
+  },
+  {
+    "title": "Music of the Spheres",
+    "year": 1977,
+    "id": 856
+  },
+  {
+    "title": "Reflecting Pool",
+    "year": 1977,
+    "id": 857
+  },
+  {
+    "title": "Riddles of the Sphinx",
+    "year": 1977,
+    "id": 858
+  },
+  {
+    "title": "Sentimental Journey",
+    "year": 1977,
+    "id": 859
+  },
+  {
+    "title": "Soldiers and Other Cosmic Objects",
+    "year": 1977,
+    "id": 860
+  },
+  {
+    "title": "Thames Barrier",
+    "year": 1977,
+    "id": 861
+  },
+  {
+    "title": "That Obscure Object of Desire",
+    "year": 1977,
+    "id": 862
+  },
+  {
+    "title": "Unsichtbare Gegner (Invisible Adversaries)",
+    "year": 1977,
+    "id": 863
+  },
+  {
+    "title": "Bird",
+    "year": 1978,
+    "id": 864
+  },
+  {
+    "title": "Burial Path",
+    "year": 1978,
+    "id": 865
+  },
+  {
+    "title": "Centre",
+    "year": 1978,
+    "id": 866
+  },
+  {
+    "title": "Césarée",
+    "year": 1978,
+    "id": 867
+  },
+  {
+    "title": "Duplicity",
+    "year": 1978,
+    "id": 868
+  },
+  {
+    "title": "Duplicity II",
+    "year": 1978,
+    "id": 869
+  },
+  {
+    "title": "Forza Bastia!",
+    "year": 1978,
+    "id": 870
+  },
+  {
+    "title": "Hand Exercises",
+    "year": 1978,
+    "id": 871
+  },
+  {
+    "title": "Jubilee",
+    "year": 1978,
+    "id": 872
+  },
+  {
+    "title": "Light Reading",
+    "year": 1978,
+    "id": 873
+  },
+  {
+    "title": "Nightmare Series",
+    "year": 1978,
+    "id": 874
+  },
+  {
+    "title": "Often During the Day",
+    "year": 1978,
+    "id": 875
+  },
+  {
+    "title": "Purity, and After",
+    "year": 1978,
+    "id": 876
+  },
+  {
+    "title": "Sincerity III",
+    "year": 1978,
+    "id": 877
+  },
+  {
+    "title": "Sluice",
+    "year": 1978,
+    "id": 878
+  },
+  {
+    "title": "Thot-Fal'N",
+    "year": 1978,
+    "id": 879
+  },
+  {
+    "title": "Visions of a City",
+    "year": 1978,
+    "id": 880
+  },
+  {
+    "title": "A Walk Through H: Reincarnation of an Ornithologist",
+    "year": 1978,
+    "id": 881
+  },
+  {
+    "title": "@",
+    "year": 1979,
+    "id": 882
+  },
+  {
+    "title": "Allegoria",
+    "year": 1979,
+    "id": 883
+  },
+  {
+    "title": "Cartoon Le Mousse",
+    "year": 1979,
+    "id": 884
+  },
+  {
+    "title": "The Cartoon Theatre of Dr. Gaz",
+    "year": 1979,
+    "id": 885
+  },
+  {
+    "title": "Creation",
+    "year": 1979,
+    "id": 886
+  },
+  {
+    "title": "Ear to the Ground",
+    "year": 1979,
+    "id": 887
+  },
+  {
+    "title": "Fever Dream",
+    "year": 1979,
+    "id": 888
+  },
+  {
+    "title": "Orchestra Rehearsal",
+    "year": 1979,
+    "id": 889
+  },
+  {
+    "title": "Race d'Ep (The Homosexual Century)",
+    "year": 1979,
+    "id": 890
+  },
+  {
+    "title": "Radio/On",
+    "year": 1979,
+    "id": 891
+  },
+  {
+    "title": "Roman Numeral: I",
+    "year": 1979,
+    "id": 892
+  },
+  {
+    "title": "Roman Numeral: II",
+    "year": 1979,
+    "id": 893
+  },
+  {
+    "title": "Roman Numeral: III",
+    "year": 1979,
+    "id": 894
+  },
+  {
+    "title": "Sincerity IV",
+    "year": 1979,
+    "id": 895
+  },
+  {
+    "title": "Stalker",
+    "year": 1979,
+    "id": 896
+  },
+  {
+    "title": "Tale of Tales",
+    "year": 1979,
+    "id": 897
+  },
+  {
+    "title": "Tally Brown, New York",
+    "year": 1979,
+    "id": 898
+  },
+  {
+    "title": "Thriller",
+    "year": 1979,
+    "id": 899
+  },
+  {
+    "title": "The Wretches Are Still Singing",
+    "year": 1979,
+    "id": 900
+  },
+  {
+    "title": "Amy!",
+    "year": 1980,
+    "id": 901
+  },
+  {
+    "title": "Duplicity III",
+    "year": 1980,
+    "id": 902
+  },
+  {
+    "title": "Germany, Pale Mother",
+    "year": 1980,
+    "id": 903
+  },
+  {
+    "title": "Lucifer Rising",
+    "year": 1980,
+    "id": 904
+  },
+  {
+    "title": "Made Manifest",
+    "year": 1980,
+    "id": 905
+  },
+  {
+    "title": "Other",
+    "year": 1980,
+    "id": 906
+  },
+  {
+    "title": "Roman Numeral: IV",
+    "year": 1980,
+    "id": 907
+  },
+  {
+    "title": "Roman Numeral: V",
+    "year": 1980,
+    "id": 908
+  },
+  {
+    "title": "Roman Numeral: VI",
+    "year": 1980,
+    "id": 909
+  },
+  {
+    "title": "Roman Numeral: VII",
+    "year": 1980,
+    "id": 910
+  },
+  {
+    "title": "Salome",
+    "year": 1980,
+    "id": 911
+  },
+  {
+    "title": "Sincerity V",
+    "year": 1980,
+    "id": 912
+  },
+  {
+    "title": "Aftermath",
+    "year": 1981,
+    "id": 913
+  },
+  {
+    "title": "Arabic Numeral Series 1",
+    "year": 1981,
+    "id": 914
+  },
+  {
+    "title": "Arabic Numeral Series 2",
+    "year": 1981,
+    "id": 915
+  },
+  {
+    "title": "Arabic Numeral Series 3",
+    "year": 1981,
+    "id": 916
+  },
+  {
+    "title": "Arabic Numeral Series 4",
+    "year": 1981,
+    "id": 917
+  },
+  {
+    "title": "Arabic Numeral Series 5",
+    "year": 1981,
+    "id": 918
+  },
+  {
+    "title": "Arabic Numeral Series 6",
+    "year": 1981,
+    "id": 919
+  },
+  {
+    "title": "Arabic Numeral Series 7",
+    "year": 1981,
+    "id": 920
+  },
+  {
+    "title": "Arabic Numeral Series 8",
+    "year": 1981,
+    "id": 921
+  },
+  {
+    "title": "Arabic Numeral Series 9",
+    "year": 1981,
+    "id": 922
+  },
+  {
+    "title": "Arabic Numeral Series 0 + 10",
+    "year": 1981,
+    "id": 923
+  },
+  {
+    "title": "Arabic Numeral Series 11",
+    "year": 1981,
+    "id": 924
+  },
+  {
+    "title": "Arabic Numeral Series 12",
+    "year": 1981,
+    "id": 925
+  },
+  {
+    "title": "Arabic Numeral Series 13",
+    "year": 1981,
+    "id": 926
+  },
+  {
+    "title": "The Garden of Earthly Delights",
+    "year": 1981,
+    "id": 927
+  },
+  {
+    "title": "Murder Psalm",
+    "year": 1981,
+    "id": 928
+  },
+  {
+    "title": "No Mercy, No Future",
+    "year": 1981,
+    "id": 929
+  },
+  {
+    "title": "Nodes",
+    "year": 1981,
+    "id": 930
+  },
+  {
+    "title": "Le Pont du Nord",
+    "year": 1981,
+    "id": 931
+  },
+  {
+    "title": "Possession",
+    "year": 1981,
+    "id": 932
+  },
+  {
+    "title": "Roman Numeral: VIII",
+    "year": 1981,
+    "id": 933
+  },
+  {
+    "title": "Roman Numeral: IX",
+    "year": 1981,
+    "id": 934
+  },
+  {
+    "title": "RR",
+    "year": 1981,
+    "id": 935
+  },
+  {
+    "title": "Stonebridge Park",
+    "year": 1981,
+    "id": 936
+  },
+  {
+    "title": "T.G.: Psychic Rally in Heaven",
+    "year": 1981,
+    "id": 937
+  },
+  {
+    "title": "Tango",
+    "year": 1981,
+    "id": 938
+  },
+  {
+    "title": "Unconscious London Strata",
+    "year": 1981,
+    "id": 939
+  },
+  {
+    "title": "The Angel",
+    "year": 1982,
+    "id": 940
+  },
+  {
+    "title": "Arabic Numeral Series 14",
+    "year": 1982,
+    "id": 941
+  },
+  {
+    "title": "Arabic Numeral Series 15",
+    "year": 1982,
+    "id": 942
+  },
+  {
+    "title": "Arabic Numeral Series 16",
+    "year": 1982,
+    "id": 943
+  },
+  {
+    "title": "Arabic Numeral Series 17",
+    "year": 1982,
+    "id": 944
+  },
+  {
+    "title": "Arabic Numeral Series 18",
+    "year": 1982,
+    "id": 945
+  },
+  {
+    "title": "Arabic Numeral Series 19",
+    "year": 1982,
+    "id": 946
+  },
+  {
+    "title": "The Atomic Café",
+    "year": 1982,
+    "id": 947
+  },
+  {
+    "title": "Baby Doll",
+    "year": 1982,
+    "id": 948
+  },
+  {
+    "title": "Chronopolis",
+    "year": 1982,
+    "id": 949
+  },
+  {
+    "title": "Dimension of Dialogue",
+    "year": 1982,
+    "id": 950
+  },
+  {
+    "title": "The Draughtsman's Contract",
+    "year": 1982,
+    "id": 951
+  },
+  {
+    "title": "In Order to Pass",
+    "year": 1982,
+    "id": 952
+  },
+  {
+    "title": "Macbeth",
+    "year": 1982,
+    "id": 953
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "year": 1982,
+    "id": 954
+  },
+  {
+    "title": "Liquid Sky",
+    "year": 1982,
+    "id": 955
+  },
+  {
+    "title": "Personal Cuts",
+    "year": 1982,
+    "id": 956
+  },
+  {
+    "title": "Pictures on Pink Paper",
+    "year": 1982,
+    "id": 957
+  },
+  {
+    "title": "Shift",
+    "year": 1982,
+    "id": 958
+  },
+  {
+    "title": "Three Crowns of the Sailor",
+    "year": 1982,
+    "id": 959
+  },
+  {
+    "title": "La Belle captive",
+    "year": 1983,
+    "id": 960
+  },
+  {
+    "title": "City of Lost Souls",
+    "year": 1983,
+    "id": 961
+  },
+  {
+    "title": "Cosey Fanni Tutti",
+    "year": 1983,
+    "id": 962
+  },
+  {
+    "title": "Diary",
+    "year": 1983,
+    "id": 963
+  },
+  {
+    "title": "First Name: Carmen",
+    "year": 1983,
+    "id": 964
+  },
+  {
+    "title": "Freeze Frame",
+    "year": 1983,
+    "id": 965
+  },
+  {
+    "title": "Hell Spit Flexion",
+    "year": 1983,
+    "id": 966
+  },
+  {
+    "title": "Messages",
+    "year": 1983,
+    "id": 967
+  },
+  {
+    "title": "No End",
+    "year": 1983,
+    "id": 968
+  },
+  {
+    "title": "'Norwood",
+    "year": 1983,
+    "id": 969
+  },
+  {
+    "title": "Sans soleil",
+    "year": 1983,
+    "id": 970
+  },
+  {
+    "title": "Sweet Bunch",
+    "year": 1983,
+    "id": 971
+  },
+  {
+    "title": "Syntagma",
+    "year": 1983,
+    "id": 972
+  },
+  {
+    "title": "Blue Monday",
+    "year": 1984,
+    "id": 973
+  },
+  {
+    "title": "The Cabinet of Jan Švankmajer",
+    "year": 1984,
+    "id": 974
+  },
+  {
+    "title": "Egyptian Series",
+    "year": 1984,
+    "id": 975
+  },
+  {
+    "title": "The Future of Emily",
+    "year": 1984,
+    "id": 976
+  },
+  {
+    "title": "The Green Witch and Merry Diana",
+    "year": 1984,
+    "id": 977
+  },
+  {
+    "title": "Ian Breakwell's Continuous Diary",
+    "year": 1984,
+    "id": 978
+  },
+  {
+    "title": "Klassenverhältnisse",
+    "year": 1984,
+    "id": 979
+  },
+  {
+    "title": "Shut the Fuck Up",
+    "year": 1984,
+    "id": 980
+  },
+  {
+    "title": "Tortured Dust Part I",
+    "year": 1984,
+    "id": 981
+  },
+  {
+    "title": "Tortured Dust Part II",
+    "year": 1984,
+    "id": 982
+  },
+  {
+    "title": "Tortured Dust Part III",
+    "year": 1984,
+    "id": 983
+  },
+  {
+    "title": "Tortured Dust Part IV",
+    "year": 1984,
+    "id": 984
+  },
+  {
+    "title": 2084,
+    "year": 1985,
+    "id": 985
+  },
+  {
+    "title": "The Angelic Conversation",
+    "year": 1985,
+    "id": 986
+  },
+  {
+    "title": "The Epic of Gilgamesh",
+    "year": 1985,
+    "id": 987
+  },
+  {
+    "title": "Les Favoris de la Lune",
+    "year": 1985,
+    "id": 988
+  },
+  {
+    "title": "Hail Mary",
+    "year": 1985,
+    "id": 989
+  },
+  {
+    "title": "Jane",
+    "year": 1985,
+    "id": 990
+  },
+  {
+    "title": "The Monument of Sacrifice and Orgy",
+    "year": 1985,
+    "id": 991
+  },
+  {
+    "title": "The Practice of Love",
+    "year": 1985,
+    "id": 992
+  },
+  {
+    "title": "The Right Side of My Brain",
+    "year": 1985,
+    "id": 993
+  },
+  {
+    "title": "Super-8 Girl Games",
+    "year": 1985,
+    "id": 994
+  },
+  {
+    "title": "Where Evil Dwells",
+    "year": 1985,
+    "id": 995
+  },
+  {
+    "title": "A Zed & Two Noughts",
+    "year": 1985,
+    "id": 996
+  },
+  {
+    "title": "The Aerodyne",
+    "year": 1986,
+    "id": 997
+  },
+  {
+    "title": "Caravaggio",
+    "year": 1986,
+    "id": 998
+  },
+  {
+    "title": "Confession",
+    "year": 1986,
+    "id": 999
+  },
+  {
+    "title": "Dance Shadows by Danielle Helander",
+    "year": 1986,
+    "id": 1000
+  },
+  {
+    "title": "The End",
+    "year": 1986,
+    "id": 1001
+  },
+  {
+    "title": "The Family Album",
+    "year": 1986,
+    "id": 1002
+  },
+  {
+    "title": "Fingered",
+    "year": 1986,
+    "id": 1003
+  },
+  {
+    "title": "Fireloop",
+    "year": 1986,
+    "id": 1004
+  },
+  {
+    "title": "Foolproof Illusion",
+    "year": 1986,
+    "id": 1005
+  },
+  {
+    "title": "Handsworth Songs",
+    "year": 1986,
+    "id": 1006
+  },
+  {
+    "title": "Kelimba",
+    "year": 1986,
+    "id": 1007
+  },
+  {
+    "title": "The Loom",
+    "year": 1986,
+    "id": 1008
+  },
+  {
+    "title": "Mommy, Mommy, Where's My Brain?",
+    "year": 1986,
+    "id": 1009
+  },
+  {
+    "title": "Nidhiyude Katha",
+    "year": 1986,
+    "id": 1010
+  },
+  {
+    "title": "Night Music[disambiguation needed]",
+    "year": 1986,
+    "id": 1011
+  },
+  {
+    "title": "Street of Crocodiles",
+    "year": 1986,
+    "id": 1012
+  },
+  {
+    "title": "Thames Film",
+    "year": 1986,
+    "id": 1013
+  },
+  {
+    "title": "Toutes les femmes est Jeanne d'Arc",
+    "year": 1986,
+    "id": 1014
+  },
+  {
+    "title": "Dream",
+    "year": 1987,
+    "id": 1015
+  },
+  {
+    "title": "All Our Secrets are Contained in an Image",
+    "year": 1987,
+    "id": 1016
+  },
+  {
+    "title": "The Black Tower",
+    "year": 1987,
+    "id": 1017
+  },
+  {
+    "title": "Cruel Illness of Men",
+    "year": 1987,
+    "id": 1018
+  },
+  {
+    "title": "The Cure for Insomnia",
+    "year": 1987,
+    "id": 1019
+  },
+  {
+    "title": "The Dante Quartet",
+    "year": 1987,
+    "id": 1020
+  },
+  {
+    "title": "The Deadman",
+    "year": 1987,
+    "id": 1021
+  },
+  {
+    "title": "Faustfilm: An Opera: Part I",
+    "year": 1987,
+    "id": 1022
+  },
+  {
+    "title": "From the Archives of Modern Art",
+    "year": 1987,
+    "id": 1023
+  },
+  {
+    "title": "How to Shoot a Crime",
+    "year": 1987,
+    "id": 1024
+  },
+  {
+    "title": "Kindgering",
+    "year": 1987,
+    "id": 1025
+  },
+  {
+    "title": "The Last of England",
+    "year": 1987,
+    "id": 1026
+  },
+  {
+    "title": "Loud Visual Noises",
+    "year": 1987,
+    "id": 1027
+  },
+  {
+    "title": "Morning Patrol",
+    "year": 1987,
+    "id": 1028
+  },
+  {
+    "title": "The Revolutionary Sketch",
+    "year": 1987,
+    "id": 1029
+  },
+  {
+    "title": "Traktora",
+    "year": 1987,
+    "id": 1030
+  },
+  {
+    "title": "Alice",
+    "year": 1988,
+    "id": 1031
+  },
+  {
+    "title": "Degrees of Blindness",
+    "year": 1988,
+    "id": 1032
+  },
+  {
+    "title": "Faust 3: Candida Albacore",
+    "year": 1988,
+    "id": 1033
+  },
+  {
+    "title": "Faust's Other: An Idyll",
+    "year": 1988,
+    "id": 1034
+  },
+  {
+    "title": "I... Dreaming",
+    "year": 1988,
+    "id": 1035
+  },
+  {
+    "title": "The Limits of Vision",
+    "year": 1988,
+    "id": 1036
+  },
+  {
+    "title": "Marilyn's Window",
+    "year": 1988,
+    "id": 1037
+  },
+  {
+    "title": "Matins",
+    "year": 1988,
+    "id": 1038
+  },
+  {
+    "title": "Measures of Distance",
+    "year": 1988,
+    "id": 1039
+  },
+  {
+    "title": "Powaqqatsi",
+    "year": 1988,
+    "id": 1040
+  },
+  {
+    "title": "Rage Net",
+    "year": 1988,
+    "id": 1041
+  },
+  {
+    "title": "Virile Games",
+    "year": 1988,
+    "id": 1042
+  },
+  {
+    "title": "Babylon Series #1",
+    "year": 1989,
+    "id": 1043
+  },
+  {
+    "title": "Begotten",
+    "year": 1989,
+    "id": 1044
+  },
+  {
+    "title": "Clownery",
+    "year": 1989,
+    "id": 1045
+  },
+  {
+    "title": "The Clouds",
+    "year": 1989,
+    "id": 1046
+  },
+  {
+    "title": "Ecce Homo",
+    "year": 1989,
+    "id": 1047
+  },
+  {
+    "title": "Faust 4",
+    "year": 1989,
+    "id": 1048
+  },
+  {
+    "title": "Looking for Langston",
+    "year": 1989,
+    "id": 1049
+  },
+  {
+    "title": "Marquis",
+    "year": 1989,
+    "id": 1050
+  },
+  {
+    "title": "Santa Sangre",
+    "year": 1989,
+    "id": 1051
+  },
+  {
+    "title": "Tabula Rasa",
+    "year": 1989,
+    "id": 1052
+  },
+  {
+    "title": "Tetsuo: The Iron Man",
+    "year": 1989,
+    "id": 1053
+  },
+  {
+    "title": "Visions in Meditation #1",
+    "year": 1989,
+    "id": 1054
+  },
+  {
+    "title": "Visions in Meditation #2: Mesa Verde",
+    "year": 1989,
+    "id": 1055
+  },
+  {
+    "title": "The Window",
+    "year": 1989,
+    "id": 1056
+  },
+  {
+    "title": "Absurd",
+    "year": 1990,
+    "id": 1057
+  },
+  {
+    "title": "Archangel",
+    "year": 1990,
+    "id": 1058
+  },
+  {
+    "title": "Babylon Series #2",
+    "year": 1990,
+    "id": 1059
+  },
+  {
+    "title": "Babylon Series #3",
+    "year": 1990,
+    "id": 1060
+  },
+  {
+    "title": "Bilokacija",
+    "year": 1990,
+    "id": 1061
+  },
+  {
+    "title": "City Streaming",
+    "year": 1990,
+    "id": 1062
+  },
+  {
+    "title": "Close-Up (1990 film)",
+    "year": 1990,
+    "id": 1063
+  },
+  {
+    "title": "The Comb",
+    "year": 1990,
+    "id": 1064
+  },
+  {
+    "title": "The Death of Stalinism in Bohemia",
+    "year": 1990,
+    "id": 1065
+  },
+  {
+    "title": "The Garden",
+    "year": 1990,
+    "id": 1066
+  },
+  {
+    "title": "Geography",
+    "year": 1990,
+    "id": 1067
+  },
+  {
+    "title": "Glaze of Cathexis",
+    "year": 1990,
+    "id": 1068
+  },
+  {
+    "title": "How to Live in the German Federal Republic",
+    "year": 1990,
+    "id": 1069
+  },
+  {
+    "title": "Moscow Portraits",
+    "year": 1990,
+    "id": 1070
+  },
+  {
+    "title": "Passage Through: A Ritual",
+    "year": 1990,
+    "id": 1071
+  },
+  {
+    "title": "Singapore Sling",
+    "year": 1990,
+    "id": 1072
+  },
+  {
+    "title": "Tenamonya Connection",
+    "year": 1990,
+    "id": 1073
+  },
+  {
+    "title": "The Thatch of Night",
+    "year": 1990,
+    "id": 1074
+  },
+  {
+    "title": "Vision of the Fire Tree",
+    "year": 1990,
+    "id": 1075
+  },
+  {
+    "title": "Visions in Meditation #3: Plato's Cave",
+    "year": 1990,
+    "id": 1076
+  },
+  {
+    "title": "Visions in Meditation #4: D.H. Lawrence",
+    "year": 1990,
+    "id": 1077
+  },
+  {
+    "title": "You Be Mother",
+    "year": 1990,
+    "id": 1078
+  },
+  {
+    "title": "Agnus Dei Kinder Synapse",
+    "year": 1991,
+    "id": 1079
+  },
+  {
+    "title": "A Child's Garden and the Serious Sea",
+    "year": 1991,
+    "id": 1080
+  },
+  {
+    "title": "Christ Mass Sex Dance",
+    "year": 1991,
+    "id": 1081
+  },
+  {
+    "title": "Delicacies of Molten Horror Synapse",
+    "year": 1991,
+    "id": 1082
+  },
+  {
+    "title": "Delicatessen",
+    "year": 1991,
+    "id": 1083
+  },
+  {
+    "title": "Edward II",
+    "year": 1991,
+    "id": 1084
+  },
+  {
+    "title": "Europa",
+    "year": 1991,
+    "id": 1085
+  },
+  {
+    "title": "Flaming Ears",
+    "year": 1991,
+    "id": 1086
+  },
+  {
+    "title": "Franz Kafka",
+    "year": 1991,
+    "id": 1087
+  },
+  {
+    "title": "Naked Lunch",
+    "year": 1991,
+    "id": 1088
+  },
+  {
+    "title": "Prospero's Books",
+    "year": 1991,
+    "id": 1089
+  },
+  {
+    "title": "Traveling at Night",
+    "year": 1991,
+    "id": 1090
+  },
+  {
+    "title": "Tribulation 99: Alien Anomalies Under America",
+    "year": 1991,
+    "id": 1091
+  },
+  {
+    "title": "Acidfilmda",
+    "year": 1992,
+    "id": 1092
+  },
+  {
+    "title": "The Bride, The Bachelors – Even",
+    "year": 1992,
+    "id": 1093
+  },
+  {
+    "title": "A Cage of Flame",
+    "year": 1992,
+    "id": 1094
+  },
+  {
+    "title": "Crack Glass Eulogy",
+    "year": 1992,
+    "id": 1095
+  },
+  {
+    "title": "Fatima's Letter",
+    "year": 1992,
+    "id": 1096
+  },
+  {
+    "title": "I am My Own Woman",
+    "year": 1992,
+    "id": 1097
+  },
+  {
+    "title": "Interpolations I-V",
+    "year": 1992,
+    "id": 1098
+  },
+  {
+    "title": "The Last Bolshevik",
+    "year": 1992,
+    "id": 1099
+  },
+  {
+    "title": "Manufacturing Consent: Noam Chomsky and the Media",
+    "year": 1992,
+    "id": 1100
+  },
+  {
+    "title": "Jidlo",
+    "year": 1992,
+    "id": 1101
+  },
+  {
+    "title": "Side/Walk/Shuttle",
+    "year": 1992,
+    "id": 1102
+  },
+  {
+    "title": "Untitled (For Marilyn)",
+    "year": 1992,
+    "id": 1103
+  },
+  {
+    "title": "Videograms of a Revolution",
+    "year": 1992,
+    "id": 1104
+  },
+  {
+    "title": "Wittgenstein Tractatus",
+    "year": 1992,
+    "id": 1105
+  },
+  {
+    "title": "Zefiro Torna",
+    "year": 1992,
+    "id": 1106
+  },
+  {
+    "title": "Anamorphosis, or De Artificiali Perspectiva",
+    "year": 1993,
+    "id": 1107
+  },
+  {
+    "title": "Artwar",
+    "year": 1993,
+    "id": 1108
+  },
+  {
+    "title": "The Attendant",
+    "year": 1993,
+    "id": 1109
+  },
+  {
+    "title": "Autumnal",
+    "year": 1993,
+    "id": 1110
+  },
+  {
+    "title": "Blossom-Gift/Favor",
+    "year": 1993,
+    "id": 1111
+  },
+  {
+    "title": "Blue",
+    "year": 1993,
+    "id": 1112
+  },
+  {
+    "title": "Boulder Blues and Pearls and...",
+    "year": 1993,
+    "id": 1113
+  },
+  {
+    "title": "Careful",
+    "year": 1993,
+    "id": 1114
+  },
+  {
+    "title": "Ephemeral Solidity",
+    "year": 1993,
+    "id": 1115
+  },
+  {
+    "title": "Eyewitnesses in Foreign Countries",
+    "year": 1993,
+    "id": 1116
+  },
+  {
+    "title": "Fast Trip, Long Drop",
+    "year": 1993,
+    "id": 1117
+  },
+  {
+    "title": "Franz Kafka's It's a Wonderful Life",
+    "year": 1993,
+    "id": 1118
+  },
+  {
+    "title": "Gender Troublemakers",
+    "year": 1993,
+    "id": 1119
+  },
+  {
+    "title": "The Harrowing",
+    "year": 1993,
+    "id": 1120
+  },
+  {
+    "title": "Passage à l'acte",
+    "year": 1993,
+    "id": 1121
+  },
+  {
+    "title": "Project Eleonara",
+    "year": 1993,
+    "id": 1122
+  },
+  {
+    "title": "Smoking/No Smoking",
+    "year": 1993,
+    "id": 1123
+  },
+  {
+    "title": "Stellar",
+    "year": 1993,
+    "id": 1124
+  },
+  {
+    "title": "Stille Nacht II: Tales from the Vienna Woods",
+    "year": 1993,
+    "id": 1125
+  },
+  {
+    "title": "Stille Nacht IV: Can't Go Wrong Without You",
+    "year": 1993,
+    "id": 1126
+  },
+  {
+    "title": "Study in Color and Black and White",
+    "year": 1993,
+    "id": 1127
+  },
+  {
+    "title": "Three Homerics",
+    "year": 1993,
+    "id": 1128
+  },
+  {
+    "title": "Tryst Haunt",
+    "year": 1993,
+    "id": 1129
+  },
+  {
+    "title": "Wittgenstein",
+    "year": 1993,
+    "id": 1130
+  },
+  {
+    "title": "A.13 (short)",
+    "year": 1994,
+    "id": 1131
+  },
+  {
+    "title": "Black Ice",
+    "year": 1994,
+    "id": 1132
+  },
+  {
+    "title": "Cannot Exist",
+    "year": 1994,
+    "id": 1133
+  },
+  {
+    "title": "Cannot Not Exist",
+    "year": 1994,
+    "id": 1134
+  },
+  {
+    "title": "Chartres Series",
+    "year": 1994,
+    "id": 1135
+  },
+  {
+    "title": "Elementary Phrases",
+    "year": 1994,
+    "id": 1136
+  },
+  {
+    "title": "Faust",
+    "year": 1994,
+    "id": 1137
+  },
+  {
+    "title": "From: First Hymn to the Night - Novalis",
+    "year": 1994,
+    "id": 1138
+  },
+  {
+    "title": "London",
+    "year": 1994,
+    "id": 1139
+  },
+  {
+    "title": "Luna 10",
+    "year": 1994,
+    "id": 1140
+  },
+  {
+    "title": "The Mammals of Victoria",
+    "year": 1994,
+    "id": 1141
+  },
+  {
+    "title": "Naughts",
+    "year": 1994,
+    "id": 1142
+  },
+  {
+    "title": "Postcards from America",
+    "year": 1994,
+    "id": 1143
+  },
+  {
+    "title": "Roy Cohn/Jack Smith",
+    "year": 1994,
+    "id": 1144
+  },
+  {
+    "title": "Sátántángo",
+    "year": 1994,
+    "id": 1145
+  },
+  {
+    "title": "Seduction of a Cyborg",
+    "year": 1994,
+    "id": 1146
+  },
+  {
+    "title": "Vanya on 42nd Street",
+    "year": 1994,
+    "id": 1147
+  },
+  {
+    "title": "What She Wants",
+    "year": 1994,
+    "id": 1148
+  },
+  {
+    "title": "Why I Never Became a Dancer",
+    "year": 1994,
+    "id": 1149
+  },
+  {
+    "title": "Above the Lake",
+    "year": 1995,
+    "id": 1150
+  },
+  {
+    "title": "A3 – Apatija, AIDS in Antarktika",
+    "year": 1995,
+    "id": 1151
+  },
+  {
+    "title": "The 'b' Series",
+    "year": 1995,
+    "id": 1152
+  },
+  {
+    "title": "Cremaster 1",
+    "year": 1995,
+    "id": 1153
+  },
+  {
+    "title": "Earthen Aerie",
+    "year": 1995,
+    "id": 1154
+  },
+  {
+    "title": "I...",
+    "year": 1995,
+    "id": 1155
+  },
+  {
+    "title": "I Take These Truths",
+    "year": 1995,
+    "id": 1156
+  },
+  {
+    "title": "If 6 was 9",
+    "year": 1995,
+    "id": 1157
+  },
+  {
+    "title": "In Consideration of Pompeii",
+    "year": 1995,
+    "id": 1158
+  },
+  {
+    "title": "JLG/JLG: Self-Portrait in December",
+    "year": 1995,
+    "id": 1159
+  },
+  {
+    "title": "The Lost Films",
+    "year": 1995,
+    "id": 1160
+  },
+  {
+    "title": "Lumière and Company",
+    "year": 1995,
+    "id": 1161
+  },
+  {
+    "title": "Neurosia: FIfty Years of Perversion",
+    "year": 1995,
+    "id": 1162
+  },
+  {
+    "title": "Out of the Present",
+    "year": 1995,
+    "id": 1163
+  },
+  {
+    "title": "Paranoia Corridor",
+    "year": 1995,
+    "id": 1164
+  },
+  {
+    "title": "Sonic Outlaws",
+    "year": 1995,
+    "id": 1165
+  },
+  {
+    "title": "Spring Cycle",
+    "year": 1995,
+    "id": 1166
+  },
+  {
+    "title": "Tokyo Fist",
+    "year": 1995,
+    "id": 1167
+  },
+  {
+    "title": "We Hold These",
+    "year": 1995,
+    "id": 1168
+  },
+  {
+    "title": "jLG/JLG: Self-Portrait in December",
+    "year": 1996,
+    "id": 1169
+  },
+  {
+    "title": "Blue Value",
+    "year": 1996,
+    "id": 1170
+  },
+  {
+    "title": "Breaking the Waves",
+    "year": 1996,
+    "id": 1171
+  },
+  {
+    "title": "Comingled Containers",
+    "year": 1996,
+    "id": 1172
+  },
+  {
+    "title": "Concrescence",
+    "year": 1996,
+    "id": 1173
+  },
+  {
+    "title": "Conspirators of Pleasure",
+    "year": 1996,
+    "id": 1174
+  },
+  {
+    "title": "Crash",
+    "year": 1996,
+    "id": 1175
+  },
+  {
+    "title": "The Film of Her",
+    "year": 1996,
+    "id": 1176
+  },
+  {
+    "title": "For Ever Mozart",
+    "year": 1996,
+    "id": 1177
+  },
+  {
+    "title": "The Fur of Home",
+    "year": 1996,
+    "id": 1178
+  },
+  {
+    "title": "Gallivant",
+    "year": 1996,
+    "id": 1179
+  },
+  {
+    "title": "Georgetown Loop",
+    "year": 1996,
+    "id": 1180
+  },
+  {
+    "title": "Happy-End",
+    "year": 1996,
+    "id": 1181
+  },
+  {
+    "title": "Hide and Seek",
+    "year": 1996,
+    "id": 1182
+  },
+  {
+    "title": "Irma Vep",
+    "year": 1996,
+    "id": 1183
+  },
+  {
+    "title": "Passagen",
+    "year": 1996,
+    "id": 1184
+  },
+  {
+    "title": "The Pillow Book",
+    "year": 1996,
+    "id": 1185
+  },
+  {
+    "title": "Polite Madness",
+    "year": 1996,
+    "id": 1186
+  },
+  {
+    "title": "Prelude 1",
+    "year": 1996,
+    "id": 1187
+  },
+  {
+    "title": "Prelude 2",
+    "year": 1996,
+    "id": 1188
+  },
+  {
+    "title": "Prelude 3",
+    "year": 1996,
+    "id": 1189
+  },
+  {
+    "title": "Prelude 4",
+    "year": 1996,
+    "id": 1190
+  },
+  {
+    "title": "Prelude 5",
+    "year": 1996,
+    "id": 1191
+  },
+  {
+    "title": "Prelude 6",
+    "year": 1996,
+    "id": 1192
+  },
+  {
+    "title": "Prelude 7",
+    "year": 1996,
+    "id": 1193
+  },
+  {
+    "title": "Prelude 8",
+    "year": 1996,
+    "id": 1194
+  },
+  {
+    "title": "Prelude 9",
+    "year": 1996,
+    "id": 1195
+  },
+  {
+    "title": "Prelude 10",
+    "year": 1996,
+    "id": 1196
+  },
+  {
+    "title": "Prelude 11",
+    "year": 1996,
+    "id": 1197
+  },
+  {
+    "title": "Prelude 12",
+    "year": 1996,
+    "id": 1198
+  },
+  {
+    "title": "Prelude 13",
+    "year": 1996,
+    "id": 1199
+  },
+  {
+    "title": "Prelude 14",
+    "year": 1996,
+    "id": 1200
+  },
+  {
+    "title": "Prelude 15",
+    "year": 1996,
+    "id": 1201
+  },
+  {
+    "title": "Prelude 16",
+    "year": 1996,
+    "id": 1202
+  },
+  {
+    "title": "Prelude 17",
+    "year": 1996,
+    "id": 1203
+  },
+  {
+    "title": "Prelude 18",
+    "year": 1996,
+    "id": 1204
+  },
+  {
+    "title": "Prelude 19",
+    "year": 1996,
+    "id": 1205
+  },
+  {
+    "title": "Prelude 20",
+    "year": 1996,
+    "id": 1206
+  },
+  {
+    "title": "Prelude 21",
+    "year": 1996,
+    "id": 1207
+  },
+  {
+    "title": "Prelude 22",
+    "year": 1996,
+    "id": 1208
+  },
+  {
+    "title": "Prelude 23",
+    "year": 1996,
+    "id": 1209
+  },
+  {
+    "title": "Prelude 24",
+    "year": 1996,
+    "id": 1210
+  },
+  {
+    "title": "Sexual Saga",
+    "year": 1996,
+    "id": 1211
+  },
+  {
+    "title": "Shockingly Hot",
+    "year": 1996,
+    "id": 1212
+  },
+  {
+    "title": "Terminus for You",
+    "year": 1996,
+    "id": 1213
+  },
+  {
+    "title": "Through Wounded Eyes",
+    "year": 1996,
+    "id": 1214
+  },
+  {
+    "title": "Two Found Objects of Charles Boultenhouse",
+    "year": 1996,
+    "id": 1215
+  },
+  {
+    "title": "Village of Dreams",
+    "year": 1996,
+    "id": 1216
+  },
+  {
+    "title": "Astor Place",
+    "year": 1997,
+    "id": 1217
+  },
+  {
+    "title": "The Cat of the Worm's Green Realm",
+    "year": 1997,
+    "id": 1218
+  },
+  {
+    "title": "Divertimento",
+    "year": 1997,
+    "id": 1219
+  },
+  {
+    "title": "Film Ist.",
+    "year": 1997,
+    "id": 1220
+  },
+  {
+    "title": "Gummo",
+    "year": 1997,
+    "id": 1221
+  },
+  {
+    "title": "How I Learned to Stop Worring and Love Ariel Sharon",
+    "year": 1997,
+    "id": 1222
+  },
+  {
+    "title": "Last Hymn to the Night - Novalis",
+    "year": 1997,
+    "id": 1223
+  },
+  {
+    "title": "Level Five",
+    "year": 1997,
+    "id": 1224
+  },
+  {
+    "title": "Lost Highway",
+    "year": 1997,
+    "id": 1225
+  },
+  {
+    "title": "Mein Herz – niemandem!",
+    "year": 1997,
+    "id": 1226
+  },
+  {
+    "title": "The Mirror",
+    "year": 1997,
+    "id": 1227
+  },
+  {
+    "title": "Post-socializem + Retroavantgarde + IRWIN",
+    "year": 1997,
+    "id": 1228
+  },
+  {
+    "title": "Robinson in Space",
+    "year": 1997,
+    "id": 1229
+  },
+  {
+    "title": "Scars",
+    "year": 1997,
+    "id": 1230
+  },
+  {
+    "title": "Self Song/Death Song",
+    "year": 1997,
+    "id": 1231
+  },
+  {
+    "title": "Still Life",
+    "year": 1997,
+    "id": 1232
+  },
+  {
+    "title": "Story of I",
+    "year": 1997,
+    "id": 1233
+  },
+  {
+    "title": "Today",
+    "year": 1997,
+    "id": 1234
+  },
+  {
+    "title": "Uncut",
+    "year": 1997,
+    "id": 1235
+  },
+  {
+    "title": "Yggdrasill: Whose Roots Are Stars In The Human Mind",
+    "year": 1997,
+    "id": 1236
+  },
+  {
+    "title": "... Reel Five",
+    "year": 1998,
+    "id": 1237
+  },
+  {
+    "title": "... Reel Four",
+    "year": 1998,
+    "id": 1238
+  },
+  {
+    "title": "... Reel One",
+    "year": 1998,
+    "id": 1239
+  },
+  {
+    "title": "... Reel Three",
+    "year": 1998,
+    "id": 1240
+  },
+  {
+    "title": "... Reel Two",
+    "year": 1998,
+    "id": 1241
+  },
+  {
+    "title": "Alone. Life Wastes Andy Hardy",
+    "year": 1998,
+    "id": 1242
+  },
+  {
+    "title": "L'Arrivée",
+    "year": 1998,
+    "id": 1243
+  },
+  {
+    "title": "Dandy Dust",
+    "year": 1998,
+    "id": 1244
+  },
+  {
+    "title": "Fear and Loathing in Las Vegas",
+    "year": 1998,
+    "id": 1245
+  },
+  {
+    "title": "Female Mystique and Spare Leaves",
+    "year": 1998,
+    "id": 1246
+  },
+  {
+    "title": "Festen",
+    "year": 1998,
+    "id": 1247
+  },
+  {
+    "title": "Histoire(s) du cinéma",
+    "year": 1998,
+    "id": 1248
+  },
+  {
+    "title": "His-story",
+    "year": 1998,
+    "id": 1249
+  },
+  {
+    "title": "The Idiots",
+    "year": 1998,
+    "id": 1250
+  },
+  {
+    "title": "Money, A Mythology of Darkness",
+    "year": 1998,
+    "id": 1251
+  },
+  {
+    "title": "Pi",
+    "year": 1998,
+    "id": 1252
+  },
+  {
+    "title": "Shulie",
+    "year": 1998,
+    "id": 1253
+  },
+  {
+    "title": "Troika",
+    "year": 1998,
+    "id": 1254
+  },
+  {
+    "title": "Variations",
+    "year": 1998,
+    "id": 1255
+  },
+  {
+    "title": "Alternating Currents",
+    "year": 1999,
+    "id": 1256
+  },
+  {
+    "title": "Beau travail",
+    "year": 1999,
+    "id": 1257
+  },
+  {
+    "title": "The Birds of Paradise",
+    "year": 1999,
+    "id": 1258
+  },
+  {
+    "title": "Cloud Chamber",
+    "year": 1999,
+    "id": 1259
+  },
+  {
+    "title": "Consolation Service",
+    "year": 1999,
+    "id": 1260
+  },
+  {
+    "title": "Coupling",
+    "year": 1999,
+    "id": 1261
+  },
+  {
+    "title": "Cremaster 5",
+    "year": 1999,
+    "id": 1262
+  },
+  {
+    "title": "Cricket Requiem",
+    "year": 1999,
+    "id": 1263
+  },
+  {
+    "title": "Dancing with Hydra",
+    "year": 1999,
+    "id": 1264
+  },
+  {
+    "title": "The Dark Tower",
+    "year": 1999,
+    "id": 1265
+  },
+  {
+    "title": "E-CLIP-SE",
+    "year": 1999,
+    "id": 1266
+  },
+  {
+    "title": "The Earthsong of the Cricket",
+    "year": 1999,
+    "id": 1267
+  },
+  {
+    "title": "Fiorucci Made Me Hardcore",
+    "year": 1999,
+    "id": 1268
+  },
+  {
+    "title": "Get Ready",
+    "year": 1999,
+    "id": 1269
+  },
+  {
+    "title": "Julien Donkey-Boy",
+    "year": 1999,
+    "id": 1270
+  },
+  {
+    "title": "The Lion and the Zebra Make God's Raw Jewels",
+    "year": 1999,
+    "id": 1271
+  },
+  {
+    "title": "Outer Space",
+    "year": 1999,
+    "id": 1272
+  },
+  {
+    "title": "Persian Series #1",
+    "year": 1999,
+    "id": 1273
+  },
+  {
+    "title": "Persian Series #2",
+    "year": 1999,
+    "id": 1274
+  },
+  {
+    "title": "Persian Series #3",
+    "year": 1999,
+    "id": 1275
+  },
+  {
+    "title": "Persian Series #4",
+    "year": 1999,
+    "id": 1276
+  },
+  {
+    "title": "Persian Series #5",
+    "year": 1999,
+    "id": 1277
+  },
+  {
+    "title": "See You in Hell, My Darling",
+    "year": 1999,
+    "id": 1278
+  },
+  {
+    "title": "Stately Mansions Did Decree",
+    "year": 1999,
+    "id": 1279
+  },
+  {
+    "title": "Stereoscope",
+    "year": 1999,
+    "id": 1280
+  },
+  {
+    "title": "This Side of Paradise",
+    "year": 1999,
+    "id": 1281
+  },
+  {
+    "title": "Worm and Web Love",
+    "year": 1999,
+    "id": 1282
+  },
+  {
+    "title": "And the Pig was Born",
+    "year": 2000,
+    "id": 1283
+  },
+  {
+    "title": "Appearances",
+    "year": 2000,
+    "id": 1284
+  },
+  {
+    "title": "As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty",
+    "year": 2000,
+    "id": 1285
+  },
+  {
+    "title": "Dance",
+    "year": 2000,
+    "id": 1286
+  },
+  {
+    "title": "Dancer in the Dark",
+    "year": 2000,
+    "id": 1287
+  },
+  {
+    "title": "Energy Lithuania",
+    "year": 2000,
+    "id": 1288
+  },
+  {
+    "title": "The God of Day Had Gone Down Upon Him",
+    "year": 2000,
+    "id": 1289
+  },
+  {
+    "title": "The Heart of the World",
+    "year": 2000,
+    "id": 1290
+  },
+  {
+    "title": "Jesus Trilogy and Coda",
+    "year": 2000,
+    "id": 1291
+  },
+  {
+    "title": "Kimono",
+    "year": 2000,
+    "id": 1292
+  },
+  {
+    "title": "Little Otik",
+    "year": 2000,
+    "id": 1293
+  },
+  {
+    "title": "Moilsome Toilsome",
+    "year": 2000,
+    "id": 1294
+  },
+  {
+    "title": "Mysterious Object at Noon",
+    "year": 2000,
+    "id": 1295
+  },
+  {
+    "title": "Persian Series #6",
+    "year": 2000,
+    "id": 1296
+  },
+  {
+    "title": "Persian Series #7",
+    "year": 2000,
+    "id": 1297
+  },
+  {
+    "title": "Persian Series #8",
+    "year": 2000,
+    "id": 1298
+  },
+  {
+    "title": "Persian Series #9",
+    "year": 2000,
+    "id": 1299
+  },
+  {
+    "title": "Persian Series #10",
+    "year": 2000,
+    "id": 1300
+  },
+  {
+    "title": "Persian Series #11",
+    "year": 2000,
+    "id": 1301
+  },
+  {
+    "title": "Persian Series #12",
+    "year": 2000,
+    "id": 1302
+  },
+  {
+    "title": "Songs from the Second Floor",
+    "year": 2000,
+    "id": 1303
+  },
+  {
+    "title": "A Story about a Bad Dream",
+    "year": 2000,
+    "id": 1304
+  },
+  {
+    "title": "Water for Maya",
+    "year": 2000,
+    "id": 1305
+  },
+  {
+    "title": "Werckmeister Harmonies",
+    "year": 2000,
+    "id": 1306
+  },
+  {
+    "title": "386 DX",
+    "year": 2001,
+    "id": 1307
+  },
+  {
+    "title": "Baby Jesus",
+    "year": 2001,
+    "id": 1308
+  },
+  {
+    "title": "The Battle of Orgreave",
+    "year": 2001,
+    "id": 1309
+  },
+  {
+    "title": "Dark Night of the Soul",
+    "year": 2001,
+    "id": 1310
+  },
+  {
+    "title": "Dream Work",
+    "year": 2001,
+    "id": 1311
+  },
+  {
+    "title": "Garden Path",
+    "year": 2001,
+    "id": 1312
+  },
+  {
+    "title": "Her Glacial Speed",
+    "year": 2001,
+    "id": 1313
+  },
+  {
+    "title": "Lovesong",
+    "year": 2001,
+    "id": 1314
+  },
+  {
+    "title": "Lovesong 2",
+    "year": 2001,
+    "id": 1315
+  },
+  {
+    "title": "A Memory of the Players in a Mirror at Midnight",
+    "year": 2001,
+    "id": 1316
+  },
+  {
+    "title": "Micro Garden",
+    "year": 2001,
+    "id": 1317
+  },
+  {
+    "title": "Mulholland Dr.",
+    "year": 2001,
+    "id": 1318
+  },
+  {
+    "title": "Night Mulch",
+    "year": 2001,
+    "id": 1319
+  },
+  {
+    "title": "Occam's Thread",
+    "year": 2001,
+    "id": 1320
+  },
+  {
+    "title": "Perisan Series #13",
+    "year": 2001,
+    "id": 1321
+  },
+  {
+    "title": "Perisan Series #14",
+    "year": 2001,
+    "id": 1322
+  },
+  {
+    "title": "Perisan Series #15",
+    "year": 2001,
+    "id": 1323
+  },
+  {
+    "title": "Perisan Series #16",
+    "year": 2001,
+    "id": 1324
+  },
+  {
+    "title": "Perisan Series #17",
+    "year": 2001,
+    "id": 1325
+  },
+  {
+    "title": "Perisan Series #18",
+    "year": 2001,
+    "id": 1326
+  },
+  {
+    "title": "Pistol Opera",
+    "year": 2001,
+    "id": 1327
+  },
+  {
+    "title": "Rounds",
+    "year": 2001,
+    "id": 1328
+  },
+  {
+    "title": "Les Soviets plus l'électricité",
+    "year": 2001,
+    "id": 1329
+  },
+  {
+    "title": "Southlander",
+    "year": 2001,
+    "id": 1330
+  },
+  {
+    "title": "Very",
+    "year": 2001,
+    "id": 1331
+  },
+  {
+    "title": "Waking Life",
+    "year": 2001,
+    "id": 1332
+  },
+  {
+    "title": "11'09\"01 September 11",
+    "year": 2002,
+    "id": 1333
+  },
+  {
+    "title": "Ascension",
+    "year": 2002,
+    "id": 1334
+  },
+  {
+    "title": "Blissfully Yours",
+    "year": 2002,
+    "id": 1335
+  },
+  {
+    "title": "Claire",
+    "year": 2002,
+    "id": 1336
+  },
+  {
+    "title": "The Cloud of Unknowing",
+    "year": 2002,
+    "id": 1337
+  },
+  {
+    "title": "*Corpus Callosum",
+    "year": 2002,
+    "id": 1338
+  },
+  {
+    "title": "Decasia",
+    "year": 2002,
+    "id": 1339
+  },
+  {
+    "title": "The Decay of Fiction",
+    "year": 2002,
+    "id": 1340
+  },
+  {
+    "title": "Gerry",
+    "year": 2002,
+    "id": 1341
+  },
+  {
+    "title": "I-San Special",
+    "year": 2002,
+    "id": 1342
+  },
+  {
+    "title": "The Loser Takes It All",
+    "year": 2002,
+    "id": 1343
+  },
+  {
+    "title": "Max",
+    "year": 2002,
+    "id": 1344
+  },
+  {
+    "title": "Meanwhile a Butterfly Flies",
+    "year": 2002,
+    "id": 1345
+  },
+  {
+    "title": "Naqoyqatsi",
+    "year": 2002,
+    "id": 1346
+  },
+  {
+    "title": "Nikita Kino",
+    "year": 2002,
+    "id": 1347
+  },
+  {
+    "title": "Panels for the Walls of Heaven",
+    "year": 2002,
+    "id": 1348
+  },
+  {
+    "title": "Resurrectus Est",
+    "year": 2002,
+    "id": 1349
+  },
+  {
+    "title": "Russian Ark",
+    "year": 2002,
+    "id": 1350
+  },
+  {
+    "title": "Seasons...",
+    "year": 2002,
+    "id": 1351
+  },
+  {
+    "title": "Song of the Mushroom",
+    "year": 2002,
+    "id": 1352
+  },
+  {
+    "title": "Ten",
+    "year": 2002,
+    "id": 1353
+  },
+  {
+    "title": "The Tracker",
+    "year": 2002,
+    "id": 1354
+  },
+  {
+    "title": "Uzak",
+    "year": 2002,
+    "id": 1355
+  },
+  {
+    "title": "Alice in Wonderland, or: Who is Guy Debord?",
+    "year": 2003,
+    "id": 1356
+  },
+  {
+    "title": "Alila",
+    "year": 2003,
+    "id": 1357
+  },
+  {
+    "title": "Bengali Tourist",
+    "year": 2003,
+    "id": 1358
+  },
+  {
+    "title": "Bodysong",
+    "year": 2003,
+    "id": 1359
+  },
+  {
+    "title": "Chinese Series",
+    "year": 2003,
+    "id": 1360
+  },
+  {
+    "title": "Cowards Bend the Knee",
+    "year": 2003,
+    "id": 1361
+  },
+  {
+    "title": "Dogville",
+    "year": 2003,
+    "id": 1362
+  },
+  {
+    "title": "The Five Obstructions",
+    "year": 2003,
+    "id": 1363
+  },
+  {
+    "title": "I Love My India",
+    "year": 2003,
+    "id": 1364
+  },
+  {
+    "title": "The Mesmerist",
+    "year": 2003,
+    "id": 1365
+  },
+  {
+    "title": "The Missing",
+    "year": 2003,
+    "id": 1366
+  },
+  {
+    "title": "Parc central",
+    "year": 2003,
+    "id": 1367
+  },
+  {
+    "title": "Quay",
+    "year": 2003,
+    "id": 1368
+  },
+  {
+    "title": "The Role of a Lifetime",
+    "year": 2003,
+    "id": 1369
+  },
+  {
+    "title": "The Saddest Music in the World",
+    "year": 2003,
+    "id": 1370
+  },
+  {
+    "title": "San Yuan Li",
+    "year": 2003,
+    "id": 1371
+  },
+  {
+    "title": "Scena",
+    "year": 2003,
+    "id": 1372
+  },
+  {
+    "title": "Stan's Window",
+    "year": 2003,
+    "id": 1373
+  },
+  {
+    "title": "Tarnation",
+    "year": 2003,
+    "id": 1374
+  },
+  {
+    "title": "Tie Xi Qu: West of the Tracks",
+    "year": 2003,
+    "id": 1375
+  },
+  {
+    "title": "Woodenhead",
+    "year": 2003,
+    "id": 1376
+  },
+  {
+    "title": "Anatomy of Hell",
+    "year": 2004,
+    "id": 1377
+  },
+  {
+    "title": "Cake and Steak",
+    "year": 2004,
+    "id": 1378
+  },
+  {
+    "title": "The Future is Behind You",
+    "year": 2004,
+    "id": 1379
+  },
+  {
+    "title": "A Hole in My Heart",
+    "year": 2004,
+    "id": 1380
+  },
+  {
+    "title": "Innocence",
+    "year": 2004,
+    "id": 1381
+  },
+  {
+    "title": "Light is Calling",
+    "year": 2004,
+    "id": 1382
+  },
+  {
+    "title": "Mira Corpora",
+    "year": 2004,
+    "id": 1383
+  },
+  {
+    "title": "Notre Musique",
+    "year": 2004,
+    "id": 1384
+  },
+  {
+    "title": "Once in the XX Century",
+    "year": 2004,
+    "id": 1385
+  },
+  {
+    "title": "Palindromes",
+    "year": 2004,
+    "id": 1386
+  },
+  {
+    "title": "Planet Earth: Dreams",
+    "year": 2004,
+    "id": 1387
+  },
+  {
+    "title": "Proteus",
+    "year": 2004,
+    "id": 1388
+  },
+  {
+    "title": "The Raspberry Reich",
+    "year": 2004,
+    "id": 1389
+  },
+  {
+    "title": "Scenes from Freedonia",
+    "year": 2004,
+    "id": 1390
+  },
+  {
+    "title": "Stages of Mourning",
+    "year": 2004,
+    "id": 1391
+  },
+  {
+    "title": "Tropical Malady",
+    "year": 2004,
+    "id": 1392
+  },
+  {
+    "title": "X-Nana - Subroutine",
+    "year": 2004,
+    "id": 1393
+  },
+  {
+    "title": "Yes",
+    "year": 2004,
+    "id": 1394
+  },
+  {
+    "title": "Blockade",
+    "year": 2005,
+    "id": 1395
+  },
+  {
+    "title": "Bye Bye Havana",
+    "year": 2005,
+    "id": 1396
+  },
+  {
+    "title": "Drawing Restraint 9",
+    "year": 2005,
+    "id": 1397
+  },
+  {
+    "title": "Instructions for a Light and Sound Machine",
+    "year": 2005,
+    "id": 1398
+  },
+  {
+    "title": "Johanna",
+    "year": 2005,
+    "id": 1399
+  },
+  {
+    "title": "Last Days",
+    "year": 2005,
+    "id": 1400
+  },
+  {
+    "title": "Lunacy",
+    "year": 2005,
+    "id": 1401
+  },
+  {
+    "title": "Manderlay",
+    "year": 2005,
+    "id": 1402
+  },
+  {
+    "title": "Matrioškos",
+    "year": 2005,
+    "id": 1403
+  },
+  {
+    "title": "One Day in People's Poland",
+    "year": 2005,
+    "id": 1404
+  },
+  {
+    "title": "The Piano Tuner of Earthquakes",
+    "year": 2005,
+    "id": 1405
+  },
+  {
+    "title": "Rubber Johnny",
+    "year": 2005,
+    "id": 1406
+  },
+  {
+    "title": "The Space Between",
+    "year": 2005,
+    "id": 1407
+  },
+  {
+    "title": "Straight 8",
+    "year": 2005,
+    "id": 1408
+  },
+  {
+    "title": "Super Mario Movie",
+    "year": 2005,
+    "id": 1409
+  },
+  {
+    "title": "Untitled No. 1",
+    "year": 2005,
+    "id": 1410
+  },
+  {
+    "title": "The Wayward Cloud",
+    "year": 2005,
+    "id": 1411
+  },
+  {
+    "title": "Welt Spiegel Kino",
+    "year": 2005,
+    "id": 1412
+  },
+  {
+    "title": "What is it?",
+    "year": 2005,
+    "id": 1413
+  },
+  {
+    "title": "The Wild Blue Yonder",
+    "year": 2005,
+    "id": 1414
+  },
+  {
+    "title": "The Zero Years",
+    "year": 2005,
+    "id": 1415
+  },
+  {
+    "title": "'All that's solid melts into air' (Karl Marx)",
+    "year": 2006,
+    "id": 1416
+  },
+  {
+    "title": "Brand Upon the Brain!",
+    "year": 2006,
+    "id": 1417
+  },
+  {
+    "title": "Container",
+    "year": 2006,
+    "id": 1418
+  },
+  {
+    "title": "Daft Punk's Electroma",
+    "year": 2006,
+    "id": 1419
+  },
+  {
+    "title": "Dark Glass",
+    "year": 2006,
+    "id": 1420
+  },
+  {
+    "title": "East Side Story",
+    "year": 2006,
+    "id": 1421
+  },
+  {
+    "title": "Glass Lips",
+    "year": 2006,
+    "id": 1422
+  },
+  {
+    "title": "Gradiva",
+    "year": 2006,
+    "id": 1423
+  },
+  {
+    "title": "The Highwater Trilogy",
+    "year": 2006,
+    "id": 1424
+  },
+  {
+    "title": "Inland Empire",
+    "year": 2006,
+    "id": 1425
+  },
+  {
+    "title": "The Surging Sea of Humanity",
+    "year": 2006,
+    "id": 1426
+  },
+  {
+    "title": "Zidane: A 21st Century Portrait",
+    "year": 2006,
+    "id": 1427
+  },
+  {
+    "title": "Caesural Variation I",
+    "year": 2007,
+    "id": 1428
+  },
+  {
+    "title": "The Head",
+    "year": 2007,
+    "id": 1429
+  },
+  {
+    "title": "It Is Fine! Everything Is Fine",
+    "year": 2007,
+    "id": 1430
+  },
+  {
+    "title": "Japan Japan",
+    "year": 2007,
+    "id": 1431
+  },
+  {
+    "title": "Lovely Andrea",
+    "year": 2007,
+    "id": 1432
+  },
+  {
+    "title": "Manuelle Labor",
+    "year": 2007,
+    "id": 1433
+  },
+  {
+    "title": "Mister Lonely",
+    "year": 2007,
+    "id": 1434
+  },
+  {
+    "title": "My Winnipeg",
+    "year": 2007,
+    "id": 1435
+  },
+  {
+    "title": "Revisiting Solaris",
+    "year": 2007,
+    "id": 1436
+  },
+  {
+    "title": "You, the Living",
+    "year": 2007,
+    "id": 1437
+  },
+  {
+    "title": "The Full Monteverdi",
+    "year": 2007,
+    "id": 1438
+  },
+  {
+    "title": "History of Cinema",
+    "year": 2008,
+    "id": 1439
+  },
+  {
+    "title": "Veena Vaadanam",
+    "year": 2008,
+    "id": 1440
+  },
+  {
+    "title": "Langue sacrée, langue parlée",
+    "year": 2008,
+    "id": 1441
+  },
+  {
+    "title": "Synecdoche, New York",
+    "year": 2008,
+    "id": 1442
+  },
+  {
+    "title": "Tony Conrad, DreaMinimalist",
+    "year": 2008,
+    "id": 1443
+  },
+  {
+    "title": "Waltz With Bashir",
+    "year": 2008,
+    "id": 1444
+  },
+  {
+    "title": "Antichrist",
+    "year": 2009,
+    "id": 1445
+  },
+  {
+    "title": "Atlantiques",
+    "year": 2009,
+    "id": 1446
+  },
+  {
+    "title": "Cinématon",
+    "year": 2009,
+    "id": 1447
+  },
+  {
+    "title": "Dogtooth",
+    "year": 2009,
+    "id": 1448
+  },
+  {
+    "title": "Guilt (2009 film)",
+    "year": 2009,
+    "id": 1449
+  },
+  {
+    "title": "Enter the Void",
+    "year": 2009,
+    "id": 1450
+  },
+  {
+    "title": "Into the Unknown",
+    "year": 2009,
+    "id": 1451
+  },
+  {
+    "title": "Trash Humpers",
+    "year": 2009,
+    "id": 1452
+  },
+  {
+    "title": "Ville Marie",
+    "year": 2009,
+    "id": 1453
+  },
+  {
+    "title": "Wild Grass",
+    "year": 2009,
+    "id": 1454
+  },
+  {
+    "title": "Saturn Returns",
+    "year": 2009,
+    "id": 1455
+  },
+  {
+    "title": "Film Socialisme",
+    "year": 2010,
+    "id": 1456
+  },
+  {
+    "title": "Jalachhayam",
+    "year": 2010,
+    "id": 1457
+  },
+  {
+    "title": "Uncle Boonmee Who Can Recall His Past Lives",
+    "year": 2010,
+    "id": 1458
+  },
+  {
+    "title": "The Arbor",
+    "year": 2010,
+    "id": 1459
+  },
+  {
+    "title": "The Autobiography of Nicolae Ceaușescu",
+    "year": 2010,
+    "id": 1460
+  },
+  {
+    "title": "Bipedality",
+    "year": 2010,
+    "id": 1461
+  },
+  {
+    "title": "Coming Attractions",
+    "year": 2010,
+    "id": 1462
+  },
+  {
+    "title": "Co-operative Explanatory Capabilities in Organizational Design and Personnel Management",
+    "year": 2010,
+    "id": 1463
+  },
+  {
+    "title": "The Death of an Insect",
+    "year": 2010,
+    "id": 1464
+  },
+  {
+    "title": "The Last Soviet",
+    "year": 2010,
+    "id": 1465
+  },
+  {
+    "title": "Marxism Today (Prologue)",
+    "year": 2010,
+    "id": 1466
+  },
+  {
+    "title": "The Miners' Hymns",
+    "year": 2010,
+    "id": 1467
+  },
+  {
+    "title": "Nostalgia for the Light",
+    "year": 2010,
+    "id": 1468
+  },
+  {
+    "title": "Robinson in Ruins",
+    "year": 2010,
+    "id": 1469
+  },
+  {
+    "title": "Uncle Boonmee Who Can Recall His Past Lives",
+    "year": 2010,
+    "id": 1470
+  },
+  {
+    "title": "Melancholia",
+    "year": 2011,
+    "id": 1471
+  },
+  {
+    "title": "Museum Songspiel: The Netherlands 20XX",
+    "year": 2011,
+    "id": 1472
+  },
+  {
+    "title": "Reminiscences",
+    "year": 2011,
+    "id": 1473
+  },
+  {
+    "title": "7aumarivu (7th sense)",
+    "year": 2011,
+    "id": 1474
+  },
+  {
+    "title": "The Strawberry Tree",
+    "year": 2011,
+    "id": 1475
+  },
+  {
+    "title": "Tall Man",
+    "year": 2011,
+    "id": 1476
+  },
+  {
+    "title": "The Tree of Life",
+    "year": 2011,
+    "id": 1477
+  },
+  {
+    "title": "This is Not a Film",
+    "year": 2011,
+    "id": 1478
+  },
+  {
+    "title": "Traduire",
+    "year": 2011,
+    "id": 1479
+  },
+  {
+    "title": "The Turin Horse",
+    "year": 2011,
+    "id": 1480
+  },
+  {
+    "title": "Two Years at Sea",
+    "year": 2011,
+    "id": 1481
+  },
+  {
+    "title": "Ashes",
+    "year": 2011,
+    "id": 1482
+  },
+  {
+    "title": "Biancanieves",
+    "year": 2011,
+    "id": 1483
+  },
+  {
+    "title": "The Great Flood",
+    "year": 2011,
+    "id": 1484
+  },
+  {
+    "title": "He",
+    "year": 2011,
+    "id": 1485
+  },
+  {
+    "title": "Holy Motors",
+    "year": 2011,
+    "id": 1486
+  },
+  {
+    "title": "Just Ancient Loops",
+    "year": 2011,
+    "id": 1487
+  },
+  {
+    "title": "The King's Body",
+    "year": 2011,
+    "id": 1488
+  },
+  {
+    "title": "Leviathan",
+    "year": 2011,
+    "id": 1489
+  },
+  {
+    "title": "Material Witness OR A Liquid Cop",
+    "year": 2011,
+    "id": 1490
+  },
+  {
+    "title": "Mekong Hotel",
+    "year": 2011,
+    "id": 1491
+  },
+  {
+    "title": "One, Two, Many",
+    "year": 2011,
+    "id": 1492
+  },
+  {
+    "title": "The Search for Emak-Bakia",
+    "year": 2011,
+    "id": 1493
+  },
+  {
+    "title": "'Teenager Hamlet",
+    "year": 2011,
+    "id": 1494
+  },
+  {
+    "title": "The Woolworths Choir of 1979",
+    "year": 2011,
+    "id": 1495
+  },
+  {
+    "title": "Center Jenny",
+    "year": 2013,
+    "id": 1496
+  },
+  {
+    "title": "Creme 21",
+    "year": 2013,
+    "id": 1497
+  },
+  {
+    "title": "Hard to Be a God",
+    "year": 2013,
+    "id": 1498
+  },
+  {
+    "title": "Karl Marx Among Us",
+    "year": 2013,
+    "id": 1499
+  },
+  {
+    "title": "The Magic Mirror",
+    "year": 2013,
+    "id": 1500
+  },
+  {
+    "title": "Nayi Kheti",
+    "year": 2013,
+    "id": 1501
+  },
+  {
+    "title": "Nymphomaniac",
+    "year": 2013,
+    "id": 1502
+  },
+  {
+    "title": "Re: Awakenings",
+    "year": 2013,
+    "id": 1503
+  },
+  {
+    "title": "A Spell to Ward Off the Darkness",
+    "year": 2013,
+    "id": 1504
+  },
+  {
+    "title": "The Stuart Hall Project",
+    "year": 2013,
+    "id": 1505
+  },
+  {
+    "title": "The Great Beauty",
+    "year": 2013,
+    "id": 1506
+  },
+  {
+    "title": "A Thousand Sons",
+    "year": 2013,
+    "id": 1507
+  },
+  {
+    "title": "Tomorrow Never Knows",
+    "year": 2013,
+    "id": 1508
+  },
+  {
+    "title": "Warm, Warm, Warm Spring Mouths",
+    "year": 2013,
+    "id": 1509
+  },
+  {
+    "title": "Androids Dream",
+    "year": 2014,
+    "id": 1510
+  },
+  {
+    "title": "Boyhood",
+    "year": 2014,
+    "id": 1511
+  },
+  {
+    "title": "The Creation of Meaning",
+    "year": 2014,
+    "id": 1512
+  },
+  {
+    "title": "Evergreen",
+    "year": 2014,
+    "id": 1513
+  },
+  {
+    "title": "Goodbye to Language",
+    "year": 2014,
+    "id": 1514
+  },
+  {
+    "title": "Journey to the West",
+    "year": 2014,
+    "id": 1515
+  },
+  {
+    "title": "Liquidity, Inc.",
+    "year": 2014,
+    "id": 1516
+  },
+  {
+    "title": "Long Hair, Short Ideas",
+    "year": 2014,
+    "id": 1517
+  },
+  {
+    "title": "The Second Game",
+    "year": 2014,
+    "id": 1518
+  },
+  {
+    "title": "Things to Come",
+    "year": 2014,
+    "id": 1519
+  },
+  {
+    "title": "The Tribe",
+    "year": 2014,
+    "id": 1520
+  },
+  {
+    "title": "The Unreliable Narrator",
+    "year": 2014,
+    "id": 1521
+  },
+  {
+    "title": 2002,
+    "year": 2015,
+    "id": 1522
+  },
+  {
+    "title": "88:88",
+    "year": 2015,
+    "id": 1523
+  },
+  {
+    "title": "Bitter Lake",
+    "year": 2015,
+    "id": 1524
+  },
+  {
+    "title": "By Our Selves",
+    "year": 2015,
+    "id": 1525
+  },
+  {
+    "title": "A Day in the Life of Bliss",
+    "year": 2015,
+    "id": 1526
+  },
+  {
+    "title": "The Exquisite Corpus",
+    "year": 2015,
+    "id": 1527
+  },
+  {
+    "title": "Factory of the Sun",
+    "year": 2015,
+    "id": 1528
+  },
+  {
+    "title": "FInding Fanon (Part I)",
+    "year": 2015,
+    "id": 1529
+  },
+  {
+    "title": "The Forbidden Room",
+    "year": 2015,
+    "id": 1530
+  },
+  {
+    "title": "Heart of a Dog",
+    "year": 2015,
+    "id": 1531
+  },
+  {
+    "title": "The Lobster",
+    "year": 2015,
+    "id": 1532
+  },
+  {
+    "title": "A Magical Substance Flows Into Me",
+    "year": 2015,
+    "id": 1533
+  },
+  {
+    "title": "Manifesto",
+    "year": 2015,
+    "id": 1534
+  },
+  {
+    "title": "Notes and Sketches I",
+    "year": 2015,
+    "id": 1535
+  },
+  {
+    "title": "Notes on Blue",
+    "year": 2015,
+    "id": 1536
+  },
+  {
+    "title": "Patterns of Life",
+    "year": 2015,
+    "id": 1537
+  },
+  {
+    "title": "The Pavilion",
+    "year": 2015,
+    "id": 1538
+  },
+  {
+    "title": "Queer in Space: Kollontai Communist Archive",
+    "year": 2015,
+    "id": 1539
+  },
+  {
+    "title": "'Tear Down and Rebuild",
+    "year": 2015,
+    "id": 1540
+  },
+  {
+    "title": "Thanx 4 Nothing",
+    "year": 2015,
+    "id": 1541
+  },
+  {
+    "title": "And I Danced to Make a Man Again",
+    "year": 2016,
+    "id": 1542
+  },
+  {
+    "title": "Ascent",
+    "year": 2016,
+    "id": 1543
+  },
+  {
+    "title": "Between Fences",
+    "year": 2016,
+    "id": 1544
+  },
+  {
+    "title": "Chants and Dances for Hand",
+    "year": 2016,
+    "id": 1545
+  },
+  {
+    "title": "Confessions to the Mirror",
+    "year": 2016,
+    "id": 1546
+  },
+  {
+    "title": "An Experiment in Leisure",
+    "year": 2016,
+    "id": 1547
+  },
+  {
+    "title": "20 July.2015",
+    "year": 2016,
+    "id": 1548
+  },
+  {
+    "title": "Dawson City: Frozen Time",
+    "year": 2016,
+    "id": 1549
+  },
+  {
+    "title": "Endless Poetry",
+    "year": 2016,
+    "id": 1550
+  },
+  {
+    "title": "Expression of the Sightless",
+    "year": 2016,
+    "id": 1551
+  },
+  {
+    "title": "Further Beyond",
+    "year": 2016,
+    "id": 1552
+  },
+  {
+    "title": "The Human Surge",
+    "year": 2016,
+    "id": 1553
+  },
+  {
+    "title": "The Ornithologist",
+    "year": 2016,
+    "id": 1554
+  },
+  {
+    "title": "Hinterlands",
+    "year": 2016,
+    "id": 1555
+  },
+  {
+    "title": "Pinochet Porn",
+    "year": 2016,
+    "id": 1556
+  },
+  {
+    "title": "Sound of the Sun",
+    "year": 2016,
+    "id": 1557
+  },
+  {
+    "title": "Sleep Has Her House",
+    "year": 2017,
+    "id": 1558
+  },
+  {
+    "title": "Footnote",
+    "year": 2017,
+    "id": 1559
+  },
+  {
+    "title": "Last Love",
+    "year": 2017,
+    "id": 1560
+  },
+  {
+    "title": "Loving Vincent",
+    "year": 2017,
+    "id": 1561
+  },
+  {
+    "title": "Resurrected Genius",
+    "year": 2017,
+    "id": 1562
+  },
+  {
+    "title": "The Grand Bizarre",
+    "year": 2018,
+    "id": 1563
+  },
+  {
+    "title": "Hegel's Angel",
+    "year": 2018,
+    "id": 1564
+  },
+  {
+    "title": "Moonlight People",
+    "year": 2019,
+    "id": 1565
+  }
+]
+}

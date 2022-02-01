@@ -15,6 +15,17 @@
 		0447F57C273EC4A400E8B08E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0447F57A273EC4A400E8B08E /* LaunchScreen.storyboard */; };
 		0447F587273EC4A400E8B08E /* hackerAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447F586273EC4A400E8B08E /* hackerAppTests.swift */; };
 		0447F592273EC4A400E8B08E /* hackerAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447F591273EC4A400E8B08E /* hackerAppUITests.swift */; };
+		86C5B8D927A727F500EA6C1A /* YearsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C5B8D827A727F500EA6C1A /* YearsView.swift */; };
+		86C5B8DE27A7F59800EA6C1A /* action.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8DD27A7F59800EA6C1A /* action.json */; };
+		86C5B8E027A7F6B100EA6C1A /* comedy.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8DF27A7F6B100EA6C1A /* comedy.json */; };
+		86C5B8E227A7FDDA00EA6C1A /* sci-fi.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8E127A7FDDA00EA6C1A /* sci-fi.json */; };
+		86C5B8E427A7FEAC00EA6C1A /* western.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8E327A7FEAC00EA6C1A /* western.json */; };
+		86C5B8E627A7FF1000EA6C1A /* thriller.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8E527A7FF0F00EA6C1A /* thriller.json */; };
+		86C5B8E827A7FF8900EA6C1A /* horror.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8E727A7FF8900EA6C1A /* horror.json */; };
+		86C5B8EA27A7FFBF00EA6C1A /* fantasy.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8E927A7FFBF00EA6C1A /* fantasy.json */; };
+		86C5B8EC27A8000100EA6C1A /* criminal.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8EB27A8000100EA6C1A /* criminal.json */; };
+		86C5B8EE27A8003C00EA6C1A /* avant-garde.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8ED27A8003C00EA6C1A /* avant-garde.json */; };
+		86C5B8F027A8008600EA6C1A /* animated.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8EF27A8008600EA6C1A /* animated.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0447F56C273EC4A100E8B08E /* hackerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hackerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0447F56C273EC4A100E8B08E /* SomethingToWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SomethingToWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0447F56F273EC4A100E8B08E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0447F571273EC4A100E8B08E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0447F573273EC4A100E8B08E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -43,12 +54,23 @@
 		0447F578273EC4A400E8B08E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0447F57B273EC4A400E8B08E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0447F57D273EC4A400E8B08E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0447F582273EC4A400E8B08E /* hackerAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hackerAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0447F582273EC4A400E8B08E /* SomethingToWatchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SomethingToWatchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0447F586273EC4A400E8B08E /* hackerAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hackerAppTests.swift; sourceTree = "<group>"; };
 		0447F588273EC4A400E8B08E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0447F58D273EC4A400E8B08E /* hackerAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hackerAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0447F58D273EC4A400E8B08E /* SomethingToWatchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SomethingToWatchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0447F591273EC4A400E8B08E /* hackerAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hackerAppUITests.swift; sourceTree = "<group>"; };
 		0447F593273EC4A400E8B08E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86C5B8D827A727F500EA6C1A /* YearsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearsView.swift; sourceTree = "<group>"; };
+		86C5B8DD27A7F59800EA6C1A /* action.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = action.json; sourceTree = "<group>"; };
+		86C5B8DF27A7F6B100EA6C1A /* comedy.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = comedy.json; sourceTree = "<group>"; };
+		86C5B8E127A7FDDA00EA6C1A /* sci-fi.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "sci-fi.json"; sourceTree = "<group>"; };
+		86C5B8E327A7FEAC00EA6C1A /* western.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = western.json; sourceTree = "<group>"; };
+		86C5B8E527A7FF0F00EA6C1A /* thriller.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = thriller.json; sourceTree = "<group>"; };
+		86C5B8E727A7FF8900EA6C1A /* horror.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = horror.json; sourceTree = "<group>"; };
+		86C5B8E927A7FFBF00EA6C1A /* fantasy.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = fantasy.json; sourceTree = "<group>"; };
+		86C5B8EB27A8000100EA6C1A /* criminal.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = criminal.json; sourceTree = "<group>"; };
+		86C5B8ED27A8003C00EA6C1A /* avant-garde.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "avant-garde.json"; sourceTree = "<group>"; };
+		86C5B8EF27A8008600EA6C1A /* animated.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = animated.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +101,9 @@
 		0447F563273EC4A000E8B08E = {
 			isa = PBXGroup;
 			children = (
-				0447F56E273EC4A100E8B08E /* hackerApp */,
-				0447F585273EC4A400E8B08E /* hackerAppTests */,
-				0447F590273EC4A400E8B08E /* hackerAppUITests */,
+				0447F56E273EC4A100E8B08E /* SomethingToWatch */,
+				0447F585273EC4A400E8B08E /* SomethingToWatchTests */,
+				0447F590273EC4A400E8B08E /* SomethingToWatchUITests */,
 				0447F56D273EC4A100E8B08E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -89,25 +111,38 @@
 		0447F56D273EC4A100E8B08E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0447F56C273EC4A100E8B08E /* hackerApp.app */,
-				0447F582273EC4A400E8B08E /* hackerAppTests.xctest */,
-				0447F58D273EC4A400E8B08E /* hackerAppUITests.xctest */,
+				0447F56C273EC4A100E8B08E /* SomethingToWatch.app */,
+				0447F582273EC4A400E8B08E /* SomethingToWatchTests.xctest */,
+				0447F58D273EC4A400E8B08E /* SomethingToWatchUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0447F56E273EC4A100E8B08E /* hackerApp */ = {
+		0447F56E273EC4A100E8B08E /* SomethingToWatch */ = {
 			isa = PBXGroup;
 			children = (
+				86C5B8F127A8915C00EA6C1A /* Models */,
+				86C5B8DA27A7E35900EA6C1A /* Managers */,
+				86C5B8D427A6F1B700EA6C1A /* Decodables */,
 				0447F56F273EC4A100E8B08E /* AppDelegate.swift */,
 				0447F571273EC4A100E8B08E /* SceneDelegate.swift */,
-				0447F573273EC4A100E8B08E /* ContentView.swift */,
+				86C5B8D727A727B300EA6C1A /* Views */,
 				0447F575273EC4A400E8B08E /* Assets.xcassets */,
 				0447F57A273EC4A400E8B08E /* LaunchScreen.storyboard */,
 				0447F57D273EC4A400E8B08E /* Info.plist */,
 				0447F577273EC4A400E8B08E /* Preview Content */,
+				86C5B8DD27A7F59800EA6C1A /* action.json */,
+				86C5B8DF27A7F6B100EA6C1A /* comedy.json */,
+				86C5B8E127A7FDDA00EA6C1A /* sci-fi.json */,
+				86C5B8E327A7FEAC00EA6C1A /* western.json */,
+				86C5B8E527A7FF0F00EA6C1A /* thriller.json */,
+				86C5B8E727A7FF8900EA6C1A /* horror.json */,
+				86C5B8E927A7FFBF00EA6C1A /* fantasy.json */,
+				86C5B8EB27A8000100EA6C1A /* criminal.json */,
+				86C5B8ED27A8003C00EA6C1A /* avant-garde.json */,
+				86C5B8EF27A8008600EA6C1A /* animated.json */,
 			);
-			path = hackerApp;
+			path = SomethingToWatch;
 			sourceTree = "<group>";
 		};
 		0447F577273EC4A400E8B08E /* Preview Content */ = {
@@ -118,30 +153,60 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		0447F585273EC4A400E8B08E /* hackerAppTests */ = {
+		0447F585273EC4A400E8B08E /* SomethingToWatchTests */ = {
 			isa = PBXGroup;
 			children = (
 				0447F586273EC4A400E8B08E /* hackerAppTests.swift */,
 				0447F588273EC4A400E8B08E /* Info.plist */,
 			);
-			path = hackerAppTests;
+			path = SomethingToWatchTests;
 			sourceTree = "<group>";
 		};
-		0447F590273EC4A400E8B08E /* hackerAppUITests */ = {
+		0447F590273EC4A400E8B08E /* SomethingToWatchUITests */ = {
 			isa = PBXGroup;
 			children = (
 				0447F591273EC4A400E8B08E /* hackerAppUITests.swift */,
 				0447F593273EC4A400E8B08E /* Info.plist */,
 			);
-			path = hackerAppUITests;
+			path = SomethingToWatchUITests;
+			sourceTree = "<group>";
+		};
+		86C5B8D427A6F1B700EA6C1A /* Decodables */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Decodables;
+			sourceTree = "<group>";
+		};
+		86C5B8D727A727B300EA6C1A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0447F573273EC4A100E8B08E /* ContentView.swift */,
+				86C5B8D827A727F500EA6C1A /* YearsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		86C5B8DA27A7E35900EA6C1A /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		86C5B8F127A8915C00EA6C1A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0447F56B273EC4A100E8B08E /* hackerApp */ = {
+		0447F56B273EC4A100E8B08E /* SomethingToWatch */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0447F596273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "hackerApp" */;
+			buildConfigurationList = 0447F596273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "SomethingToWatch" */;
 			buildPhases = (
 				0447F568273EC4A100E8B08E /* Sources */,
 				0447F569273EC4A100E8B08E /* Frameworks */,
@@ -151,14 +216,14 @@
 			);
 			dependencies = (
 			);
-			name = hackerApp;
+			name = SomethingToWatch;
 			productName = hackerApp;
-			productReference = 0447F56C273EC4A100E8B08E /* hackerApp.app */;
+			productReference = 0447F56C273EC4A100E8B08E /* SomethingToWatch.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0447F581273EC4A400E8B08E /* hackerAppTests */ = {
+		0447F581273EC4A400E8B08E /* SomethingToWatchTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0447F599273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "hackerAppTests" */;
+			buildConfigurationList = 0447F599273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "SomethingToWatchTests" */;
 			buildPhases = (
 				0447F57E273EC4A400E8B08E /* Sources */,
 				0447F57F273EC4A400E8B08E /* Frameworks */,
@@ -169,14 +234,14 @@
 			dependencies = (
 				0447F584273EC4A400E8B08E /* PBXTargetDependency */,
 			);
-			name = hackerAppTests;
+			name = SomethingToWatchTests;
 			productName = hackerAppTests;
-			productReference = 0447F582273EC4A400E8B08E /* hackerAppTests.xctest */;
+			productReference = 0447F582273EC4A400E8B08E /* SomethingToWatchTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0447F58C273EC4A400E8B08E /* hackerAppUITests */ = {
+		0447F58C273EC4A400E8B08E /* SomethingToWatchUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0447F59C273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "hackerAppUITests" */;
+			buildConfigurationList = 0447F59C273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "SomethingToWatchUITests" */;
 			buildPhases = (
 				0447F589273EC4A400E8B08E /* Sources */,
 				0447F58A273EC4A400E8B08E /* Frameworks */,
@@ -187,9 +252,9 @@
 			dependencies = (
 				0447F58F273EC4A400E8B08E /* PBXTargetDependency */,
 			);
-			name = hackerAppUITests;
+			name = SomethingToWatchUITests;
 			productName = hackerAppUITests;
-			productReference = 0447F58D273EC4A400E8B08E /* hackerAppUITests.xctest */;
+			productReference = 0447F58D273EC4A400E8B08E /* SomethingToWatchUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -214,7 +279,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0447F567273EC4A000E8B08E /* Build configuration list for PBXProject "hackerApp" */;
+			buildConfigurationList = 0447F567273EC4A000E8B08E /* Build configuration list for PBXProject "SomethingToWatch" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -227,9 +292,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0447F56B273EC4A100E8B08E /* hackerApp */,
-				0447F581273EC4A400E8B08E /* hackerAppTests */,
-				0447F58C273EC4A400E8B08E /* hackerAppUITests */,
+				0447F56B273EC4A100E8B08E /* SomethingToWatch */,
+				0447F581273EC4A400E8B08E /* SomethingToWatchTests */,
+				0447F58C273EC4A400E8B08E /* SomethingToWatchUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -239,8 +304,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86C5B8E027A7F6B100EA6C1A /* comedy.json in Resources */,
+				86C5B8EA27A7FFBF00EA6C1A /* fantasy.json in Resources */,
+				86C5B8E227A7FDDA00EA6C1A /* sci-fi.json in Resources */,
+				86C5B8E427A7FEAC00EA6C1A /* western.json in Resources */,
+				86C5B8EC27A8000100EA6C1A /* criminal.json in Resources */,
+				86C5B8EE27A8003C00EA6C1A /* avant-garde.json in Resources */,
+				86C5B8DE27A7F59800EA6C1A /* action.json in Resources */,
 				0447F57C273EC4A400E8B08E /* LaunchScreen.storyboard in Resources */,
+				86C5B8F027A8008600EA6C1A /* animated.json in Resources */,
+				86C5B8E827A7FF8900EA6C1A /* horror.json in Resources */,
 				0447F579273EC4A400E8B08E /* Preview Assets.xcassets in Resources */,
+				86C5B8E627A7FF1000EA6C1A /* thriller.json in Resources */,
 				0447F576273EC4A400E8B08E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +344,7 @@
 				0447F570273EC4A100E8B08E /* AppDelegate.swift in Sources */,
 				0447F572273EC4A100E8B08E /* SceneDelegate.swift in Sources */,
 				0447F574273EC4A100E8B08E /* ContentView.swift in Sources */,
+				86C5B8D927A727F500EA6C1A /* YearsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,12 +369,12 @@
 /* Begin PBXTargetDependency section */
 		0447F584273EC4A400E8B08E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0447F56B273EC4A100E8B08E /* hackerApp */;
+			target = 0447F56B273EC4A100E8B08E /* SomethingToWatch */;
 			targetProxy = 0447F583273EC4A400E8B08E /* PBXContainerItemProxy */;
 		};
 		0447F58F273EC4A400E8B08E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0447F56B273EC4A100E8B08E /* hackerApp */;
+			target = 0447F56B273EC4A100E8B08E /* SomethingToWatch */;
 			targetProxy = 0447F58E273EC4A400E8B08E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -437,15 +513,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"hackerApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SomethingToWatch/Preview Content\"";
 				DEVELOPMENT_TEAM = S37PCXXY8Q;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = hackerApp/Info.plist;
+				INFOPLIST_FILE = SomethingToWatch/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.MyNewIOSProject.hackerApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bartoszklimek.SomethingToWatch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -458,15 +535,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"hackerApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SomethingToWatch/Preview Content\"";
 				DEVELOPMENT_TEAM = S37PCXXY8Q;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = hackerApp/Info.plist;
+				INFOPLIST_FILE = SomethingToWatch/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.MyNewIOSProject.hackerApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bartoszklimek.SomethingToWatch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -491,7 +569,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hackerApp.app/hackerApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SomethingToWatch.app/SomethingToWatch";
 			};
 			name = Debug;
 		};
@@ -513,7 +591,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hackerApp.app/hackerApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SomethingToWatch.app/SomethingToWatch";
 			};
 			name = Release;
 		};
@@ -560,7 +638,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0447F567273EC4A000E8B08E /* Build configuration list for PBXProject "hackerApp" */ = {
+		0447F567273EC4A000E8B08E /* Build configuration list for PBXProject "SomethingToWatch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0447F594273EC4A400E8B08E /* Debug */,
@@ -569,7 +647,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0447F596273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "hackerApp" */ = {
+		0447F596273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "SomethingToWatch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0447F597273EC4A400E8B08E /* Debug */,
@@ -578,7 +656,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0447F599273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "hackerAppTests" */ = {
+		0447F599273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "SomethingToWatchTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0447F59A273EC4A400E8B08E /* Debug */,
@@ -587,7 +665,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0447F59C273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "hackerAppUITests" */ = {
+		0447F59C273EC4A400E8B08E /* Build configuration list for PBXNativeTarget "SomethingToWatchUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0447F59D273EC4A400E8B08E /* Debug */,
