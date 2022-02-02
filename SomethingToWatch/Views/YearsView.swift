@@ -17,31 +17,33 @@ struct Films: Codable {
 }
 
 struct YearsView: View {
-    @State private var films = [Films]()
+    var genre: String
+    @State private var filmData: FilmsData!
+    @State private var films: [Films] = []
    
     var body: some View {
         VStack {
-            Text(String(films.capacity))
             List(films, id: \.id) { film in
                 Text(film.title)
             }
-            .task{await loadFilmsFromGenre()}
+            .task{await loadFilmsFromGenre(genre: genre)}
         }
     }
     
-    func loadFilmsFromGenre() async {
-        guard let url = Bundle.main.url(forResource: "comedy", withExtension: "json") else {
+    func loadFilmsFromGenre(genre: String) async {
+        guard let url = Bundle.main.url(forResource: genre, withExtension: "json") else {
             print("Invalid path")
             return
         }
-         
-        do {
-            let(data, _) = try await URLSession.shared.data(from: url)
-            if let decodedData = try? JSONDecoder().decode(FilmsData.self, from: data) {
-                films = decodedData.films
+        
+        if let filmsData = try? Data(contentsOf: url) {
+            let filmsDecoder = JSONDecoder()
+            if let loadedFilms = try? filmsDecoder.decode(FilmsData.self, from: filmsData) {
+                filmData = loadedFilms
+                films = filmData.films
+                print(films[0].year)
+//                print(films[films.capacity - 1].year)
             }
-        } catch {
-            print("Invalid data")
         }
     }
 }
@@ -50,6 +52,6 @@ struct YearsView: View {
 
 struct YearsView_Previews: PreviewProvider {
     static var previews: some View {
-        YearsView()
+        YearsView(genre: "fantasy")
     }
 }

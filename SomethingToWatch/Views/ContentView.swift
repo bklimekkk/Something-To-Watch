@@ -28,7 +28,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List(genres) { genre in
-                NavigationLink(destination: YearsView()) {
+                NavigationLink(destination: YearsView(genre: genre.name)) {
                         Text(genre.name)
                             .font(.system(size:30))
                             .frame(height: 60)
