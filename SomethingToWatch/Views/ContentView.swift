@@ -34,7 +34,7 @@ struct ContentView: View {
                             .frame(height: 60)
                     }
                     }
-            .navigationTitle("Choose your perfect film")
+            .navigationTitle("Choose your genre")
             
             
         }

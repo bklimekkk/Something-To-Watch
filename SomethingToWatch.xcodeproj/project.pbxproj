@@ -26,6 +26,8 @@
 		86C5B8EC27A8000100EA6C1A /* criminal.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8EB27A8000100EA6C1A /* criminal.json */; };
 		86C5B8EE27A8003C00EA6C1A /* avant-garde.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8ED27A8003C00EA6C1A /* avant-garde.json */; };
 		86C5B8F027A8008600EA6C1A /* animated.json in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B8EF27A8008600EA6C1A /* animated.json */; };
+		86C5B8F727AACD3E00EA6C1A /* LengthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C5B8F627AACD3E00EA6C1A /* LengthView.swift */; };
+		86C5B8F927AAE46800EA6C1A /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C5B8F827AAE46800EA6C1A /* ResultView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +73,8 @@
 		86C5B8EB27A8000100EA6C1A /* criminal.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = criminal.json; sourceTree = "<group>"; };
 		86C5B8ED27A8003C00EA6C1A /* avant-garde.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "avant-garde.json"; sourceTree = "<group>"; };
 		86C5B8EF27A8008600EA6C1A /* animated.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = animated.json; sourceTree = "<group>"; };
+		86C5B8F627AACD3E00EA6C1A /* LengthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthView.swift; sourceTree = "<group>"; };
+		86C5B8F827AAE46800EA6C1A /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +187,8 @@
 			children = (
 				0447F573273EC4A100E8B08E /* ContentView.swift */,
 				86C5B8D827A727F500EA6C1A /* YearsView.swift */,
+				86C5B8F627AACD3E00EA6C1A /* LengthView.swift */,
+				86C5B8F827AAE46800EA6C1A /* ResultView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -343,8 +349,10 @@
 			files = (
 				0447F570273EC4A100E8B08E /* AppDelegate.swift in Sources */,
 				0447F572273EC4A100E8B08E /* SceneDelegate.swift in Sources */,
+				86C5B8F727AACD3E00EA6C1A /* LengthView.swift in Sources */,
 				0447F574273EC4A100E8B08E /* ContentView.swift in Sources */,
 				86C5B8D927A727F500EA6C1A /* YearsView.swift in Sources */,
+				86C5B8F927AAE46800EA6C1A /* ResultView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

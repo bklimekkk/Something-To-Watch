@@ -10,7 +10,7 @@ import SwiftUI
 struct FilmsData: Codable {
     var films: [Films]
 }
-struct Films: Codable {
+struct Films: Codable, Identifiable {
     let id: Int
     let title: String
     let year: Int
@@ -20,13 +20,21 @@ struct YearsView: View {
     var genre: String
     @State private var filmData: FilmsData!
     @State private var films: [Films] = []
+    @State private var timeSlot: [String:Int] = [:]
    
     var body: some View {
         VStack {
-            List(films, id: \.id) { film in
-                Text(film.title)
+            List{
+                ForEach(timeSlot.sorted(by:>), id: \.key) { key, value in
+                    NavigationLink(destination: LengthView(films: films, minYear: value, maxYear: value + 9)) {
+                        Text(key)
+                            .frame(height: 40)
+                    }
+                }
             }
+            .navigationTitle("Choose time slot")
             .task{await loadFilmsFromGenre(genre: genre)}
+          
         }
     }
     
@@ -41,13 +49,21 @@ struct YearsView: View {
             if let loadedFilms = try? filmsDecoder.decode(FilmsData.self, from: filmsData) {
                 filmData = loadedFilms
                 films = filmData.films
-                print(films[0].year)
-//                print(films[films.capacity - 1].year)
+               timeSlot = getTimeSlots(firstFilmYear: films[0].year)
             }
         }
     }
 }
 
+func getTimeSlots(firstFilmYear: Int) -> [String:Int] {
+    var timeSlotsArray: [String:Int] = [:]
+    var timeSlotInt = firstFilmYear - firstFilmYear%10
+    while(timeSlotInt <= 2020) {
+        timeSlotsArray["\(timeSlotInt)s"] = timeSlotInt
+        timeSlotInt = timeSlotInt + 10
+    }
+    return timeSlotsArray
+}
 
 
 struct YearsView_Previews: PreviewProvider {
