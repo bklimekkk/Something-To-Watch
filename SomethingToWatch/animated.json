@@ -1,16 +1,6 @@
 {
 "films" : [
   {
-    "title": "El Apóstol (The Apostle)",
-    "year": 1917,
-    "id": 1
-  },
-  {
-    "title": "Sin dejar rastros (Without a Trace)",
-    "year": 1918,
-    "id": 2
-  },
-  {
     "title": "The Adventures of Prince Achmed  Die Abenteuer des Prinzen Achmed",
     "year": 1926,
     "id": 3

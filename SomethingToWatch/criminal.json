@@ -1,41 +1,6 @@
 {
 "films" : [
   {
-    "title": "The Arrest of a Pickpocket",
-    "year": 1895,
-    "id": 1
-  },
-  {
-    "title": "Sherlock Holmes Baffled",
-    "year": 1900,
-    "id": 2
-  },
-  {
-    "title": "Bluebeard",
-    "year": 1902,
-    "id": 3
-  },
-  {
-    "title": "The Musketeers of Pig Alley",
-    "year": 1912,
-    "id": 4
-  },
-  {
-    "title": "Fantômas",
-    "year": 1913,
-    "id": 5
-  },
-  {
-    "title": "Traffic in Souls",
-    "year": 1913,
-    "id": 6
-  },
-  {
-    "title": "Les Vampires",
-    "year": 1915,
-    "id": 7
-  },
-  {
     "title": "The Penalty",
     "year": 1920,
     "id": 8

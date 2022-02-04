@@ -9,75 +9,88 @@ import SwiftUI
 
 struct FilmDetails: Codable {
     let Poster: String
+    let Title: String
 }
 
 struct ResultView: View {
     @State var filmIndex: Int = 0
-    @State var films: [Films]
+    var films: [Films]
     @State private var posterString: String = ""
+    @State private var titleString: String = ""
     var body: some View {
-    
-            VStack {
+        ZStack {
+            Color(UIColor(named:"posterBackground")!)
+             .ignoresSafeArea()
+            ScrollView {
                 AsyncImage(url: URL(string: posterString)) { image in
                     image
                         .resizable()
                         .aspectRatio(contentMode: .fit)
-                        .frame(maxWidth: 400, alignment: .center)
+                        .frame(width: 340,  alignment: .center)
                 } placeholder: {
-                    ProgressView()
+                    ZStack {
+                        Color(UIColor(named:"posterBackground")!)
+                        ProgressView()
+                    }
                 }
                 .clipShape(RoundedRectangle(cornerRadius: 25))
-            
-            
-            .navigationTitle(films[filmIndex].title)
-//        List(films) { film in
-//            HStack {
-//                Text(film.title)
-//                Spacer()
-//                Text(String(film.year))
-//            }
-//        }
-//        .task{
-//            for film in films {
-//                print("\(film.title), \(film.year)")
-//            }
-//        }
+                Text("Tap poster to see details")
+                    .font(.system(size:20))
+                    .foregroundColor(Color.gray)
+
+                
+                Button("Next film") {
+                    Task {
+                    await getFilm()
+                    }
+                }
+                .padding()
+                .foregroundColor(Color.white)
+                .background(Color.blue)
+                .foregroundColor(Color(UIColor(named:"nextButton")!))
+                .font(.system(size:20))
+                .clipShape(Capsule())
+                Spacer()
             }
+            .navigationTitle(titleString)
             .task {
-                filmIndex = returnRandomNumber(capacity: films.capacity)
-                await loadFilmData()
+                await getFilm()
             }
-            .offset(y:-80)
+        }
     }
 
-func returnRandomNumber(capacity: Int) -> Int {
-    return Int.random(in: 1...capacity - 1)
+func returnRandomNumber(count: Int) -> Int {
+    return Int.random(in: 0...(count - 1))
 }
  
-    func loadFilmData() async {
-        let urlString = "https://omdbapi.com/?t=\(prepareTitle(title: films[filmIndex].title))&apikey=220ff956"
+    func loadFilmData(title: String) async {
+        let urlString = "https://omdbapi.com/?t=\(title)&apikey=220ff956"
         
-        print("fuck: \(urlString)")
-        
-        guard let url = URL(string: urlString) else {
-            
-            return
-        }
-        
-        do {
-            let(data, _) = try await URLSession.shared.data(from: url)
-            if let decodedFilm = try? JSONDecoder().decode(FilmDetails.self, from: data) {
-                posterString = decodedFilm.Poster
+        print(urlString)
+        if let url = URL(string: urlString) {
+            do {
+                let(data, _) = try await URLSession.shared.data(from: url)
+                if let decodedFilm = try? JSONDecoder().decode(FilmDetails.self, from: data) {
+                    posterString = decodedFilm.Poster
+                    titleString = decodedFilm.Title
+                }
+            } catch {
+                print("Invalid data")
             }
-        } catch {
-            print("Invalid data")
+        } else {
+            print("Invalid url")
+            await getFilm()
         }
     }
 
-
+    func getFilm() async {
+        filmIndex = returnRandomNumber(count: films.count)
+        await loadFilmData(title: films[filmIndex].title)
+    }
     func prepareTitle(title: String) -> String{
         return title.replacingOccurrences(of: " ", with: "%20")
     }
+    
 struct ResultView_Previews: PreviewProvider {
     static var previews: some View {
         ResultView(films: [])

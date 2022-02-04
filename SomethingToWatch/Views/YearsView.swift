@@ -28,7 +28,8 @@ struct YearsView: View {
                 ForEach(timeSlot.sorted(by:>), id: \.key) { key, value in
                     NavigationLink(destination: LengthView(films: films, minYear: value, maxYear: value + 9)) {
                         Text(key)
-                            .frame(height: 40)
+                            .font(.system(size:20))
+                            .frame(height: 50)
                     }
                 }
             }
@@ -49,18 +50,21 @@ struct YearsView: View {
             if let loadedFilms = try? filmsDecoder.decode(FilmsData.self, from: filmsData) {
                 filmData = loadedFilms
                 films = filmData.films
-               timeSlot = getTimeSlots(firstFilmYear: films[0].year)
+                timeSlot = getTimeSlots(films: films)
             }
         }
     }
 }
 
-func getTimeSlots(firstFilmYear: Int) -> [String:Int] {
+func getTimeSlots(films: [Films]) -> [String:Int] {
     var timeSlotsArray: [String:Int] = [:]
-    var timeSlotInt = firstFilmYear - firstFilmYear%10
-    while(timeSlotInt <= 2020) {
+    var timeSlotInt = films[0].year - films[0].year%10
+    while(timeSlotInt <= 2010) {
         timeSlotsArray["\(timeSlotInt)s"] = timeSlotInt
         timeSlotInt = timeSlotInt + 10
+    }
+    if(films[films.count - 1].year >= 2020) {
+        timeSlotsArray["2020s"] = 2020
     }
     return timeSlotsArray
 }

@@ -19,9 +19,7 @@ struct LengthView: View {
         Length(id: 3, length: 160),
         Length(id: 4, length: 140),
         Length(id: 5, length: 120),
-        Length(id: 6, length: 100),
-        Length(id: 7, length: 80),
-        Length(id: 8, length: 60)
+        Length(id: 6, length: 140)
     ]
     @State var filmsFromTimeSlot: [Films] = []
     var minYear: Int
@@ -31,8 +29,9 @@ struct LengthView: View {
         List(lengthsList) { length in
             NavigationLink(destination: ResultView(films: getShuffledFilmsFromTimeSlot(films: films, minYear: minYear, maxYear: maxYear))) {
                 Text("\(length.length/60) \(returnHours(filmDuration:length.length))\(returnMinutes(filmDuration: length.length))")
-                    .frame(height: 75)
                     .font(.system(size:20))
+                    .frame(height: 50)
+                   
             }
           
         }
