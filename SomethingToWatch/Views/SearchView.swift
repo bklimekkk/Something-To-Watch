@@ -23,23 +23,23 @@ struct SearchView: View {
     
     var body: some View {
         VStack {
-           
+            
             List {
-            ForEach(searchFilms, id: \.self) { film in
-                NavigationLink(destination: ResultView(initialTitle: removeSpaces(title: film.title), films: films)) {
-                Text(film.title)
+                ForEach(searchFilms, id: \.self) { film in
+                    NavigationLink(destination: ResultView(initialTitle: removeSpaces(title: film.title), films: films)) {
+                        Text(film.title)
+                    }
                 }
-             }
             }
             .searchable(text: $searchText)
             .task {
-               await getGenreFilms(genre: genre)
+                await getGenreFilms(genre: genre)
             }
         }
         .navigationTitle("Search movies")
     }
     
-  
+    
     func getGenreFilms(genre: String) async {
         guard let url = Bundle.main.url(forResource: genre, withExtension: "json") else {
             print("Invalid path")

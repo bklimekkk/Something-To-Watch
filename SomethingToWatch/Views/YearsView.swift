@@ -23,19 +23,12 @@ struct YearsView: View {
     @State private var filmData: FilmsData!
     @State private var films: [Films] = []
     @State private var timeSlot: [String:Int] = [:]
-   
+    
     
     var body: some View {
         VStack {
             NavigationLink(destination: SearchView(genre:genre)) {
-            ZStack {
-                RoundedRectangle(cornerRadius: 10)
-                    .padding()
-                    .frame(height: 100)
-                    .foregroundColor(Color.blue)
-                Text("Search movies")
-                    .foregroundColor(Color.white)
-              }
+                SearchMoviesButton()
             }
             List{
                 ForEach(timeSlot.sorted(by:>), id: \.key) {key, value in
@@ -51,7 +44,7 @@ struct YearsView: View {
                 await loadFilmsFromGenre(genre: genre)
                 randomNumber = Int.random(in: 0...films.count - 1)
             }
-          
+            
         }
     }
     
@@ -93,6 +86,19 @@ func getShuffledFilmsFromTimeSlot(films: [Films], minYear: Int, maxYear: Int) ->
         }
     }
     return filmsFromTimeSlot.shuffled()
+}
+
+struct SearchMoviesButton: View {
+    var body: some View {
+        ZStack {
+            RoundedRectangle(cornerRadius: 10)
+                .padding()
+                .frame(height: 100)
+                .foregroundColor(Color.blue)
+            Text("Search movies")
+                .foregroundColor(Color.white)
+        }
+    }
 }
 
 

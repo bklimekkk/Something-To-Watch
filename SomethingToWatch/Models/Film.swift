@@ -14,6 +14,6 @@ struct Film {
     var rating: String
     var year: String
     var director: String
-    var country: String
+    var actors: String
     var boxOffice: String
 }

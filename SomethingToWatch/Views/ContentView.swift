@@ -29,17 +29,13 @@ struct ContentView: View {
         NavigationView {
             List(genres) { genre in
                 NavigationLink(destination: YearsView(genre: genre.name)) {
-                        Text(genre.name)
-                            .font(.system(size:20))
-                            .frame(height: 60)
-                    }
-                    }
+                    Text(genre.name)
+                        .font(.system(size:20))
+                        .frame(height: 60)
+                }
+            }
             .navigationTitle("Choose your genre")
-            
-            
         }
-      
-      
     }
 }
 

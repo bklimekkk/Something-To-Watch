@@ -15,7 +15,7 @@ struct FilmDetails: Codable {
     let imdbRating: String
     let Year: String
     let Director: String
-    let Country: String
+    let Actors: String
     let BoxOffice: String
 }
 
@@ -24,218 +24,40 @@ struct ResultView: View {
     @State var filmIndex: Int = 0
     var films: [Films]
     @State private var skippedFilms: [String] = []
-    @State private var film: Film = Film(title: "", poster: "", plot: "", runtime: "", rating: "", year: "", director: "", country: "", boxOffice: "")
+    @State private var film: Film = Film(title: "", poster: "", plot: "", runtime: "", rating: "0.0", year: "", director: "", actors: "", boxOffice: "")
     var body: some View {
         ZStack {
             Color(UIColor(named:"posterBackground")!)
-             .ignoresSafeArea()
+                .ignoresSafeArea()
             VStack {
                 
                 ScrollView(.horizontal, showsIndicators: false) {
                     HStack {
                         Spacer()
                         Spacer()
-                        AsyncImage(url: URL(string: film.poster)) { image in
-                            image
-                                .resizable()
-                                .aspectRatio(contentMode: .fit)
-                                .frame(height: 440,  alignment: .center)
-                        } placeholder: {
-                            ZStack {
-                                Rectangle()
-                                    .frame(width:295, height:440)
-                                    .foregroundColor( Color(UIColor(named:"posterBackground")!))
-                                ProgressView()
-                            }
-                        }
-                        .clipShape(RoundedRectangle(cornerRadius: 25))
-                        VStack (spacing: 16) {
-                            VStack(spacing: 5.0) {
-                                Text("PLOT")
-                                    .foregroundColor(Color.gray)
-                            ZStack {
-                                RoundedRectangle(cornerRadius: 25)
-                                    .frame(width:300, height: 90)
-                                    .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                            
-                                    ScrollView(showsIndicators: false) {
-                                    Text(film.plot)
-                                            .frame(width:270)
-                                    }
-                                    .frame(height: 70)
-                                
-                                
-                            }
-                        }
-                            
-                            
-                            
-                            VStack(spacing: 5.0) {
-                                Text("DIRECTOR")
-                                    .foregroundColor(Color.gray)
-                            ZStack {
-                                RoundedRectangle(cornerRadius: 25)
-                                    .frame(width:300, height: 40)
-                                    .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                            
-                                ScrollView(showsIndicators: false) {
-                                    Text(film.director)
-                                       .frame(width:270)
-                                }
-                                .frame(height: 30)
-                                .offset(y:5)
-                                
-                                
-                            }
-                        }
-                            
-                            
-                            VStack(spacing: 5.0) {
-                                Text("COUNTRY")
-                                    .foregroundColor(Color.gray)
-                            ZStack {
-                                RoundedRectangle(cornerRadius: 25)
-                                    .frame(width:300, height: 40)
-                                    .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                            
-                                ScrollView(showsIndicators: false) {
-                                    Text(film.country)
-                                        .frame(width:270)
-                                }
-                                .frame(height:30)
-                                .offset(y:5)
-                                
-                                
-                                
-                            }
-                        }
-                            
-                            
-                            
-                            VStack(spacing: 5.0) {
-                                Text("BOX OFFICE")
-                                    .foregroundColor(Color.gray)
-                            ZStack {
-                                RoundedRectangle(cornerRadius: 25)
-                                    .frame(width:300, height: 40)
-                                    .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                            
-                                  
-                                    Text(film.boxOffice)
-                                         
-                                
-                                
-                                
-                            }
-                        }
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
+                        Poster(poster: film.poster)
+                        VStack (spacing: 14) {
+                            Widget(title: "PLOT", text: film.plot, width: 300, height: 101, scrollHight: 90, textWidth: 270)
+                            Widget(title: "DIRECTOR", text: film.director, width: 300, height: 40, scrollHight: 32, textWidth: 270)
+                            Widget(title: "ACTORS", text: film.actors, width: 300, height: 40, scrollHight: 32, textWidth: 270)
+                            Widget(title: "BOX OFFICE", text: film.boxOffice, width: 300, height: 40, scrollHight: 32, textWidth: 270)
                             
                             
                             HStack(spacing: 13.0) {
-                                
-                                VStack(spacing: 5.0) {
-                                    Text("IMDB")
-                                        .foregroundColor(Color.gray)
-                                ZStack {
-                                    RoundedRectangle(cornerRadius: 25)
-                                        .frame(width:90, height: 40)
-                                        .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                                
-                                       
-                                        Text(film.rating)
-                                    
-                                   
-                                    
-                                    
-                                }
+                                Widget(title: "IMDB", text: film.rating, width: 90, height: 40, scrollHight: 32, textWidth: 70)
+                                Widget(title: "DURATION", text: film.runtime, width: 90, height: 40, scrollHight: 32, textWidth: 70)
+                                Widget(title: "YEAR", text: film.year, width: 90, height: 40, scrollHight: 32, textWidth: 70)
                             }
-                                
-                               
-                                VStack(spacing: 5.0) {
-                                    Text("DURATION")
-                                        .foregroundColor(Color.gray)
-                                ZStack {
-                                    RoundedRectangle(cornerRadius: 25)
-                                        .frame(width:90, height: 40)
-                                        .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                                
-                                       
-                                        Text(film.runtime)
-                                                
-                                        
-                                     
-                                    
-                                    
-                                }
-                            }
-                                
-                                
-                                
-                                
-                                
-                                VStack(spacing: 5.0) {
-                                    Text("YEAR")
-                                        .foregroundColor(Color.gray)
-                                ZStack {
-                                    RoundedRectangle(cornerRadius: 25)
-                                        .frame(width:90, height: 40)
-                                        .foregroundColor(Color(UIColor(named: "widgetColor")!))
-                                
-                                    Text(film.year)
-                                            
-                                     
-                                    
-                                    
-                                }
-                            }
-                                
-                                
-                                
-                            }
-                            
-                            
-                          
-                            
-                            
-                            
-                            
-                    
-                            
-                            
-                            }
+                        }
                         .padding()
-                       
                     }
-//                    .offset(x: 20)
-                   
                 }
                 
-        
-                
-                
-                
-                
-            
-
                 Spacer()
+                
                 Button("Next film") {
                     Task {
-                    await getFilm()
+                        await getFilm()
                     }
                 }
                 .padding()
@@ -245,6 +67,7 @@ struct ResultView: View {
                 .font(.system(size:20))
                 .clipShape(Capsule())
                 Spacer()
+                Spacer()
             }
             .navigationTitle(film.title)
             .task {
@@ -253,11 +76,11 @@ struct ResultView: View {
             }
         }
     }
-
-func returnRandomNumber(count: Int) -> Int {
-    return Int.random(in: 0...(count - 1))
-}
- 
+    
+    func returnRandomNumber(count: Int) -> Int {
+        return Int.random(in: 0...(count - 1))
+    }
+    
     func loadFilmData(title: String) async {
         let urlString = "https://omdbapi.com/?t=\(title)&apikey=220ff956"
         
@@ -273,7 +96,7 @@ func returnRandomNumber(count: Int) -> Int {
                     film.rating = decodedFilm.imdbRating
                     film.year = decodedFilm.Year
                     film.director = decodedFilm.Director
-                    film.country = decodedFilm.Country
+                    film.actors = decodedFilm.Actors
                     film.boxOffice = decodedFilm.BoxOffice
                 }
             } catch {
@@ -284,7 +107,7 @@ func returnRandomNumber(count: Int) -> Int {
             await getFilm()
         }
     }
-
+    
     func getFilm() async {
         filmIndex = returnRandomNumber(count: films.count)
         if(!skippedFilms.contains(films[filmIndex].title)) {
@@ -292,9 +115,10 @@ func returnRandomNumber(count: Int) -> Int {
             if(skippedFilms.count == films.count) {
                 skippedFilms = []
             }
-        await loadFilmData(title: films[filmIndex].title)
+            await loadFilmData(title: films[filmIndex].title)
         } else {
             await getFilm()
+
         }
     }
     
@@ -302,10 +126,60 @@ func returnRandomNumber(count: Int) -> Int {
         return title.replacingOccurrences(of: " ", with: "%20")
     }
     
-struct ResultView_Previews: PreviewProvider {
-  
-    static var previews: some View {
-        ResultView(initialTitle:"Up", films: [])
+    struct Widget: View {
+        var title: String
+        var text: String
+        var width: CGFloat
+        var height: CGFloat
+        var scrollHight: CGFloat
+        var textWidth: CGFloat
+        var body: some View {
+            VStack(spacing: 5.0) {
+                Text(title)
+                    .foregroundColor(Color.gray)
+                ZStack {
+                    RoundedRectangle(cornerRadius: 25)
+                        .frame(width:width, height: height)
+                        .foregroundColor(Color(UIColor(named: "widgetColor")!))
+                    
+                    ScrollView(showsIndicators: false) {
+                        Text(text)
+                            .frame(width:textWidth)
+//                            .offset(y:5)
+                    }
+                    .offset(y:5)
+                    .frame(height: scrollHight)
+                    
+                    
+                }
+            }
+        }
     }
-  }
+    
+    struct Poster: View {
+        var poster: String
+        var body: some View {
+            AsyncImage(url: URL(string: poster)) { image in
+                image
+                    .resizable()
+                    .aspectRatio(contentMode: .fit)
+                    .frame(height: 440,  alignment: .center)
+            } placeholder: {
+                ZStack {
+                    Rectangle()
+                        .frame(width:295, height:440)
+                        .foregroundColor( Color(UIColor(named:"posterBackground")!))
+                    ProgressView()
+                }
+            }
+            .clipShape(RoundedRectangle(cornerRadius: 25))
+        }
+    }
+    
+    struct ResultView_Previews: PreviewProvider {
+        
+        static var previews: some View {
+            ResultView(initialTitle:"Up", films: [])
+        }
+    }
 }
